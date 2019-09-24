@@ -1,76 +1,77 @@
-ï»¿# Ekilexi kasutusjuhend
+# Ekilexi kasutusjuhend
 
 ### Mis on Ekilex?
 
-Ekilex on Eesti Keele Instituudi sÃµnastiku- ja terminibaasisÃ¼steem. Ekilex asub aadressil [https://ekilex.eki.ee/](https://ekilex.eki.ee/) ja on kÃµigile, kes soovivad oma terminibaasi koostada, tasuta kasutatav.
+Ekilex on Eesti Keele Instituudi sõnastiku- ja terminibaasisüsteem. Ekilex asub aadressil [https://ekilex.eki.ee/](https://ekilex.eki.ee/) ja on kõigile, kes soovivad oma terminibaasi koostada, tasuta kasutatav.
 
-### Kasutajaks registreerumine ja Ãµiguste taotlemine
+### Kasutajaks registreerumine ja õiguste taotlemine
 
-- Ekilexi kasutamiseks tuleb luua endale kasutajakonto. Selleks mine Ekilexi avalehele ja vajuta nuppu "Loo kasutaja". 
-- Avaneb kasutajaks registreerumise vorm. Pead sisestama oma nime, e-posti ja mÃµtlema vÃ¤lja parooli, mille sisestad kaks korda. 
-- Vajuta "Registreeru". 
-- MÃµne sekundi jooksul saadetakse sinu e-posti aadressile kinnituskiri. Kui sa ei leia oma postkastist kirja, vaata ka rÃ¤mpsposti kataloogi vÃµi kasuta otsingut, otsides teemat "Ekilexi kasutaja registreerimine". Oma konto aktiveerimiseks pead klikkima kinnituskirjas sisalduvale aktiveerimislingile.
-- Klikkides lingile avaneb Ekilexi sisselogimisvorm koos teatega "Kasutaja on aktiveeritud, head kasutamist."
-- Sisselogimiseks sisesta oma e-posti aadress ja eelnevalt valitud parool ning vajuta "Sisene".
-- Kui Ãµnnestus sisse logida, avaneb Ãµiguste taotlemise leht, millel on teade: "See on EKI sÃµnastikesÃ¼steem Ekilex. Siin saad esitada taotluse Ekilexi kasutamiseks vaatamisÃµigusega. Kui vaja, vali vastavad sÃµnakogud, millele soovid muutmisÃµigust."
-  - VaatamisÃµiguse taotlemiseks vajuta lihtsalt "Saada taotlus". 
-  - MuutmisÃµiguste taotlemiseks vajuta "Soovin sÃµnakogude muutmisÃµigust" ja vali soovitud sÃµnakogu(d). 
-  - Vajadusel vajuta "Soovin pÃµhjendada taotlust" ja kirjuta lahtrisse pÃµhjendus. 
-  - SeejÃ¤rel vajuta "Saada taotlus".
-- NÃ¼Ã¼d tuleb oodata kuni Ekilexi administraator annab sulle kÃ¼situd Ãµigused. Selle kohta tuleb teade sinu e-postile. PÃ¤rast seda saad hakata Ekilexi kasutama.
+- Ekilexi kasutamiseks tuleb luua endale kasutajakonto. Selleks mine Ekilexi avalehele ja vajuta nuppu „Loo kasutaja“. 
+- Avaneb kasutajaks registreerumise vorm. Pead sisestama oma nime, e-posti ja mõtlema välja parooli, mille sisestad kaks korda. 
+- Vajuta „Registreeru“. 
+- Mõne sekundi jooksul saadetakse sinu e-posti aadressile kinnituskiri. Kui sa ei leia oma postkastist kirja, vaata ka rämpsposti kataloogi või kasuta otsingut, otsides teemat „Ekilexi kasutaja registreerimine“. Oma konto aktiveerimiseks pead klõpsama kinnituskirjas sisalduvale aktiveerimislingile.
+- Lingile klõpsates avaneb Ekilexi sisselogimisvorm koos teatega „Kasutaja on aktiveeritud, head kasutamist“.
+- Sisselogimiseks sisesta oma e-posti aadress ja eelnevalt valitud parool ning vajuta „Sisene“.
+- Kui õnnestus sisse logida, avaneb õiguste taotlemise leht, millel on teade: „See on EKI sõnastikesüsteem Ekilex. Siin saad esitada taotluse Ekilexi kasutamiseks vaatamisõigusega. Kui vaja, vali vastavad sõnakogud, millele soovid muutmisõigust.“
+  - Vaatamisõiguse taotlemiseks vajuta lihtsalt „Saada taotlus“. 
+  - Muutmisõiguste taotlemiseks vajuta „Soovin sõnakogude muutmisõigust“ ja vali soovitud sõnakogu(d). 
+  - Vajaduse korral vajuta „Soovin põhjendada taotlust“ ja kirjuta lahtrisse põhjendus.
+  - Seejärel vajuta „Saada taotlus“.
+- Nüüd tuleb oodata, kuni Ekilexi administraator annab sulle küsitud õigused. Selle kohta tuleb teade sinu e-postile. Pärast seda saad hakata Ekilexi kasutama.
 
-### TÃ¶Ã¶laud
+### Töölaud
 
-PÃ¤rast sisselogimist satub kasutaja tÃ¶Ã¶lauale. TÃ¶Ã¶laual on jÃ¤rgnevad valikud:
+Pärast sisselogimist satub kasutaja töölauale. Töölaual on järgnevad valikud.
 
-- Leksikograafide otsing: SÃµnapÃµhine vaade sÃµnakogudele, mÃµeldud tÃ¶Ã¶ks leksikograafidele
-- Terminoloogide otsing: MÃµistepÃµhine vaade sÃµnakogudele, mÃµeldud tÃ¶Ã¶ks terminoloogidele
-- Allikate otsing: Allikate otsing, lisamine, muutmine, kustutamine
-- SÃµnakogude haldus: KÃµigi Ekilexis leiduvate sÃµnakogude loend ja lisamine, muutmine, kustutamine
-- SÃµnaveebi tagasiside: VÃµimalus lugeda SÃµnaveeb.ee saidile jÃ¤etud tagasisidet
+- Leksikograafide otsing: sõnapõhine vaade sõnakogudele, mõeldud tööks leksikograafidele
+- Terminoloogide otsing: mõistepõhine vaade sõnakogudele, mõeldud tööks terminoloogidele
+- Allikate otsing: allikate otsing, lisamine, muutmine, kustutamine
+- Sõnakogude haldus: kõigi Ekilexis leiduvate sõnakogude loend ja lisamine, muutmine, kustutamine
+- Sõnaveebi tagasiside: võimalus lugeda Sõnaveeb.ee saidile jäetud tagasisidet
 
-TerminitÃ¶Ã¶ks soovitame kasutada Terminoloogide otsingut ehk terminoloogi vaadet.
+Terminitööks soovitame kasutada terminoloogide otsingut ehk terminoloogi vaadet.
 
 ### Terminite otsing
 
-- Vajuta tÃ¶Ã¶laual "Terminoloogide otsing".
-- Avaneb terminoloogi vaade. Vajuta nuppu "Valitud sÃµnakogusid: 0". Vali linnukestega sÃµnakogud, millest soovid otsida ning vajuta "Vali".
-- Sisesta otsisÃµna. Kasutada vÃµib metamÃ¤rke: 
-  - ? = 1 suvaline tÃ¤hemÃ¤rk
-  - \* = 0 vÃµi rohkem suvalisi tÃ¤hemÃ¤rke
-- Vajuta "Otsi"
+- Vajuta töölaual „Terminoloogide otsing“.
+- Avaneb terminoloogi vaade. Vajuta nuppu „Valitud sõnakogusid: 0“. Vali linnukestega sõnakogud, millest soovid otsida, ja vajuta „Vali“.
+- Sisesta otsisõna. Kasutada võib metamärke: 
+  - ? = 1 suvaline tähemärk;
+  - \* = 0 või rohkem suvalisi tähemärke.
+- Vajuta „Otsi“.
 
-### Uue sÃµnakogu loomine
+### Uue sõnakogu loomine
 
-Ava tÃ¶Ã¶laual link "SÃµnakogude haldus". Avaneb leht, millel on sÃµnakogude nimistu. Vajuta Ã¼leval paremal nuppu "Lisa uus". Avaneb uue sÃµnakogu loomise vorm.
-- SÃµnakogu kood: VÃµimalikult lÃ¼hike (3-10 mÃ¤rki) tÃ¤hekombinatsioon, millest saab loodava sÃµnakogu identifikaator (lÃ¼hitÃ¤his)
-- Nimi: sÃµnakogu nimi
-- TÃ¼Ã¼p: kui lood terminibaasi, vali "terminibaas", muul juhul "sÃµnakogu"
-- Kirjeldus: sÃµnakogu lÃ¼hikirjeldus
-- Valdkonna klassifikaatori pÃ¤ritolu: vali andmekogu, millest valdkonnad pÃ¤rinevad. See vÃµib olla mÃµni olemasolev sÃµnakogu vÃµi iseseisev valdkonna klassifikaator (nt lenoch, EKI Ã¼ld)
-- Valdkonnad: Siin on loetelu eelnevalt valitud klassifikaatori kÃµikidest valdkondadest. Vali loetelust valdkonnad, mida soovid kasutada. VÃµib valida Ã¼kshaaval vÃµi vajutada "Vali kÃµik".
-- Keeled: vali keeled mida soovid kasutada oma sÃµnakogus
-- Protsessiolekud: (aka haldusolekud). Vali protsessi olekud, mida soovid kasutada oma sÃµnakogus
-- NÃ¤htav: Ekilexis on sÃµnakogu infot vÃµimalik otsinguga leida
-- Avalik: sÃµnakogu on avalikustatud ja nÃ¤htav lÃµppkasutajale terminiveebis vÃµi sÃµnaveebis
-- Kui vorm on tÃ¤idetud, vajuta "Salvesta"
+Ava töölaual link „Sõnakogude haldus“. Avaneb leht, millel on sõnakogude nimistu. Vajuta üleval paremal nuppu „Lisa uus“. Avaneb uue sõnakogu loomise vorm.
+- Sõnakogu kood: võimalikult lühike (3-10 märki) tähekombinatsioon, millest saab loodava sõnakogu identifikaator (lühitähis)
+- Nimi: sõnakogu nimi
+- Tüüp: kui lood terminibaasi, vali „terminibaas“, muul juhul „sõnakogu“
+- Kirjeldus: sõnakogu lühikirjeldus
+- Valdkonna klassifikaatori päritolu: vali andmekogu, millest valdkonnad pärinevad. See võib olla mõni olemasolev sõnakogu või iseseisev valdkonna klassifikaator (nt lenoch, EKI üld)
+- Valdkonnad: Siin on loetelu eelnevalt valitud klassifikaatori kõikidest valdkondadest. Vali loetelust valdkonnad, mida soovid kasutada. Võib valida ükshaaval või vajutada „Vali kõik“.
+- Keeled: vali keeled mida soovid kasutada oma sõnakogus
+- Protsessiolekud: (ehk haldusolekud). Vali protsessiolekud, mida soovid oma sõnakogus kasutada
+- Nähtav: Ekilexis on sõnakogu infot võimalik otsinguga leida
+- Avalik: sõnakogu on avalikustatud ja nähtav lõppkasutajale terminiveebis või sõnaveebis
+- Kui vorm on täidetud, vajuta „Salvesta“
 
-SÃµnakogu on nÃ¼Ã¼d loodud ja ilmub sÃµnakogude nimistusse.
+Sõnakogu on nüüd loodud ja ilmub sõnakogude nimistusse.
 
-### TÃ¶Ã¶ sÃµnakoguga
+### Töö sõnakoguga
 
-#### Uue termini ja mÃµiste loomine
-- Mine tÃ¶Ã¶lauale, klikkides vasakul Ã¼lal Ekilexi logol
-- Veendu, et valitud on soovitud sÃµnakogu muutja roll. 
-- Ava tÃ¶Ã¶laual link "Terminoloogide otsing"
-- Vajuta navigeerimisribal "Uus termin ja mÃµiste". Avaneb uue keelendi sisestusvorm.
+#### Uue termini ja mõiste loomine
+
+- Mine töölauale, klõpsates vasakul ülal Ekilexi logol
+- Veendu, et valitud on soovitud sõnakogu muutja roll. 
+- Ava töölaual link „Terminoloogide otsing“
+- Vajuta navigeerimisribal „Uus termin ja mõiste“. Avaneb uue keelendi sisestusvorm.
   - sisesta keelend (ehk termin)
-  - selle all on kuvatud sÃµnakogu nimi, millesse termin lisatakse
-  - vali rippmenÃ¼Ã¼st keel
-  - vali rippmenÃ¼Ã¼st sÃµnavorm
-  - vajuta "Lisa"
-- Kui sisestatud termin ei esine Ã¼heski olemasolevas sÃµnakogus, siis luuakse uus termin ja mÃµiste ning kuvatakse loodud mÃµistekirje terminoloogi otsingu vaates.
-- Kui sisestatud termin juba esineb Ekilexis, siis pakutakse vÃµimalust valida, kas soovid kasutada olemasolevat terminit (mille kÃ¼lge luuakse uus mÃµiste) vÃµi soovid luua uue samakujulise termini ehk homonÃ¼Ã¼mi (koos uue mÃµistega). Viimasel juhul vajuta "Lisa uus homonÃ¼Ã¼m", misjÃ¤rel luuakse uus termin ja mÃµiste ning kuvatakse otsingu tulemused, mille hulgas on ka Ã¤sja loodud termin. Kui tulemusi on palju, pead enda loodud mÃµistekirje ise nende hulgast Ã¼les otsima (see ebamugavus paraneb tulevikus).
+  - selle all on kuvatud sõnakogu nimi, millesse termin lisatakse
+  - vali rippmenüüst keel
+  - vali rippmenüüst sõnavorm
+  - vajuta „Lisa“
+- Kui sisestatud termin ei esine üheski olemasolevas sõnakogus, siis luuakse uus termin ja mõiste ning kuvatakse loodud mõistekirje terminoloogi otsingu vaates.
+- Kui sisestatud termin juba esineb Ekilexis, siis pakutakse võimalust valida, kas soovid kasutada olemasolevat terminit (mille külge luuakse uus mõiste) või soovid luua uue samakujulise termini ehk homonüümi (koos uue mõistega). Viimasel juhul vajuta „Lisa uus homonüüm“, misjärel luuakse uus termin ja mõiste ning kuvatakse otsingu tulemused, mille hulgas on ka äsja loodud termin. Kui tulemusi on palju, pead enda loodud mõistekirje ise nende hulgast üles otsima (see ebamugavus paraneb tulevikus).
 
 
 [Hakka pihta!](https://ekilex.eki.ee/)
