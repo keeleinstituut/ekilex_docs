@@ -1,9 +1,11 @@
-# Ekilexi kasutusjuhend
+﻿# Ekilexi kasutusjuhend
 
 ### Mis on Ekilex?
+
 Ekilex on Eesti Keele Instituudi sõnastiku- ja terminibaasisüsteem. Ekilex asub aadressil [https://ekilex.eki.ee/](https://ekilex.eki.ee/) ja on kõigile, kes soovivad oma terminibaasi koostada, tasuta kasutatav.
 
 ### Kasutajaks registreerumine ja õiguste taotlemine
+
 - Ekilexi kasutamiseks tuleb luua endale kasutajakonto. Selleks mine Ekilexi avalehele ja vajuta nuppu "Loo kasutaja". 
 - Avaneb kasutajaks registreerumise vorm. Pead sisestama oma nime, e-posti ja mõtlema välja parooli, mille sisestad kaks korda. 
 - Vajuta "Registreeru". 
@@ -18,6 +20,7 @@ Ekilex on Eesti Keele Instituudi sõnastiku- ja terminibaasisüsteem. Ekilex asu
 - Nüüd tuleb oodata kuni Ekilexi administraator annab sulle küsitud õigused. Selle kohta tuleb teade sinu e-postile. Pärast seda saad hakata Ekilexi kasutama.
 
 ### Töölaud
+
 Pärast sisselogimist satub kasutaja töölauale. Töölaual on järgnevad valikud:
 
 - Leksikograafide otsing: Sõnapõhine vaade sõnakogudele, mõeldud tööks leksikograafidele
@@ -38,17 +41,18 @@ Terminitööks soovitame kasutada Terminoloogide otsingut ehk terminoloogi vaade
 - Vajuta "Otsi"
 
 ### Uue sõnakogu loomine
+
 Ava töölaual link "Sõnakogude haldus". Avaneb leht, millel on sõnakogude nimistu. Vajuta üleval paremal nuppu "Lisa uus". Avaneb uue sõnakogu loomise vorm.
 - Sõnakogu kood: Võimalikult lühike (3-10 märki) tähekombinatsioon, millest saab loodava sõnakogu identifikaator (lühitähis)
-- Nimi: Sõnakogu nimi
-- Tüüp: Kui lood terminibaasi vali "terminibaas", muul juhul "sõnakogu"
-- Kirjeldus: Sõnakogu lühikirjeldus
-- Valdkonna klassifikaatori päritolu: Vali andmekogu, millest valdkonnad pärinevad. See võib olla mõni olemasolev sõnakogu või iseseisev valdkonna klassifikaator (nt lenoch, EKI üld)
+- Nimi: sõnakogu nimi
+- Tüüp: kui lood terminibaasi, vali "terminibaas", muul juhul "sõnakogu"
+- Kirjeldus: sõnakogu lühikirjeldus
+- Valdkonna klassifikaatori päritolu: vali andmekogu, millest valdkonnad pärinevad. See võib olla mõni olemasolev sõnakogu või iseseisev valdkonna klassifikaator (nt lenoch, EKI üld)
 - Valdkonnad: Siin on loetelu eelnevalt valitud klassifikaatori kõikidest valdkondadest. Vali loetelust valdkonnad, mida soovid kasutada. Võib valida ükshaaval või vajutada "Vali kõik".
-- Keeled: Vali keeled mida soovid kasutada oma sõnakogus
+- Keeled: vali keeled mida soovid kasutada oma sõnakogus
 - Protsessiolekud: (aka haldusolekud). Vali protsessi olekud, mida soovid kasutada oma sõnakogus
 - Nähtav: Ekilexis on sõnakogu infot võimalik otsinguga leida
-- Avalik: Sõnakogu on avalikustatud ja nähtav lõppkasutajale terminiveebis või sõnaveebis
+- Avalik: sõnakogu on avalikustatud ja nähtav lõppkasutajale terminiveebis või sõnaveebis
 - Kui vorm on täidetud, vajuta "Salvesta"
 
 Sõnakogu on nüüd loodud ja ilmub sõnakogude nimistusse.
