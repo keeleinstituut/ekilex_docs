@@ -34,7 +34,7 @@ Terminitööks soovitame kasutada Terminoloogide otsingut ehk terminoloogi vaade
 - Avaneb terminoloogi vaade. Vajuta nuppu "Valitud sõnakogusid: 0". Vali linnukestega sõnakogud, millest soovid otsida ning vajuta "Vali".
 - Sisesta otsisõna. Kasutada võib metamärke: 
   - ? = 1 suvaline tähemärk
-  - * = 0 või rohkem suvalisi tähemärke
+  - \* = 0 või rohkem suvalisi tähemärke
 - Vajuta "Otsi"
 
 ### Uue sõnakogu loomine
