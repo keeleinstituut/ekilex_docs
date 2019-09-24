@@ -69,7 +69,7 @@ Sõnakogu on nüüd loodud ja ilmub sõnakogude nimistusse.
   - vali rippmenüüst keel
   - vali rippmenüüst sõnavorm
   - vajuta "Lisa"
-- Kui sisestatud termin ei esine üheski olemasolevas sõnakogus, siis luuakse uus termin ja mõiste ning kuvatakse loodud termin terminoloogi otsingu vaates.
+- Kui sisestatud termin ei esine üheski olemasolevas sõnakogus, siis luuakse uus termin ja mõiste ning kuvatakse loodud mõistekirje terminoloogi otsingu vaates.
 - Kui sisestatud termin juba esineb Ekilexis, siis pakutakse võimalust valida, kas soovid kasutada olemasolevat terminit (mille külge luuakse uus mõiste) või soovid luua uue samakujulise termini ehk homonüümi (koos uue mõistega). Viimasel juhul vajuta "Lisa uus homonüüm", misjärel luuakse uus termin ja mõiste ning kuvatakse otsingu tulemused, mille hulgas on ka äsja loodud termin. Kui tulemusi on palju, pead enda loodud mõistekirje ise nende hulgast üles otsima (see ebamugavus paraneb tulevikus).
 
 
