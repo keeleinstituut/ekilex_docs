@@ -77,7 +77,7 @@ Sõnakogu on nüüd loodud ja ilmub sõnakogude nimistusse.
 
 [Hakka pihta!](https://ekilex.eki.ee/)
 
-Küsimuste korral kirjuta [kasutajatugi@ekilex.ee]!
+Küsimuste korral kirjuta [kasutajatugi@ekilex.ee](mailto:kasutajatugi@ekilex.ee)!
 
 
 Süsteemi alles arendatakse, mistõttu juhend täieneb.
