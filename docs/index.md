@@ -82,19 +82,19 @@ Allikakirjeid saab lisada lehelt Allikate otsing -> Lisa uus allikas.
 Allika nimetus (allika nimi, SOURCE_NAME) on kirjaliku allika (näiteks raamatu) puhul harilikult selle pealkiri, aga selle võib vajadusel ka ise vabalt valida. Allika nimi kuvatakse ka allikaviitena mõiste kirjes.
 Allika tüüp on kirjaliku allika puhul DOCUMENT.
 
-Alumises kastis saab allikale lisada muid informatiivseid välju (atribuute), näiteks vaikimisi on seal valitud autor (SOURCE_AUTHOR). Kui raamatul on mitu autorit, võib iga ühe jaoks luua eraldi välja, aga pole ka probleemi, kui nad pannakse komadega eraldatult samale väljale. Samale väljale pannakse vajadusel ka autori tüüp, nt "koostanud Juhan Juurikas" või "toimetanud J. Tatikas".
-Vajutades rohelisele "+" nupule saab allikale lisada veel uusi välju. Samuti saab allikale välju lisada hiljem, kui allikas on juba loodud.
+Alumises kastis saab allikale lisada muid informatiivseid välju (atribuute), näiteks vaikimisi on seal valitud autor (SOURCE_AUTHOR). Kui raamatul on mitu autorit, võib iga ühe jaoks luua eraldi välja, aga pole ka probleemi, kui nad pannakse komadega eraldatult samale väljale. Samale väljale pannakse vajadusel ka autori tüüp, nt „koostanud Juhan Juurikas“ või „toimetanud J. Tatikas“.
+Vajutades rohelisele „+“ nupule saab allikale lisada veel uusi välju. Samuti saab allikale välju lisada hiljem, kui allikas on juba loodud.
 
-Ühel allikal võib olla ka mitu nime, näiteks pealkiri erinevates keeltes. Nimesid saab juurde lisada nii, nagu ka muid allika välju. Kui allikal on väga pikk nimi ja seda on samas mõistekirjes vaja kasutada mitmes kohas, võib allikale leiutada mingi lühendi ja lisada see lühend ühe nimetusena (nt "WMO"), siis saab mõistekirjes kasutada lühendit ja see ei võta nii palju ruumi ekraanil.
+Ühel allikal võib olla ka mitu nime, näiteks pealkiri erinevates keeltes. Nimesid saab juurde lisada nii, nagu ka muid allika välju (valides välja tüübiks SOURCE_NAME). Kui allikal on väga pikk nimi ja seda on samas mõistekirjes vaja kasutada mitmes kohas, võib allikale leiutada mingi lühendi ja lisada see lühend ühe nimetusena (nt „WMO“), siis saab mõistekirjes kasutada lühendit ja see ei võta nii palju ruumi ekraanil.
 
 #### Allikaviite lisamine mõistekirjes
 
-Kui allikas on loodud, siis saab mõistekirjes tekitada sellele erinevate väljade juures (nagu termin, märkus, definitsioon) viiteid. Terminile saab allikaviite lisada rohelise "+" nupuga, valides "Allikaviide". Definitsioonile saab allika lisada, liikudes hiirega selle kohale. Tekib roheline allikaviite lisamise nupuke.
+Kui allikas on loodud, siis saab mõistekirjes tekitada sellele erinevate väljade juures (nagu termin, märkus, definitsioon) viiteid. Terminile saab allikaviite lisada rohelise „+“ nupuga, valides „Allikaviide“. Definitsioonile saab allika lisada, liikudes hiirega selle kohale. Tekib roheline allikaviite lisamise nupuke.
 Vajutades allikaviite lisamise nupule, avaneb allika otsing. Seal saab otsida kõikide allika atribuutide järgi, kaasa arvatud tema nime (SOURCE_NAME) järgi.
 
-Allika otsimisel on kindlasti abiks tärn (*), sest selle abil saab leida osalisi vasteid. Nt otsides "int*meteo*" leitakse "INTERNATIONAL METEOROLOGICAL VOCABULARY", sest * asendab suvalist arvu märke. Kui nimesid on mitu, nagu selles näites, saab raadionupuga valida selle nime, mida hakatakse kuvama allikaviitena.
+Allika otsimisel on kindlasti abiks tärn „\*“, sest selle abil saab leida osalisi vasteid. Nt otsides "int*meteo*" leitakse "INTERNATIONAL METEOROLOGICAL VOCABULARY", sest * asendab suvalist arvu märke. Kui nimesid on mitu, nagu selles näites, saab raadionupuga valida selle nime, mida hakatakse kuvama allikaviitena.
 
-Lahter 'Siseviide' on selle jaoks, kui peaks olema soov täpsustada asukohta selles allikas, nt "lk 69" ja see kuvatakse allikaviite järel.
+Lahter „Siseviide“ on selle jaoks, kui peaks olema soov täpsustada asukohta selles allikas, nt „lk 69“ ja see kuvatakse allikaviite järel.
 
 
 [Hakka pihta!](https://ekilex.eki.ee/)
