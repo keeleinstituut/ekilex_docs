@@ -37,7 +37,7 @@ Terminitööks soovitame kasutada terminoloogide otsingut ehk terminoloogi vaade
 - Avaneb terminoloogi vaade. Vajuta nuppu „Valitud sõnakogusid: 0“. Vali linnukestega sõnakogud, millest soovid otsida, ja vajuta „Vali“.
 - Sisesta otsisõna. Kasutada võib metamärke: 
   - ? = 1 suvaline tähemärk (nt kui otsid „m?iste“ siis leiad nt „mõiste“, „muiste“);
-  - \* = 0 või rohkem suvalisi tähemärke. (nt kui otsid „*hiir*“, siis leiad nii „arvutihiir“, „hiirehernes“ kui „aedhiirehernes“.)
+  - \* = 0 või rohkem suvalisi tähemärke. (nt kui otsid „\*hiir\*“, siis leiad nii „arvutihiir“, „hiirehernes“ kui „aedhiirehernes“.)
 - Vajuta „Otsi“.
 
 ### Uue sõnakogu loomine
@@ -72,7 +72,7 @@ Sõnakogu on nüüd loodud ja ilmub sõnakogude nimistusse.
   - vali rippmenüüst sõnavorm,
   - vajuta „Lisa“.
 - Kui sisestatud termin ei esine üheski olemasolevas sõnakogus, siis luuakse uus termin ja mõiste ning kuvatakse kogu info selle mõiste kohta terminoloogi otsingu vaates.
-- Kui sisestatud termin juba esineb Ekilexis, siis pakutakse võimalust valida, kas soovid kasutada olemasolevat terminit (mille külge luuakse uus mõiste) või soovid luua uue samakujulise termini ehk homonüümi (koos uue mõistega). Viimasel juhul vajuta „Lisa uus homonüüm“, misjärel luuakse uus termin ja mõiste ning kuvatakse otsingu tulemused, mille hulgas on ka äsja loodud termin. Kui tulemusi on palju, pead enda loodud mõistekirje ise nende hulgast üles otsima (see ebamugavus paraneb tulevikus).
+- Kui sisestatud termin juba esineb Ekilexis, siis pakutakse võimalust valida, kas soovid kasutada olemasolevat terminit (millega seotakse uus mõiste) või soovid luua uue samakujulise termini ehk homonüümi (koos uue mõistega). Viimasel juhul vajuta „Lisa uus homonüüm“, misjärel luuakse uus termin ja mõiste ning kuvatakse otsingu tulemused, mille hulgas on ka äsja loodud termin. Kui tulemusi on palju, pead enda loodud mõistekirje ise nende hulgast üles otsima (see ebamugavus paraneb tulevikus).
 
 
 ### Allikate lisamine
@@ -92,7 +92,7 @@ Vajutades rohelisele „+“ nupule saab allikale lisada veel uusi välju. Samut
 Kui allikas on loodud, siis saab mõistekirjes tekitada sellele erinevate väljade juures (nagu termin, märkus, definitsioon) viiteid. Terminile saab allikaviite lisada rohelise „+“ nupuga, valides „Allikaviide“. Definitsioonile saab allika lisada, liikudes hiirega selle kohale. Tekib roheline allikaviite lisamise nupuke.
 Vajutades allikaviite lisamise nupule, avaneb allika otsing. Seal saab otsida kõikide allika atribuutide järgi, kaasa arvatud tema nime (SOURCE_NAME) järgi.
 
-Allika otsimisel on kindlasti abiks tärn „\*“, sest selle abil saab leida osalisi vasteid. Nt otsides "int*meteo*" leitakse "INTERNATIONAL METEOROLOGICAL VOCABULARY", sest * asendab suvalist arvu märke. Kui nimesid on mitu, nagu selles näites, saab raadionupuga valida selle nime, mida hakatakse kuvama allikaviitena.
+Allika otsimisel on kindlasti abiks tärn „\*“, sest selle abil saab leida osalisi vasteid. Nt otsides "int\*meteo\*" leitakse "INTERNATIONAL METEOROLOGICAL VOCABULARY", sest * asendab suvalist arvu märke. Kui nimesid on mitu, nagu selles näites, saab raadionupuga valida selle nime, mida hakatakse kuvama allikaviitena.
 
 Lahter „Siseviide“ on selle jaoks, kui peaks olema soov täpsustada asukohta selles allikas, nt „lk 69“ ja see kuvatakse allikaviite järel.
 
