@@ -37,7 +37,7 @@ Terminitööks soovitame kasutada terminoloogide otsingut ehk terminoloogi vaade
 - Avaneb terminoloogi vaade. Vajuta nuppu „Valitud sõnakogusid: 0“. Vali linnukestega sõnakogud, millest soovid otsida, ja vajuta „Vali“.
 - Sisesta otsisõna. Kasutada võib metamärke: 
   - ? = 1 suvaline tähemärk (nt kui otsid „m?iste“ siis leiad nt „mõiste“, „muiste“);
-  - \* = 0 või rohkem suvalisi tähemärke. (nt kui otsid „\*hiir\*“, siis leiad nii „arvutihiir“, „hiirehernes“ kui „aedhiirehernes“.)
+  - \* = 0 või rohkem suvalisi tähemärke. (nt kui otsid „\*hiir\*“, siis leiad nii „hiir“, „arvutihiir“, „hiirehernes“ kui „aedhiirehernes“.)
 - Vajuta „Otsi“.
 
 ### Uue sõnakogu loomine
