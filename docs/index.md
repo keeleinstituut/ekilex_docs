@@ -21,7 +21,7 @@ Ekilex on Eesti Keele Instituudi sõnastiku- ja terminibaasisüsteem. Ekilex asu
 
 ### Töölaud
 
-Pärast sisselogimist satub kasutaja töölauale. Töölauaks nimetame Ekilexi avalehte sisselogitud olekus, millele pääseb igalt lehelt, klõpsates vasakul üleval Ekilexi logol. Töölaual on järgmised valikud.
+Pärast sisselogimist satub kasutaja töölauale. Töölauaks nimetame Ekilexi avalehte sisselogitud olekus, millele pääseb igalt lehelt, klõpsates vasakult ülanurgast avanevat küljemenüüd ja valides „Ekilex“. Töölaual on järgmised valikud.
 
 - Leksikograafide otsing: sõnapõhine vaade sõnakogudele, mõeldud tööks leksikograafidele
 - Terminoloogide otsing: mõistepõhine vaade sõnakogudele, mõeldud tööks terminoloogidele
