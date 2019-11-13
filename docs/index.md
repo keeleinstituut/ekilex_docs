@@ -28,6 +28,7 @@ Pärast sisselogimist satub kasutaja töölauale. Töölauaks nimetame Ekilexi a
 - Allikate otsing: allikate otsing, lisamine, muutmine, kustutamine
 - Sõnakogude haldus: kõigi Ekilexis leiduvate sõnakogude loend ja lisamine, muutmine, kustutamine
 - Sõnaveebi tagasiside: võimalus lugeda Sõnaveeb.ee saidile jäetud tagasisidet
+- Vali roll: rippmenüü rolli valikuks. Kui kasutajal on mitme sõnakogu muutmisõigused, siis tuleb siin valida selle sõnakogu muutja roll, milles olevaid andmeid soovitakse muuta. Kasutaja saab samaaegselt muuta ainult ühe sõnakogu andmeid.
 
 Terminitööks soovitame kasutada terminoloogide otsingut ehk terminoloogi vaadet.
 
