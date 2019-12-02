@@ -7,7 +7,7 @@ Ekilex on Eesti Keele Instituudi sõnastiku- ja terminibaasisüsteem. Ekilex asu
 ### Kasutajaks registreerumine ja õiguste taotlemine
 
 - Ekilexi kasutamiseks tuleb luua endale kasutajakonto. Selleks mine Ekilexi avalehele ja vajuta nuppu „Loo kasutaja“. 
-- Avaneb kasutajaks registreerumise vorm. Pead sisestama oma nime, e-posti aadressi ja valima paroolisalasõna, mille sisestad kaks korda. 
+- Avaneb kasutajaks registreerumise vorm. Pead sisestama oma nime, e-posti aadressi ja valima salasõna, mille sisestad kaks korda. 
 - Vajuta „Registreeru“. 
 - Mõne sekundi jooksul saadetakse sinu e-postkasti kinnituskiri. Kui kirja pole tulnud, vaata ka rämpsposti kataloogi või trüki otsingureale „Ekilexi kasutaja registreerimine“. Oma konto aktiveerimiseks pead klõpsama kinnituskirjas saadetud aktiveerimislingile.
 - Pärast lingile klõpsamist avaneb Ekilexi sisselogimisvorm koos teatega „Kasutaja on aktiveeritud, head kasutamist“.
@@ -15,7 +15,7 @@ Ekilex on Eesti Keele Instituudi sõnastiku- ja terminibaasisüsteem. Ekilex asu
 - Kui oled sisse loginud, avaneb õiguste taotlemise leht, kus on teade: „See on EKI sõnastiku- ja terminibaasisüsteem Ekilex. Siin saad esitada taotluse Ekilexi kasutamiseks vaatamisõigusega. Kui vaja, vali sõnakogud, millele soovid muutmisõigust.“
   - Vaatamisõiguse taotlemiseks vajuta lihtsalt „Saada taotlus“. 
   - Muutmisõiguste taotlemiseks vajuta „Soovin sõnakogude muutmisõigust“ ja vali soovitud sõnakogu või sõnakogud, mille autorite hulka sa kuulud. Pole mõtet valida sõnakogusid, millega sul puudub seos.
-  - Vajaduse korralMuutmisõiguse taotlemise korral vajuta „Soovin põhjendada taotlust“ ja kirjuta lahtrisse lühidalt, põhjenduskuidas oled sõnakoguga seotud.
+  - Muutmisõiguse taotlemise korral vajuta „Soovin põhjendada taotlust“ ja kirjuta lahtrisse lühidalt, kuidas oled sõnakoguga seotud.
   - Seejärel vajuta „Saada taotlus“.
 - Nüüd tuleb oodata, kuni Ekilexi administraator annab sulle küsitud õigused. Selle kohta saadetakse e-kiri. Pärast seda saad hakata Ekilexi kasutama. Kui oled õiguste saamise hetkel (e-kirja saabumise hetkel) Ekilexi sisse logitud, pead kõigepealt välja logima ja siis uuesti sisse logima, selleks, et õigused rakenduksid.
 
@@ -61,14 +61,14 @@ Sõnakogu on nüüd loodud ja ilmub sõnakogude nimistusse.
 
 ### Töö sõnakoguga
 
-#### Uue termini ja mõisteMõistekirje loomine
+#### Mõistekirje loomine
 
 {% include youtube.html id="BXdBK-jYgO0" %}
 Video: Mõistekirje loomine Ekilexis
 
-- Mine töölauale, klõpsates avades vasakul ülal ülanurgas rakenduse menüüEkilexi logo ja valides sealt „Ekilex“.l
+- Mine töölauale, avades vasakul ülanurgas rakenduse menüü ja valides sealt „Ekilex“.l
 - Veendu, et valitud on soovitud sõnakogu muutja roll. Vastasel juhul vali see rippmenüüst „Vali roll“.
-- Ava töölaual  link „Terminoloogide otsing“
+- Ava töölaual link „Terminoloogide otsing“
 - Vajuta navigeerimisribal „Uus termin ja mõiste“. Avaneb uue keelendi sisestusvorm. Seejärel
   - sisesta keelend (ehk termin),
   - selle all on kuvatud sõnakogu nimi, kuhu termin lisatakse,
@@ -76,7 +76,7 @@ Video: Mõistekirje loomine Ekilexis
   - vali rippmenüüst sõnavorm,
   - vajuta „Lisa“.
 - Kui sisestatud termin ei esine üheski olemasolevas sõnakogus, siis luuakse uus termin ja mõiste ning kuvatakse kogu info selle mõiste kohta terminoloogi otsingu vaates.
-- Kui sisestatud termin juba esineb Ekilexis, siis pakutakse võimalust valida, kas soovid kasutada olemasolevat terminit (mille külge luuaksemillega seotakse uus mõiste) või soovid luua uue samakujulise termini ehk homonüümi (koos uue mõistega). Viimasel juhul vajuta „Lisa uus homonüüm“, misjärel luuakse uus termin ja mõiste ning kuvatakse otsingu tulemused, mille hulgas on ka äsja loodud termin. Kui tulemusi on palju, pead enda loodud mõistekirje ise nende hulgast üles otsima (see ebamugavus paraneb tulevikus).
+- Kui sisestatud termin juba esineb Ekilexis, siis pakutakse võimalust valida, kas soovid kasutada olemasolevat terminit (millega seotakse uus mõiste) või soovid luua uue samakujulise termini ehk homonüümi (koos uue mõistega). Viimasel juhul vajuta „Lisa uus homonüüm“, misjärel luuakse uus termin ja mõiste ning kuvatakse otsingu tulemused, mille hulgas on ka äsja loodud termin. Kui tulemusi on palju, pead enda loodud mõistekirje ise nende hulgast üles otsima (see ebamugavus paraneb tulevikus).
 
 
 ### Allikate lisamine
