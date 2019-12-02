@@ -7,7 +7,7 @@ Ekilex on Eesti Keele Instituudi sõnastiku- ja terminibaasisüsteem. Ekilex asu
 ### Kasutajaks registreerumine ja õiguste taotlemine
 
 - Ekilexi kasutamiseks tuleb luua endale kasutajakonto. Selleks mine Ekilexi avalehele ja vajuta nuppu „Loo kasutaja“. 
-- Avaneb kasutajaks registreerumise vorm. Pead sisestama oma nime, e-posti aadressi ja valima parooli, mille sisestad kaks korda. 
+- Avaneb kasutajaks registreerumise vorm. Pead sisestama oma nime, e-posti aadressi ja valima paroolisalasõna, mille sisestad kaks korda. 
 - Vajuta „Registreeru“. 
 - Mõne sekundi jooksul saadetakse sinu e-postkasti kinnituskiri. Kui kirja pole tulnud, vaata ka rämpsposti kataloogi või trüki otsingureale „Ekilexi kasutaja registreerimine“. Oma konto aktiveerimiseks pead klõpsama kinnituskirjas saadetud aktiveerimislingile.
 - Pärast lingile klõpsamist avaneb Ekilexi sisselogimisvorm koos teatega „Kasutaja on aktiveeritud, head kasutamist“.
@@ -15,13 +15,13 @@ Ekilex on Eesti Keele Instituudi sõnastiku- ja terminibaasisüsteem. Ekilex asu
 - Kui oled sisse loginud, avaneb õiguste taotlemise leht, kus on teade: „See on EKI sõnastiku- ja terminibaasisüsteem Ekilex. Siin saad esitada taotluse Ekilexi kasutamiseks vaatamisõigusega. Kui vaja, vali sõnakogud, millele soovid muutmisõigust.“
   - Vaatamisõiguse taotlemiseks vajuta lihtsalt „Saada taotlus“. 
   - Muutmisõiguste taotlemiseks vajuta „Soovin sõnakogude muutmisõigust“ ja vali soovitud sõnakogu või sõnakogud, mille autorite hulka sa kuulud. Pole mõtet valida sõnakogusid, millega sul puudub seos.
-  - Muutmisõiguse taotlemise korral vajuta „Soovin põhjendada taotlust“ ja kirjuta lahtrisse lühidalt, kuidas oled sõnakoguga seotud.
+  - Vajaduse korralMuutmisõiguse taotlemise korral vajuta „Soovin põhjendada taotlust“ ja kirjuta lahtrisse lühidalt, põhjenduskuidas oled sõnakoguga seotud.
   - Seejärel vajuta „Saada taotlus“.
 - Nüüd tuleb oodata, kuni Ekilexi administraator annab sulle küsitud õigused. Selle kohta saadetakse e-kiri. Pärast seda saad hakata Ekilexi kasutama. Kui oled õiguste saamise hetkel (e-kirja saabumise hetkel) Ekilexi sisse logitud, pead kõigepealt välja logima ja siis uuesti sisse logima, selleks, et õigused rakenduksid.
 
 ### Töölaud
 
-Pärast sisselogimist satub kasutaja töölauale. Töölauaks nimetame Ekilexi avalehte sisselogitud olekus, millele pääseb igalt lehelt, klõpsates vasakult ülanurgast avanevat küljemenüüd ja valides „Ekilex“. Töölaual on järgmised valikud.
+Pärast sisselogimist satub kasutaja töölauale. Töölauaks nimetame Ekilexi avalehte sisselogitud olekus, millele pääseb igalt lehelt, klõpsates vasakult ülanurgast avanevat külgmenüüd ja valides „Ekilex“. Töölaual on järgmised valikud.
 
 - Leksikograafide otsing: sõnapõhine vaade sõnakogudele, mõeldud tööks leksikograafidele
 - Terminoloogide otsing: mõistepõhine vaade sõnakogudele, mõeldud tööks terminoloogidele
@@ -61,10 +61,13 @@ Sõnakogu on nüüd loodud ja ilmub sõnakogude nimistusse.
 
 ### Töö sõnakoguga
 
-#### Uue termini ja mõiste loomine
+#### Uue termini ja mõisteMõistekirje loomine
 
-- Mine töölauale, klõpsates vasakul ülal Ekilexi logol
-- Veendu, et valitud on soovitud sõnakogu muutja roll. Vastasel juhul vali see rippmenüüst.
+{% include youtube.html id="BXdBK-jYgO0" %}
+Video: Mõistekirje loomine Ekilexis
+
+- Mine töölauale, klõpsates avades vasakul ülal ülanurgas rakenduse menüüEkilexi logo ja valides sealt „Ekilex“.l
+- Veendu, et valitud on soovitud sõnakogu muutja roll. Vastasel juhul vali see rippmenüüst „Vali roll“.
 - Ava töölaual  link „Terminoloogide otsing“
 - Vajuta navigeerimisribal „Uus termin ja mõiste“. Avaneb uue keelendi sisestusvorm. Seejärel
   - sisesta keelend (ehk termin),
@@ -73,12 +76,15 @@ Sõnakogu on nüüd loodud ja ilmub sõnakogude nimistusse.
   - vali rippmenüüst sõnavorm,
   - vajuta „Lisa“.
 - Kui sisestatud termin ei esine üheski olemasolevas sõnakogus, siis luuakse uus termin ja mõiste ning kuvatakse kogu info selle mõiste kohta terminoloogi otsingu vaates.
-- Kui sisestatud termin juba esineb Ekilexis, siis pakutakse võimalust valida, kas soovid kasutada olemasolevat terminit (millega seotakse uus mõiste) või soovid luua uue samakujulise termini ehk homonüümi (koos uue mõistega). Viimasel juhul vajuta „Lisa uus homonüüm“, misjärel luuakse uus termin ja mõiste ning kuvatakse otsingu tulemused, mille hulgas on ka äsja loodud termin. Kui tulemusi on palju, pead enda loodud mõistekirje ise nende hulgast üles otsima (see ebamugavus paraneb tulevikus).
+- Kui sisestatud termin juba esineb Ekilexis, siis pakutakse võimalust valida, kas soovid kasutada olemasolevat terminit (mille külge luuaksemillega seotakse uus mõiste) või soovid luua uue samakujulise termini ehk homonüümi (koos uue mõistega). Viimasel juhul vajuta „Lisa uus homonüüm“, misjärel luuakse uus termin ja mõiste ning kuvatakse otsingu tulemused, mille hulgas on ka äsja loodud termin. Kui tulemusi on palju, pead enda loodud mõistekirje ise nende hulgast üles otsima (see ebamugavus paraneb tulevikus).
 
 
 ### Allikate lisamine
 
-Allikakirjeid saab lisada lehelt Allikate otsing -> Lisa uus allikas.
+{% include youtube.html id="sYKciBlkbHc" %}
+Video: Allikakirje loomine Ekilexis
+
+Allikakirjeid saab lisada valides rakenduse menüüst Allikate otsing -> Lisa uus allikas.
 
 Allika nimetus (allika nimi, SOURCE_NAME) on kirjaliku allika (näiteks raamatu) puhul harilikult selle pealkiri, aga selle võib vajadusel ka ise vabalt valida. Allika nimi kuvatakse ka allikaviitena mõiste kirjes.
 Allika tüüp on kirjaliku allika puhul DOCUMENT.
@@ -99,6 +105,8 @@ Lahter „Siseviide“ on selle jaoks, kui peaks olema soov täpsustada asukohta
 
 
 [Hakka pihta!](https://ekilex.eki.ee/)
+
+
 Küsimuste korral kirjuta [kasutajatugi@ekilex.ee](mailto:kasutajatugi@ekilex.ee)!
 
 
