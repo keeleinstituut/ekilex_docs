@@ -1,10 +1,10 @@
-﻿<a/># Ekilexi kasutusjuhend
+﻿# Ekilexi kasutusjuhend
 
-<a/>### Mis on Ekilex?
+### Mis on Ekilex?
 
 Ekilex on Eesti Keele Instituudi sõnastiku- ja terminibaasisüsteem. Ekilex asub aadressil [https://ekilex.eki.ee/](https://ekilex.eki.ee/) ja on kõigile, kes soovivad oma terminibaasi koostada, tasuta kasutatav.
 
-<a/>### Kasutajaks registreerumine ja õiguste taotlemine
+### Kasutajaks registreerumine ja õiguste taotlemine
 
 - Ekilexi kasutamiseks tuleb luua endale kasutajakonto. Selleks mine Ekilexi avalehele ja vajuta nuppu „Loo kasutaja“. 
 - Avaneb kasutajaks registreerumise vorm. Pead sisestama oma nime, e-posti aadressi ja valima salasõna, mille sisestad kaks korda. 
@@ -19,7 +19,7 @@ Ekilex on Eesti Keele Instituudi sõnastiku- ja terminibaasisüsteem. Ekilex asu
   - Seejärel vajuta „Saada taotlus“.
 - Nüüd tuleb oodata, kuni Ekilexi administraator annab sulle küsitud õigused. Selle kohta saadetakse e-kiri. Pärast seda saad hakata Ekilexi kasutama. Kui oled õiguste saamise hetkel (e-kirja saabumise hetkel) Ekilexi sisse logitud, pead kõigepealt välja logima ja siis uuesti sisse logima, selleks, et õigused rakenduksid.
 
-<a/>### Töölaud
+### Töölaud
 
 Pärast sisselogimist satub kasutaja töölauale. Töölauaks nimetame Ekilexi avalehte sisselogitud olekus, millele pääseb igalt lehelt, klõpsates vasakult ülanurgast avanevat rakenduse menüüd ja valides „Ekilex“. Töölaual on järgmised valikud.
 
@@ -32,7 +32,7 @@ Pärast sisselogimist satub kasutaja töölauale. Töölauaks nimetame Ekilexi a
 
 Terminitööks soovitame kasutada terminoloogide otsingut ehk terminoloogi vaadet.
 
-<a/>### Terminite otsing
+### Terminite otsing
 
 - Vajuta töölaual „Terminoloogide otsing“.
 - Avaneb terminoloogi vaade. Vajuta nuppu „Valitud sõnakogusid: 0“. Vali linnukestega sõnakogud, millest soovid otsida, ja vajuta „Vali“.
@@ -41,7 +41,7 @@ Terminitööks soovitame kasutada terminoloogide otsingut ehk terminoloogi vaade
   - \* = 0 või rohkem suvalisi tähemärke. (nt kui otsid „\*hiir\*“, siis leiad nii „hiir“, „arvutihiir“, „hiirehernes“ kui „aedhiirehernes“.)
 - Vajuta „Otsi“.
 
-<a/>### Uue sõnakogu loomine
+### Uue sõnakogu loomine
 
 Klõpsa töölaual linki „Sõnakogude haldus“. Avaneb leht, millel on sõnakogude nimekiri. Vajuta üleval paremal nuppu „Lisa uus“. Avaneb uue sõnakogu loomise vorm.
 
@@ -59,9 +59,9 @@ Klõpsa töölaual linki „Sõnakogude haldus“. Avaneb leht, millel on sõnak
 
 Sõnakogu on nüüd loodud ja ilmub sõnakogude nimistusse.
 
-<a/>### Terminitöö sõnakoguga
+### Terminitöö sõnakoguga
 
-<a/>#### Mõistekirje loomine
+#### Uue mõistekirje loomine
 
 {% include youtube.html id="BXdBK-jYgO0" %}
 Video: Mõistekirje loomine Ekilexis
@@ -79,7 +79,7 @@ Video: Mõistekirje loomine Ekilexis
 - Kui sisestatud termin juba esineb Ekilexis, siis pakutakse võimalust valida, kas soovid kasutada olemasolevat terminit (millega seotakse uus mõiste) või soovid luua uue samakujulise termini ehk homonüümi (koos uue mõistega). Viimasel juhul vajuta „Lisa uus homonüüm“, misjärel luuakse uus termin ja mõiste ning kuvatakse otsingu tulemused, mille hulgas on ka äsja loodud termin. Kui tulemusi on palju, pead enda loodud mõistekirje ise nende hulgast üles otsima (see ebamugavus paraneb tulevikus).
 
 
-<a/>#### Allikate lisamine
+#### Allikate lisamine
 
 {% include youtube.html id="sYKciBlkbHc" %}
 Video: Allikakirje loomine Ekilexis
