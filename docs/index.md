@@ -21,14 +21,14 @@ Ekilex on Eesti Keele Instituudi sõnastiku- ja terminibaasisüsteem. Ekilex asu
 
 ### Töölaud
 
-Pärast sisselogimist satub kasutaja töölauale. Töölauaks nimetame Ekilexi avalehte sisselogitud olekus, millele pääseb igalt lehelt, klõpsates vasakult ülanurgast avanevat külgmenüüd ja valides „Ekilex“. Töölaual on järgmised valikud.
+Pärast sisselogimist satub kasutaja töölauale. Töölauaks nimetame Ekilexi avalehte sisselogitud olekus, millele pääseb igalt lehelt, klõpsates vasakult ülanurgast avanevat rakenduse menüüd ja valides „Ekilex“. Töölaual on järgmised valikud.
 
 - Leksikograafide otsing: sõnapõhine vaade sõnakogudele, mõeldud tööks leksikograafidele
 - Terminoloogide otsing: mõistepõhine vaade sõnakogudele, mõeldud tööks terminoloogidele
 - Allikate otsing: allikate otsing, lisamine, muutmine, kustutamine
 - Sõnakogude haldus: kõigi Ekilexis leiduvate sõnakogude loend ja lisamine, muutmine, kustutamine
 - Sõnaveebi tagasiside: võimalus lugeda Sõnaveeb.ee saidile jäetud tagasisidet
-- Vali roll: rippmenüü rolli valikuks. Kui kasutajal on mitme sõnakogu muutmisõigused, siis tuleb siin valida selle sõnakogu muutja roll, milles olevaid andmeid soovitakse muuta. Kasutaja saab samaaegselt muuta ainult ühe sõnakogu andmeid.
+- Vali roll: rippmenüü rolli valikuks. Siin tuleb valida selle sõnakogu muutja roll, milles olevaid andmeid soovid muuta. Kasutaja saab samaaegselt muuta ainult ühe sõnakogu andmeid. Muutja rolli olemasolu eelduseks on vastava sõnakogu muutmise õigus. Õiguseid saab juurde taotleda kasutaja profiilis.
 
 Terminitööks soovitame kasutada terminoloogide otsingut ehk terminoloogi vaadet.
 
@@ -43,7 +43,7 @@ Terminitööks soovitame kasutada terminoloogide otsingut ehk terminoloogi vaade
 
 ### Uue sõnakogu loomine
 
-Klõpsa töölauallinki „Sõnakogude haldus“. Avaneb leht, millel on sõnakogude nimekiri. Vajuta üleval paremal nuppu „Lisa uus“. Avaneb uue sõnakogu loomise vorm.
+Klõpsa töölaual linki „Sõnakogude haldus“. Avaneb leht, millel on sõnakogude nimekiri. Vajuta üleval paremal nuppu „Lisa uus“. Avaneb uue sõnakogu loomise vorm.
 
 - Sõnakogu kood: võimalikult lühike (3-10 märki) tähekombinatsioon, millest saab loodava sõnakogu identifikaator (lühitähis)
 - Nimi: sõnakogu nimi
