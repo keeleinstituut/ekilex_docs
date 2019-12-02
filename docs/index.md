@@ -1,10 +1,10 @@
 ﻿# Ekilexi kasutusjuhend
 
-### Mis on Ekilex?
+## Mis on Ekilex?
 
 Ekilex on Eesti Keele Instituudi sõnastiku- ja terminibaasisüsteem. Ekilex asub aadressil [https://ekilex.eki.ee/](https://ekilex.eki.ee/) ja on kõigile, kes soovivad oma terminibaasi koostada, tasuta kasutatav.
 
-### Kasutajaks registreerumine ja õiguste taotlemine
+## Kasutajaks registreerumine ja õiguste taotlemine
 
 - Ekilexi kasutamiseks tuleb luua endale kasutajakonto. Selleks mine Ekilexi avalehele ja vajuta nuppu „Loo kasutaja“. 
 - Avaneb kasutajaks registreerumise vorm. Pead sisestama oma nime, e-posti aadressi ja valima salasõna, mille sisestad kaks korda. 
