@@ -1,5 +1,16 @@
 ﻿# Ekilexi kasutusjuhend
 
+
+### [Mis on Ekilex?](#mis-on-ekilex)
+### [Kasutajaks registreerumine ja õiguste taotlemine](#kasutajaks-registreerumine-ja-õiguste-taotlemine)
+### [Töölaud] (#töölaud)
+### [Terminite otsing] (#terminite-otsing)
+### [Uue sõnakogu loomine] (#uue-sõnakogu-loomine)
+### [Terminitöö sõnakoguga] (#terminitöö-sõnakoguga)
+#### [Uue mõistekirje loomine] (#uue-mõistekirje-loomine)
+#### [Allikate lisamine] (#allikate-lisamine)
+
+
 ### Mis on Ekilex?
 
 Ekilex on Eesti Keele Instituudi sõnastiku- ja terminibaasisüsteem. Ekilex asub aadressil [https://ekilex.eki.ee/](https://ekilex.eki.ee/) ja on kõigile, kes soovivad oma terminibaasi koostada, tasuta kasutatav.
@@ -78,16 +89,15 @@ Video: Mõistekirje loomine Ekilexis
 - Kui sisestatud termin ei esine üheski olemasolevas sõnakogus, siis luuakse uus termin ja mõiste ning kuvatakse kogu info selle mõiste kohta terminoloogi otsingu vaates.
 - Kui sisestatud termin juba esineb Ekilexis, siis pakutakse võimalust valida, kas soovid kasutada olemasolevat terminit (millega seotakse uus mõiste) või soovid luua uue samakujulise termini ehk homonüümi (koos uue mõistega). Viimasel juhul vajuta „Lisa uus homonüüm“, misjärel luuakse uus termin ja mõiste ning kuvatakse otsingu tulemused, mille hulgas on ka äsja loodud termin. Kui tulemusi on palju, pead enda loodud mõistekirje ise nende hulgast üles otsima (see ebamugavus paraneb tulevikus).
 
-
 #### Allikate lisamine
 
 {% include youtube.html id="sYKciBlkbHc" %}
 Video: Allikakirje loomine Ekilexis
 
-Allikakirjeid saab lisada valides rakenduse menüüst Allikate otsing -> Lisa uus allikas.
+Allikakirjeid saab lisada valides rakenduse menüüst Allikate otsing ja avanenud lehel vajutades „Lisa uus allikas“.
 
 Allika nimetus (allika nimi, SOURCE_NAME) on kirjaliku allika (näiteks raamatu) puhul harilikult selle pealkiri, aga selle võib vajadusel ka ise vabalt valida. Allika nimi kuvatakse ka allikaviitena mõiste kirjes.
-Allika tüüp on kirjaliku allika puhul DOCUMENT.
+Allika tüübiks tuleks kirjaliku allika puhul valida DOCUMENT.
 
 Alumises kastis saab allikale lisada muid informatiivseid välju (atribuute), näiteks vaikimisi on seal valitud autor (SOURCE_AUTHOR). Kui raamatul on mitu autorit, võib iga ühe jaoks luua eraldi välja, aga pole ka probleemi, kui nad pannakse komadega eraldatult samale väljale. Samale väljale pannakse vajadusel ka autori tüüp, nt „koostanud Juhan Juurikas“ või „toimetanud J. Tatikas“.
 Vajutades rohelisele „+“ nupule saab allikale lisada veel uusi välju. Samuti saab allikale välju lisada hiljem, kui allikas on juba loodud.
