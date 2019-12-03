@@ -1,14 +1,14 @@
 ﻿# Ekilexi kasutusjuhend
 
 
-### [Mis on Ekilex?](#mis-on-ekilex)
-### [Kasutajaks registreerumine ja õiguste taotlemine](#kasutajaks-registreerumine-ja-õiguste-taotlemine)
-### [Töölaud] (#töölaud)
-### [Terminite otsing] (#terminite-otsing)
-### [Uue sõnakogu loomine] (#uue-sõnakogu-loomine)
-### [Terminitöö sõnakoguga] (#terminitöö-sõnakoguga)
-#### [Uue mõistekirje loomine] (#uue-mõistekirje-loomine)
-#### [Allikate lisamine] (#allikate-lisamine)
+[Mis on Ekilex?](#mis-on-ekilex)
+[Kasutajaks registreerumine ja õiguste taotlemine](#kasutajaks-registreerumine-ja-õiguste-taotlemine)
+[Töölaud] (#töölaud)
+[Terminite otsing] (#terminite-otsing)
+[Uue sõnakogu loomine] (#uue-sõnakogu-loomine)
+[Terminitöö sõnakoguga] (#terminitöö-sõnakoguga)
+[Uue mõistekirje loomine] (#uue-mõistekirje-loomine)
+[Allikate lisamine] (#allikate-lisamine)
 
 
 ### Mis on Ekilex?
