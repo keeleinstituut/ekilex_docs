@@ -6,8 +6,8 @@
 - [Terminite otsing](#terminite-otsing)
 - [Uue sõnakogu loomine](#uue-sõnakogu-loomine)
 - [Terminitöö sõnakoguga](#terminitöö-sõnakoguga)
- - [Uue mõistekirje loomine](#uue-mõistekirje-loomine)
- - [Allikate lisamine](#allikate-lisamine)
+  - [Uue mõistekirje loomine](#uue-mõistekirje-loomine)
+  - [Allikate lisamine](#allikate-lisamine)
 
 
 ### Mis on Ekilex?
