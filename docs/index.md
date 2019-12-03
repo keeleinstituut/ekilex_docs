@@ -1,6 +1,5 @@
 ﻿# Ekilexi kasutusjuhend
 
-
 - [Mis on Ekilex?](#mis-on-ekilex)
 - [Kasutajaks registreerumine ja õiguste taotlemine](#kasutajaks-registreerumine-ja-õiguste-taotlemine)
 - [Töölaud](#töölaud)
