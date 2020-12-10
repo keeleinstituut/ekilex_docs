@@ -101,9 +101,9 @@ Ekilexi kontekstis nimetatakse allikakirjeid ka lühemalt lihtsalt allikateks.
 ##### Allikate otsing
 
 Juba sisestatud allikate nägemiseks vali rakenduse menüüst „Allikate otsing“. 
-Allikaid saab otsida ükskõik missuguse infovälja järgi, nt pealkiri, autor, ISBN, ISSN, väljaandja vm.
+Allikaid saab otsida ükskõik missuguse andmekategooria järgi, nt pealkiri, autor, ISBN, ISSN, väljaandja vm.
 
-Vaikimisi avaneb lihtotsing, kus otsikasti võib sisestada ükskõik missuguse infovälja sisu.
+Vaikimisi avaneb lihtotsing, kus otsikasti võib sisestada ükskõik missuguse andmekategooria.
 Siin on väga soovitav kasutada metamärke, nt lisades otsisõna ette ja taha „\*“. 
   - ? = 1 suvaline tähemärk (nt kui otsid „m?iste“ siis leiad nt „mõiste“, „muiste“);
   - \* = 0 või rohkem suvalisi tähemärke. (nt kui otsid „\*hiir\*“, siis leiad nii „hiir“, „arvutihiir“, „hiirehernes“ kui „aedhiirehernes“.)
