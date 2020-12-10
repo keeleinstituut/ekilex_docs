@@ -24,7 +24,7 @@ Ekilex on Eesti Keele Instituudi sõnastiku- ja terminibaasisüsteem. Ekilex asu
 - Sisselogimiseks sisesta oma e-posti aadress ja eelnevalt valitud parool ning vajuta „Sisene“.
 - Kui oled sisse loginud, avaneb õiguste taotlemise leht, kus on teade: „See on EKI sõnastiku- ja terminibaasisüsteem Ekilex. Siin saad esitada taotluse Ekilexi kasutamiseks vaatamisõigusega. Kui vaja, vali sõnakogud, millele soovid muutmisõigust.“
   - Vaatamisõiguse taotlemiseks vajuta lihtsalt „Saada taotlus“. 
-  - Muutmisõiguste taotlemiseks vajuta „Soovin sõnakogude muutmisõigust“ ja vali soovitud sõnakogu või sõnakogud, mille autorite hulka sa kuulud. Pole mõtet valida sõnakogusid, millega sul puudub seos.
+  - Muutmisõiguste taotlemiseks vajuta „Soovin sõnakogude muutmisõigust“ ja vali soovitud sõnakogu(d), mille autorite hulka sa kuulud. Pole mõtet valida sõnakogusid, millega sul puudub seos.
   - Muutmisõiguse taotlemise korral vajuta „Soovin põhjendada taotlust“ ja kirjuta lahtrisse lühidalt, kuidas oled sõnakoguga seotud.
   - Seejärel vajuta „Saada taotlus“.
 - Nüüd tuleb oodata, kuni Ekilexi administraator annab sulle küsitud õigused. Selle kohta saadetakse e-kiri. Pärast seda saad hakata Ekilexi kasutama. Kui oled õiguste saamise hetkel (e-kirja saabumise hetkel) Ekilexi sisse logitud, pead kõigepealt välja logima ja siis uuesti sisse logima, selleks, et õigused rakenduksid.
@@ -88,7 +88,9 @@ Video: Mõistekirje loomine Ekilexis
 - Kui sisestatud termin ei esine üheski olemasolevas sõnakogus, siis luuakse uus termin ja mõiste ning kuvatakse kogu info selle mõiste kohta terminoloogi otsingu vaates.
 - Kui sisestatud termin juba esineb Ekilexis, siis pakutakse võimalust valida, kas soovid kasutada olemasolevat terminit (millega seotakse uus mõiste) või soovid luua uue samakujulise termini ehk homonüümi (koos uue mõistega). Viimasel juhul vajuta „Lisa uus homonüüm“, misjärel luuakse uus termin ja mõiste ning kuvatakse otsingu tulemused, mille hulgas on ka äsja loodud termin. Kui tulemusi on palju, pead enda loodud mõistekirje ise nende hulgast üles otsima (see ebamugavus paraneb tulevikus).
 
-#### Allikate lisamine
+#### Allikad
+
+##### Allika loomine
 
 {% include youtube.html id="sYKciBlkbHc" %}
 Video: Allikakirje loomine Ekilexis
@@ -102,6 +104,36 @@ Alumises kastis saab allikale lisada muid informatiivseid välju (atribuute), n�
 Vajutades rohelisele „+“ nupule saab allikale lisada veel uusi välju. Samuti saab allikale välju lisada hiljem, kui allikas on juba loodud.
 
 Ühel allikal võib olla ka mitu nime, näiteks pealkiri erinevates keeltes. Nimesid saab juurde lisada nii, nagu ka muid allika välju (valides välja tüübiks SOURCE_NAME). Kui allikal on väga pikk nimi ja seda on samas mõistekirjes vaja kasutada mitmes kohas, võib allikale leiutada mingi lühendi ja lisada see lühend ühe nimetusena (nt „WMO“), siis saab mõistekirjes kasutada lühendit ja see ei võta nii palju ruumi ekraanil.
+
+##### Allika muutmine
+
+Allika muutmine tähendab siis sisuliselt allikakirje mõne välja ehk allika atribuudi lisamist/muutmist/kustutamist.
+
+- Vali rakenduse menüüst „Allikate otsing“.
+- Atribuudi lisamiseks:
+  - Otsi allikas, mida tahad muuta.
+  - Vajuta rohelisele „+“ nupule („Lisa allikale uus atribuut“). Avaneb atribuudi lisamise vorm.
+  - Vali rippmenüüst atribuudi tüüp.
+  - Sisesta all olevale väljale atribuudi väärtus.
+  - Vajuta „Lisa“.
+- Atribuudi muutmiseks:
+  - Otsi allikas, mida tahad muuta.
+  - Liigu hiire kursoriga välja peale, mida tahad muuta. Välja lõppu tekivad nupukesed.
+  - Vajuta sinisele nupukesele „Muuda“.
+  - Avaneb välja muutmisvorm.
+  - Muuda välja sisu, salvestamiseks vajuta „Muuda“.
+- Atribuudi kustutamiseks:
+  - Otsi allikas, mida tahad muuta.
+  - Liigu hiire kursoriga välja peale, mida tahad muuta. Välja lõppu tekivad nupukesed.
+  - Vajuta kollasele nupukesele „x“ („Kustuta“).
+  - Küsitakse kustutamise kinnitust. Vajuta „Jah“.
+
+##### Allika kustutamine
+
+Allikakirje kustutamiseks:
+- Vali rakenduse menüüst „Allikate otsing“.
+- Otsi allikas, mida tahad kustutada
+- Vajuta kollasele nupule „Eemalda allikas“.
 
 #### Allikaviite lisamine mõistekirjes
 
