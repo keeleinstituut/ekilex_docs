@@ -7,7 +7,11 @@
 - [Uue sõnakogu loomine](#uue-sõnakogu-loomine)
 - [Terminitöö sõnakoguga](#terminitöö-sõnakoguga)
   - [Uue mõistekirje loomine](#uue-mõistekirje-loomine)
-  - [Allikate lisamine](#allikate-lisamine)
+  - [Allikad](#allikad)
+    - [Allika loomine](#allika-loomine)
+    - [Allika muutmine](#allika-muutmine)
+    - [Allika kustutamine](#allika-kustutamine)
+    - [Allikaviite lisamine mõistekirjes](#allikaviite-lisamine-mõistekirjes)
 
 
 ### Mis on Ekilex?
@@ -90,12 +94,26 @@ Video: Mõistekirje loomine Ekilexis
 
 #### Allikad
 
+Terminitöös on oluline viidata termini allikatele. Ekilexi saab salvestada allikakirjeid ja terminite juurest neile viidata. Ühe allika jaoks piisab Ekilexis ühest allikakirjest, millele saab viidata erinevatest sõnakogudest. Kui juhtumisi on loodud mitu allikakirjet samale allikale, saab neid ühendada kokku üheks allikakirjeks.
+
+Ekilexi kontekstis nimetatakse allikakirjeid ka lühemalt lihtsalt allikateks. 
+
+##### Allikate otsing
+
+Juba sisestatud allikate nägemiseks vali rakenduse menüüst „Allikate otsing“. 
+Allikaid saab otsida ükskõik missuguse infovälja järgi, nt pealkiri, autor, ISBN, ISSN, väljaandja vm.
+
+Vaikimisi avaneb lihtotsing, kus otsikasti võib sisestada ükskõik missuguse infovälja sisu.
+Siin on väga soovitav kasutada metamärke, nt lisades otsisõna ette ja taha „\*“. 
+  - ? = 1 suvaline tähemärk (nt kui otsid „m?iste“ siis leiad nt „mõiste“, „muiste“);
+  - \* = 0 või rohkem suvalisi tähemärke. (nt kui otsid „\*hiir\*“, siis leiad nii „hiir“, „arvutihiir“, „hiirehernes“ kui „aedhiirehernes“.)
+
 ##### Allika loomine
 
 {% include youtube.html id="sYKciBlkbHc" %}
 Video: Allikakirje loomine Ekilexis
 
-Allikakirjeid saab lisada valides rakenduse menüüst Allikate otsing ja avanenud lehel vajutades „Lisa uus allikas“.
+Allikakirjeid saab lisada valides rakenduse menüüst „Allikate otsing“ ja avanenud lehel vajutades „Lisa uus allikas“.
 
 Allika nimetus (allika nimi, SOURCE_NAME) on kirjaliku allika (näiteks raamatu) puhul harilikult selle pealkiri, aga selle võib vajadusel ka ise vabalt valida. Allika nimi kuvatakse ka allikaviitena mõiste kirjes.
 Allika tüübiks tuleks kirjaliku allika puhul valida DOCUMENT.
@@ -128,6 +146,7 @@ Allika muutmine tähendab siis sisuliselt allikakirje mõne välja ehk allika at
   - Vajuta kollasele nupukesele „x“ („Kustuta“).
   - Küsitakse kustutamise kinnitust. Vajuta „Jah“.
 
+
 ##### Allika kustutamine
 
 Allikakirje kustutamiseks:
@@ -135,7 +154,7 @@ Allikakirje kustutamiseks:
 - Otsi allikas, mida tahad kustutada
 - Vajuta kollasele nupule „Eemalda allikas“.
 
-#### Allikaviite lisamine mõistekirjes
+##### Allikaviite lisamine mõistekirjes
 
 Kui allikas on loodud, siis saab mõistekirjes tekitada sellele erinevate väljade juures (nagu termin, märkus, definitsioon) viiteid. Terminile saab allikaviite lisada rohelise „+“ nupuga, valides „Allikaviide“. Definitsioonile saab allika lisada, liikudes hiirega selle kohale. Tekib roheline allikaviite lisamise nupuke.
 Vajutades allikaviite lisamise nupule, avaneb allika otsing. Seal saab otsida kõikide allika atribuutide järgi, kaasa arvatud tema nime (SOURCE_NAME) järgi.
