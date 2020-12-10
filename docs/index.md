@@ -105,8 +105,6 @@ Allikaid saab otsida ükskõik missuguse andmekategooria järgi, nt pealkiri, au
 
 Vaikimisi avaneb lihtotsing, kus otsikasti võib sisestada ükskõik missuguse andmekategooria.
 Siin on väga soovitav kasutada metamärke, nt lisades otsisõna ette ja taha „\*“. 
-  - ? = 1 suvaline tähemärk (nt kui otsid „m?iste“ siis leiad nt „mõiste“, „muiste“);
-  - \* = 0 või rohkem suvalisi tähemärke. (nt kui otsid „\*hiir\*“, siis leiad nii „hiir“, „arvutihiir“, „hiirehernes“ kui „aedhiirehernes“.)
 
 ##### Allika loomine
 
