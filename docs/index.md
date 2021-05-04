@@ -80,7 +80,7 @@ Sõnakogu on nüüd loodud ja ilmub sõnakogude nimistusse.
 {% include youtube.html id="BXdBK-jYgO0" %}
 Video: Mõistekirje loomine Ekilexis
 
-- Mine töölauale, avades vasakul ülanurgas rakenduse menüü ja valides sealt „Ekilex“.l
+- Mine töölauale, avades vasakul ülanurgas rakenduse menüü ja valides sealt „Ekilex v 1.21“.
 - Veendu, et valitud on soovitud sõnakogu muutja roll. Vastasel juhul vali see rippmenüüst „Vali roll“.
 - Ava töölaual link „Terminoloogide otsing“
 - Vajuta navigeerimisribal „Uus termin ja mõiste“. Avaneb uue keelendi sisestusvorm. Seejärel
