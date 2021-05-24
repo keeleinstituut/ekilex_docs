@@ -63,11 +63,12 @@ Klõpsa töölaual linki „Sõnakogude haldus“. Avaneb leht, millel on sõnak
 - Sõnakogu kood: võimalikult lühike (3-10 märki) tähekombinatsioon, millest saab loodava sõnakogu identifikaator (lühitähis)
 - Nimi: sõnakogu nimi
 - Tüüp: kui lood terminibaasi, vali „terminibaas“, muul juhul „sõnakogu“
-- Kirjeldus: sõnakogu lühikirjeldus
-- Valdkonna klassifikaatori päritolu: vali andmekogu, millest valdkonnad pärinevad. See võib olla mõni olemasolev sõnakogu või iseseisev valdkonna klassifikaator (nt Lenoch, EKI üld)
-- Valdkonnad: Siin on loetelu eelnevalt valitud klassifikaatori kõikidest valdkondadest. Vali loetelust valdkonnad, mida soovid kasutada. Võib valida ükshaaval või vajutada „Vali kõik“.
+- Kirjeldus ja kontaktid (Sõnaveebis nähtav): sõnakogu lühikirjeldus, mida näidatakse Sõnaveebis
+- Lisainfo ja kontaktid (Sõnaveebis mitteavalik): (kontakt)info, mis on nähtav teistele Ekilexi kasutajatele, kuid ei ole nähtav Sõnaveebis.
+- Juhul, kui soovid oma sõnakogu mõistetele lisada valdkonnamärgendeid:
+  - Valdkonna klassifikaatori päritolu: vali valdkonna klassifikaatori kood. See võib olla mõne olemasoleva sõnakogu klassifikaator või iseseisev valdkonna klassifikaator (nt Lenoch, EKI üld). Oma klassifikaatori lisamiseks võta ühendust Ekilexi kasutajatoega.
+  - Valdkonnad: Siin on loetelu eelnevalt valitud klassifikaatori kõikidest valdkondadest. Vali loetelust valdkonnamärgendid, mida soovid oma sõnakogus kasutada. Võib valida ükshaaval või vajutada „Vali kõik“.
 - Keeled: vali keeled, mida soovid oma sõnakogus kasutada
-- Protsessiolekud (ehk haldusolekud): Vali protsessiolekud, mida soovid oma sõnakogus kasutada
 - Nähtav: Ekilexis on sõnakogu info otsinguga leitav
 - Avalik: sõnakogu on avalikustatud ja nähtav lõppkasutajale terminiveebis või sõnaveebis
 - Kui vorm on täidetud, vajuta „Salvesta“
