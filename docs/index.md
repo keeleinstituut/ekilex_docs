@@ -75,6 +75,11 @@ Klõpsa töölaual linki „Sõnakogude haldus“. Avaneb leht, millel on sõnak
 
 Sõnakogu on nüüd loodud ja ilmub sõnakogude nimistusse.
 
+#### Sõnakogu muutmisõigused
+
+Ekilexi kasutajal saab konkreetsele sõnakogule olla omaniku õigus, muutja õigus, vaataja õigus või mitte mingeid õigusi (viimasel juhul näeb kasutaja selles sõnakogus ainult avalikke termineid).
+Kasutaja, kes lõi uue sõnakogu, saab selle omanikuõigused. Sõnakogu omanik saab lisaks sisu muumisele muuta ka sõnakogu seadeid ja metainfot, anda sõnakogu juurdepääsuõigusi teistele Ekilexi kasutajatele ja ka kustutada sõnakogu.
+
 ### Terminitöö sõnakoguga
 
 #### Uue mõistekirje loomine
