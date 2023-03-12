@@ -5,10 +5,14 @@
 - [Töölaud](#töölaud)
 - [Terminite otsing](#terminite-otsing)
 - [Uue sõnakogu loomine](#uue-sõnakogu-loomine)
+  - [Sõnakogu muutmisõigused](#sõnakogu-muutmisõigused)
 - [Terminitöö sõnakoguga](#terminitöö-sõnakoguga)
+  - [Terminite otsing](#terminite-otsing-1)
+  - [Otsingutulemused tabelina](#otsingutulemused-tabelina)
   - [Uue mõistekirje loomine](#uue-mõistekirje-loomine)
   - [Allikaviite lisamine mõistekirjes](#allikaviite-lisamine-mõistekirjes)
 - [Allikad](#allikad)
+  - [Allikate otsing](#allikate-otsing)
   - [Allika loomine](#allika-loomine)
   - [Allika muutmine](#allika-muutmine)
   - [Allika kustutamine](#allika-kustutamine)
@@ -92,7 +96,29 @@ Kasutaja, kes lõi uue sõnakogu, saab selle omanikuõigused. Sõnakogu omanik s
 
 ### Terminitöö sõnakoguga
 
+#### Terminite otsing
+
+<!--kirjelda täpsemalt mida detailotsing endast kujutab-->
+
+##### Otsingutulemused tabelina
+Ekilexis saab mõistekirjete otsingutulemusi kuvada tabelina. See toimib **kuni 50 kirje puhul**. 
+Et tabelivaadet näha, käituge järgmiselt.
+- Tehke soovitud otsing.
+- Vajutage otsingutulemuste ülaosas **nupule "Tabelivaade"**:
+![Pilt: Terminoloogide otsingus Tabelivaate avamine](images/tabelivaade.gif)
+Pilt: Terminoloogide otsingus Tabelivaate avamine
+<!--kas ma peaks pildikirjeldused ka tegema? ma eriti ei oska...also figcaption ei tööta väga??-->
+
+- Kui otsingutulemustes on kuni 50 kirjet, avaneb tabel eraldi vahelehel:
+![Pilt: Otsingu tulemused tabelivormis](images/2-tabelivaaade.png)
+Pilt: Otsingu tulemused tabelivormis
+- Tabelivaates on näha seletused, kirjes olevad terminid ja kasutusnäited. Samuti kuvatakse iga osise avalikkus(tabaluku ikoon).
+
 #### Uue mõistekirje loomine
+
+###### Enne uue mõistekirje lisamist veenduge, et **Tegutsete Ekilexis õiges rollis** (enda terminibaasi muutja või omaniku rollis). Rollide ja nende vahetamise kohta lugege lähemalt [Rollid](#rollid)
+
+
 <!-- video on päris aegunud, teistsugune interface ja protsess... kas eemaldada ja teha uus?-->
 {% include youtube.html id="BXdBK-jYgO0" %}
 Video: Mõistekirje loomine Ekilexis
@@ -100,17 +126,36 @@ Video: Mõistekirje loomine Ekilexis
 - Mine töölauale, avades vasakul ülanurgas rakenduse menüü ja valides sealt „Ekilex“.
 - Veendu, et valitud on soovitud sõnakogu muutja roll. Vastasel juhul vali see rippmenüüst „Vali roll“.
 - Ava töölaual link „Terminoloogid“
-- Vajuta navigeerimisribal „Uus mõiste“. Avaneb uue termini sisestusvorm. Seejärel
+- Valige Terminoloogide vaates loetelust "Valitud sõnakogud" **kõik sõnakogud.** See on oluline, et süsteem oskaks lisatavat terminit teiste terminibaaside infoga võrrelda.
+![Pilt: Terminoloogide vaates sõnakogude valimine](images/1-sonakogude-valimine-1-1.gif)
+Pilt: Terminoloogide vaates sõnakogude valimine
+
+  - Kõiki sõnakogusid aitab valida nupp **"Vali kõik"**.
+![Pilt: Sõnakogude valimisel saab vajutada nuppu "Vali kõik"](images/2-sonakogude-valimine-2.gif)
+Pilt: Sõnakogude valimisel saab vajutada nuppu "Vali kõik"
+
+- Vajuta sinisel navigeerimisribal „Uus mõiste“. Avaneb uue termini sisestusvorm. Seejärel
   - sisesta termin (ehk keelend),
   - selle all on kuvatud sõnakogu nimi, kuhu termin lisatakse,
   - vali rippmenüüst keel,
   - vajuta „Lisa termin“.
+  ![Pilt: Uue mõiste loomine](images/5-uus-moiste-termin.gif)
+  Pilt: Uue mõiste loomine
+
 - Kui sisestatud termin ei esine üheski olemasolevas sõnakogus, siis luuakse uus termin ja mõiste ning kuvatakse kogu info selle mõiste kohta terminoloogi otsingu vaates.
 
-- Kui sisestatud termin juba esineb Ekilexis, siis palub süsteem, et valiksite olemasolevate variantide seast sobivaima tähenduse ja märgiksite selle linnukesega. Misjärel luuakse uus termin ja mõiste ning kuvatakse otsingu tulemused, mille hulgas on ka äsja loodud termin. Kui tulemusi on palju, pead enda loodud mõistekirje ise nende hulgast üles otsima (see ebamugavus paraneb tulevikus).
-<!--no siin saab ikka kenasti juurde kirjutada.-->
+- Kui sisestatud termin juba esineb Ekilexis, kuvab süsteem teile sama kujuga terminid ja nende kirjed, mis on teistesse sõnastikesse ja terminibaasidesse lisatud. Tehke linnuke selle tähendusega termini ette, mis sarnaneb teie omaga enim.
+![Pilt: Terminite valikust sobivaima valimine](images/6-tahendus-valik.gif)
+Pilt: Terminite valikust sobivaima valimine
+  - Mõnikord võib juhtuda, et lehel toodud kirjetel puuduvad definitsioonid. Sel juhul näete kogu kirjet, kui klõpsate nupule **“Vaata tervet kirjet”**, et avada see uuel vahelehel.  
+  Kui te ei leia sellelt lehelt ka pärast “Vaata tervet kirjet” nuppudel klõpsamist ühtegi sobivat tähendust, siis kirjutage aadressile kairi.janson@eki.ee.
 
-#### Allikad
+- Klõpsake sinisel nupul kirjaga **"Loo uus mõiste"**.  
+Misjärel luuakse uus termin ja mõiste ning kuvatakse need. <!--tee kindlaks kas kuvatakse-->
+
+<!--no siin saab ikka kenasti  juurde kirjutada.-->
+
+#### Allikaviite lisamine mõistekirjes
 
 Terminitöös on oluline viidata termini allikatele. Ekilexi saab salvestada allikakirjeid ja terminite juurest neile viidata. Ühe allika jaoks piisab Ekilexis ühest allikakirjest, millele saab viidata erinevatest sõnakogudest. Kui juhtumisi on loodud mitu allikakirjet samale allikale, saab neid ühendada kokku üheks allikakirjeks.
 
@@ -119,8 +164,6 @@ Ekilexi kontekstis nimetatakse allikakirjeid ka lühemalt lihtsalt allikateks.
 <!--Allikate otsimine, lisamine ja muutmine on [siin]()-->
 <!--allikat saab lisada ka term vaates. kas kopeerin siia selle juhendi ilma "mine Allikate Otsing vaatesse" reata, või suunan siit sinna sektsiooni lingiga?-->
 
-##### Allikaviite lisamine mõistekirjes
-
 Kui allikas on loodud, siis saab mõistekirjes tekitada sellele erinevate väljade juures (nagu termin, märkus, definitsioon) viiteid. Terminile saab allikaviite lisada rohelise „+“ nupuga, valides „Allikaviide“. Definitsioonile saab allika lisada, liikudes hiirega selle kohale. Tekib roheline allikaviite lisamise nupuke.
 Vajutades allikaviite lisamise nupule, avaneb allika otsing. Seal saab otsida kõikide allika atribuutide järgi, kaasa arvatud tema nime (SOURCE_NAME) järgi.
 
@@ -128,7 +171,9 @@ Allika otsimisel on kindlasti abiks tärn „\*“, sest selle abil saab leida o
 
 Lahter „Siseviide“ on selle jaoks, kui peaks olema soov täpsustada asukohta selles allikas, nt „lk 69“ ja see kuvatakse allikaviite järel.
 
-### Allikate otsing
+### Allikad
+
+#### Allikate otsing
 
 Juba sisestatud allikate nägemiseks vali rakenduse menüüst „Allikate otsing“. 
 Allikaid saab otsida ükskõik missuguse andmekategooria järgi, nt pealkiri, autor, ISBN, ISSN, väljaandja vm.
