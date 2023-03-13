@@ -11,6 +11,7 @@
   - [Otsingutulemused tabelina](#otsingutulemused-tabelina)
   - [Uue mõistekirje loomine](#uue-mõistekirje-loomine)
   - [Allikaviite lisamine mõistekirjes](#allikaviite-lisamine-mõistekirjes)
+  - [Olemasolevasse mõistekirjesse lisamine](#olemasolevasse-mõistekirjesse-lisamine)
 - [Allikad](#allikad)
   - [Allikate otsing](#allikate-otsing)
   - [Allika loomine](#allika-loomine)
@@ -139,8 +140,8 @@ Pilt: Sõnakogude valimisel saab vajutada nuppu "Vali kõik"
   - selle all on kuvatud sõnakogu nimi, kuhu termin lisatakse,
   - vali rippmenüüst keel,
   - vajuta „Lisa termin“.
-  ![Pilt: Uue mõiste loomine](images/5-uus-moiste-termin.gif)
-  Pilt: Uue mõiste loomine
+  ![Pilt: Termini lisamine](images/5-uus-moiste-termin.gif)
+  Pilt: Termini lisamine
 
 - Kui sisestatud termin ei esine üheski olemasolevas sõnakogus, siis luuakse uus termin ja mõiste ning kuvatakse kogu info selle mõiste kohta terminoloogi otsingu vaates.
 
@@ -171,6 +172,35 @@ Allika otsimisel on kindlasti abiks tärn „\*“, sest selle abil saab leida o
 
 Lahter „Siseviide“ on selle jaoks, kui peaks olema soov täpsustada asukohta selles allikas, nt „lk 69“ ja see kuvatakse allikaviite järel.
 
+#### Olemasolevasse mõistekirjesse lisamine
+
+Terminibaasid on mõistepõhised, mis tähendab, et **ühes mõistekirjes on koos kõik sama mõiste kohta käivad terminid (sünonüümid), sh paralleelvariandid ning terminid teistes keeltes.**
+
+Kui soovite juba **olemasolevasse kirjesse uut terminit lisada** (ükskõik, mis keeles), peaksite vajutama mõistekirje ülaosas nupule **“Lisa termin”**.  
+Lisatav termin võib olla nii muukeelne vaste kui ka eesti- või muukeelne sünonüüm.
+![Pilt: Uue termini lisamine](images/termini-lisamine-oige.gif)
+Pilt: Uue termini lisamine
+
+**Kindlasti ei tohiks sünonüüme või muid terminivariante kirjutada koos ühele ja samale terminiväljale.  
+Terminiväljal ei tohiks olla komasid, semikooloneid, kaldkriipse või muid sümboleid, välja arvatud siis, kui need on termini enda osa.**
+
+##### Näide
+
+Oletame, et tahan sünonüümidena terminibaasi kanda terminid **hõberemmelgas** ja **hõbepaju.**
+
+- Kui hakkan mõistekirjet alles looma, vajutan Ekilexis ülevalt siniselt ribalt nuppu “Uus mõiste”. Lisan termini *hõberemmelgas*. 
+- Kui mõistekirje on juba loodud ja soovin kirjesse lisada ka teise termini (sünonüümi), pean selle lisama uuele terminiväljale. **Selleks vajutan loodud kirjes nuppu “Lisa termin”**. Trükin avanenud väljale termini *hõbepaju* ja valin keeleks eesti.
+  - Muukeelse termini (vaste) lisamine käib samamoodi, ainult et eesti keele asemel tuleb avanenud aknas valida termini õige keel.
+- Lisatud terminid on nüüd esitatud eri terminiväljadel ja vaade on järgmine. Mõlemad terminid tulevad välja, kui neid Ekilexis või Sõnaveebis otsida.
+![Pilt: näidatud *hõberemmelgas* ja *hõbepaju* sünonüümidena](images/synonyymid.png)
+Pilt: näidatud *hõberemmelgas* ja *hõbepaju* sünonüümidena
+
+Et leida oma terminibaasist termineid, mis võivad olla ühel väljal koma, semikooloni või mõne muu märgiga eraldatud, võiksite kasutada järgmist otsingut:
+![Pilt: Terminoloogide vaate detailotsing: termin; väärtus; sisaldab; soovitud märk](images/symbolid.png)
+Pilt: Terminoloogide vaate detailotsing: termin; väärtus; sisaldab; soovitud märk
+
+
+
 ### Allikad
 
 #### Allikate otsing
@@ -186,18 +216,28 @@ Siin on väga soovitav kasutada metamärke, nt lisades otsisõna ette ja taha �
 {% include youtube.html id="sYKciBlkbHc" %}
 Video: Allikakirje loomine Ekilexis
 
-Allikakirjeid saab lisada valides rakenduse menüüst „Allikate otsing“ ja avanenud lehel vajutades „Lisa uus allikas“.
+###### NB! Enne uue allika lisamist võiksite teha allika nimega otsingu, et veenduda, ega sama allikakirjet pole juba lisatud.
 
-**Pealkiri** (allika nimi, SOURCE_NAME) on kirjaliku allika (näiteks raamatu) puhul harilikult selle pealkiri, aga selle võib vajadusel ka ise vabalt valida. Allika nimi kuvatakse ka allikaviitena mõiste kirjes.
-Kui allikal on väga pikk nimi ja seda on samas mõistekirjes vaja kasutada mitmes kohas, võib allikale leiutada mingi lühendi (**Lühinimi**) ja lisada see lühend ühe nimetusena (nt „WMO“), siis saab mõistekirjes kasutada lühendit ja see ei võta nii palju ruumi ekraanil.
+- Allikakirjeid saab lisada valides rakenduse menüüst „Allikate otsing“ ja avanenud lehel vajutades **„Lisa uus allikas“**.
+![Pilt: Nupp "Lisa uus allikas"](images/1-lisa-uus-allikas.gif)
+Pilt: Nupp "Lisa uus allikas"
 
-Allika **tüübiks** tuleks kirjaliku allika puhul valida Dokument.
+- **Pealkiri** (allika nimi, SOURCE_NAME) on kirjaliku allika (näiteks raamatu) puhul harilikult selle pealkiri, aga selle võib vajadusel ka ise vabalt valida. Allika nimi kuvatakse ka allikaviitena mõiste kirjes.
 
-Alumises kastis saab allikale lisada muid informatiivseid välju (atribuute), näiteks vaikimisi on seal valitud autor. Kui raamatul on mitu autorit, võib iga ühe jaoks luua eraldi välja, aga pole ka probleemi, kui nad pannakse komadega eraldatult samale väljale. Samale väljale pannakse vajadusel ka autori tüüp, nt „koostanud Juhan Juurikas“ või „toimetanud J. Tatikas“.
-Vajutades rohelisele „+“ nupule saab allikale lisada veel uusi välju. Samuti saab allikale välju lisada hiljem, kui allikas on juba loodud. Saab ka eemaldada välju punase „-“ nupuga.
+- Kui allikal on väga pikk nimi ja seda on samas mõistekirjes vaja kasutada mitmes kohas, võib allikale leiutada mingi lühendi (**Lühinimi**) ja lisada see lühend ühe nimetusena (nt „WMO“), siis saab mõistekirjes kasutada lühendit ja see ei võta nii palju ruumi ekraanil.
+![Pilt: Lühinime väli on pildil näidatud punase kastiga](images/raamat-luhinimi.png)
+Pilt: Lühinime väli on pildil näidatud punase kastiga
+
+- Allika **tüübiks** tuleks kirjaliku allika puhul valida Dokument.
+
+- Alumises kastis saab allikale lisada muid informatiivseid välju (atribuute), näiteks vaikimisi on seal valitud autor. Kui raamatul on mitu autorit, võib iga ühe jaoks luua eraldi välja, aga pole ka probleemi, kui nad pannakse komadega eraldatult samale väljale. Samale väljale pannakse vajadusel ka autori tüüp, nt „koostanud Juhan Juurikas“ või „toimetanud J. Tatikas“.
+
+- Vajutades rohelisele „+“ nupule saab allikale lisada veel uusi välju. Samuti saab allikale välju lisada hiljem, kui allikas on juba loodud. Saab ka eemaldada välju punase „-“ nupuga.
 <!--siia võiks äkki väikese png-ga lisada nupu pildid?-->
 
-Ühel allikal võib olla ka mitu nime, näiteks pealkiri erinevates keeltes. Nimesid saab juurde lisada nii, nagu ka muid allika välju (valides välja tüübiks Lühinimi/pealkiri). 
+- Ühel allikal võib olla ka mitu nime, näiteks pealkiri erinevates keeltes. Nimesid saab juurde lisada nii, nagu ka muid allika välju (valides välja tüübiks Lühinimi/pealkiri). 
+
+- Vajutage nuppu **“Lisa”**.
 
 #### Allika muutmine
 
@@ -213,9 +253,13 @@ Allika muutmine tähendab siis sisuliselt allikakirje mõne välja ehk allika at
 - Atribuudi muutmiseks:
   - Otsi allikas, mida tahad muuta.
   - Liigu hiire kursoriga välja peale, mida tahad muuta. Välja lõppu tekivad nupukesed.
+  ![Pilt: Välja lõppu tekivad muutmis- ja kustutamisnupp](images/artikkel-jm-luhinimi-3-muuda.png.gif)
+  Pilt: Välja lõppu tekivad muutmis- ja kustutamisnupp
   - Vajuta sinisele nupukesele „Muuda“.
   - Avaneb välja muutmisvorm.
   - Muuda välja sisu, salvestamiseks vajuta „Muuda“.
+  ![Pilt: Sisu lisamine ja salvestamine](images/artikkel-jm-luhinimi-4-muuda.png.gif)
+  Pilt: Sisu lisamine ja salvestamine
 - Atribuudi kustutamiseks:
   - Otsi allikas, mida tahad muuta.
   - Liigu hiire kursoriga välja peale, mida tahad muuta. Välja lõppu tekivad nupukesed.
@@ -231,7 +275,6 @@ Allikakirje kustutamiseks:
 - Vajuta kollasele nupule „Eemalda allikas“.
 
 #### Allika ühendamine ?
-
 
 
 
