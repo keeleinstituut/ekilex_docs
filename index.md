@@ -12,6 +12,7 @@
   - [Uue mõistekirje loomine](#uue-mõistekirje-loomine)
   - [Allikaviite lisamine mõistekirjes](#allikaviite-lisamine-mõistekirjes)
   - [Olemasolevasse mõistekirjesse lisamine](#olemasolevasse-mõistekirjesse-lisamine)
+  - [Mitteavaliku sisemärkuse lisamine](#mitteavaliku-sisemärkuse-lisamine)
 - [Allikad](#allikad)
   - [Allikate otsing](#allikate-otsing)
   - [Allika loomine](#allika-loomine)
@@ -199,6 +200,24 @@ Et leida oma terminibaasist termineid, mis võivad olla ühel väljal koma, semi
 ![Pilt: Terminoloogide vaate detailotsing: termin; väärtus; sisaldab; soovitud märk](images/symbolid.png)
 Pilt: Terminoloogide vaate detailotsing: termin; väärtus; sisaldab; soovitud märk
 
+#### Mitteavaliku sisemärkuse lisamine
+Nii terminite kui ka mõisteploki (kirje ülemine osa, mis sisaldab definitsioone, seotud termineid ja valdkondi) juurde saab lisada sisemärkusi, mis ei muutu Sõnaveebis avalikuks. Sisemärkustesse saab kirjutada teavet, mis on oluline vaid komisjonile endale.
+
+- **Sisemärkuse nupp** asub terminite või mõisteploki juures paremal pool (kirja “ÕS selgitab” juures).
+![Pilt: Sisemärkuse "+" nupu asukoht](images/1-sisemarkus-nupp-1.gif)
+Pilt: Sisemärkuse "+" nupu asukoht
+- Avanevasse tekstiaknasse saab trükkida sisemärkuse. Sisemärkuse lisamiseks tuleb vajutada nuppu **“Lisa”**.
+![Pilt: Sisemärkuse lisamine](images/2-sisemarkus-lisamine.gif)
+Pilt: Sisemärkuse lisamine
+- Sisemärkuse olemasolu kirjes näitab selle nupu juures olev **punane täpike**. Kui täpikese kõrval olevale **noolele klõpsata**, saab sisemärkust näha. Uuesti klõpsates saab sisemärkuse sulgeda.
+![Pilt: Sisemärkuse olemasolu ja selle avamine](images/3-sisemarkus-vaatamine.gif)
+Pilt: Sisemärkuse olemasolu ja selle avamine
+- **Terminoloogide vaate detailotsingust on võimalik üles leida kirjed, kuhu olete sisemärkuse lisanud**. Selleks tuleb minna detailotsingusse ja teha järgmised valikud.  
+**NB!** Esimesest tulbast peab olema valitud “termin” juhul, kui tahate leida termini juurde lisatud sisemärkusi. Kui lisasite sisemärkuse kõige üles, st mõisteplokki (definitsioonide juurde), leiate sellised kirjed üles, kui valite otsingus esimesest rippmenüüst “Mõiste”.
+![Pilt: Detailotsingu kasutamine sisemärkusega terminite otsimiseks](images/4-sisemarkus-otsimine.png)
+Pilt: Detailotsingu kasutamine sisemärkusega terminite otsimiseks
+
+Ekilexis saab mitteavalikuks muuta ka neid välju, mis on muidu avalikud (termin koos selle juures oleva teabega, definitsioon, kasutusnäide jm).
 
 
 ### Allikad
