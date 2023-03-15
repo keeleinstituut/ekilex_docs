@@ -39,7 +39,7 @@ Ekilex on Eesti Keele Instituudi sõnastiku- ja terminibaasisüsteem. Ekilex asu
   + Vaatamisõiguse saamiseks vajuta lihtsalt „Hakka Ekilexi kasutama“. Selle valikuga saad ka muutmisõiguse „Katsebaasile“, kus saab katsetada andmete sisestamist.
   + Muutmisõiguste taotlemiseks olemasolevale sõnakogule: 
     - Vajuta „Soovin sõnakogude muutmisõigust“ ja vali soovitud sõnakogu(d), mille autorite hulka sa kuulud. Pole mõtet valida sõnakogusid, millega sul puudub seos.
-    - Muutmisõiguse taotlemise korral vajuta ka „Soovin põhjendada taotlust“ ja kirjuta lahtrisse lühidalt, kuidas oled sõnakoguga seotud.
+    - Muutmisõiguse taotlemise korral vajuta ka „Soovin põhjendada taotlust“ ja kirjuta lahtrisse lühidalt, kuidas oled sõnakoguga seotud. Põhjendus on kohustuslik.
     - Seejärel vajuta „Saada taotlus“.
     - Nüüd tuleb oodata, kuni Ekilexi administraator annab sulle küsitud õigused. Selle kohta saadetakse e-kiri. Pärast seda saad hakata Ekilexi kasutama. Kui oled õiguste saamise hetkel (e-kirja saabumise hetkel) Ekilexi sisse logitud, pead kõigepealt välja logima ja siis uuesti sisse logima, selleks, et õigused rakenduksid.
 
@@ -70,6 +70,24 @@ Terminitööks soovitame kasutada terminoloogide otsingut ehk terminoloogi vaade
   - **\*** = 0 või rohkem suvalisi tähemärke. (nt kui otsid „\*hiir\*“, siis leiad nii „hiir“, „arvutihiir“, „hiirehernes“ kui „aedhiirehernes“.)
 - Vajuta „Otsi“.
 Täpsem Terminoloogide töökäigu juhend on [siin](#terminitöö-sõnakoguga).
+
+#### Detailotsingu kriteeriumide peitmine
+
+Ekilexis on detailotsing, mis võimaldab terminibaasist kindlate kriteeriumide alusel kirjeid leida. Et aga otsing tulemusi sirvides liiga palju ruumi ja tähelepanu ei nõuaks, on võimalik otsingukriteeriumid selleks ajaks peitu klõpsata.
+
+- **Kriteeriume saab peita otsingukastide all paikneva noolekesega**. Et otsing taas avada, tuleks uuesti noolekesele klõpsata.
+![Pilt: Detailotsingu peitmine](images/1-detotsing-peitmine.gif)
+Pilt: Detailotsingu peitmine
+
+
+#### Otsingutulemustes kindlale lehele minemine
+
+Kui teete Ekilexis otsinguid, võib mõnikord tulla lehekülgede kaupa vastuseid. Et te ei peaks soovitud leheni jõudmiseks kõiki eelmisi lehti läbi vaatama, võite lahtri “Mine lehele” järele sisestada selle lehenumbri, kuhu soovite suunduda.
+
+- **Lahter “Mine lehele” asub otsingutulemuste allosas.** Kui te seda kohe ei näe, püüdke leht alla kerida ning otsige lahtrit lehe vasakul pool asuvate tulemuste alläärest.
+- Lehele suundumiseks **trükkige lahtrisse soovitud number** ning **vajutage klaviatuuril nuppu “Enter”**.
+![Pilt: Lehe all vasakul asuv lahter, kuhu saab lehe numbri sisestada](images/Mine-lehele.png)
+Pilt: Lehe all vasakul asuv lahter, kuhu saab lehe numbri sisestada
 
 ### Uue sõnakogu loomine
 
@@ -155,7 +173,6 @@ Pilt: Terminite valikust sobivaima valimine
 - Klõpsake sinisel nupul kirjaga **"Loo uus mõiste"**.  
 Misjärel luuakse uus termin ja mõiste ning kuvatakse need. <!--tee kindlaks kas kuvatakse-->
 
-<!--no siin saab ikka kenasti  juurde kirjutada.-->
 
 #### Allikaviite lisamine mõistekirjes
 
@@ -219,6 +236,64 @@ Pilt: Detailotsingu kasutamine sisemärkusega terminite otsimiseks
 
 Ekilexis saab mitteavalikuks muuta ka neid välju, mis on muidu avalikud (termin koos selle juures oleva teabega, definitsioon, kasutusnäide jm).
 
+#### Kirjete osiste mitteavalikuks muutmine
+Ekilexis on mõistekirje iga tekstivälja juures võimalik valida selle avalikkust. Vaikimisi on kõik väljad avalikud – see tähendab, et neid välju näeb ka iga väliskasutaja(Sõnaveebis).
+
+Mõnikord aga võib juhtuda, et soovite mõistekirjesse lisada teavet iseenda ja teiste oma terminibaasi koostajate jaoks ega soovi, et kümned tuhanded väliskasutajad seda näeksid. Samuti võite soovida mitteavalikuks muuta osiseid, mida tahate veel muuta või täiendada.
+
+Siiski pidage meeles: mittetäielik teave on kasutaja jaoks väärtuslikum kui teabe puudumine. Seepärast **soovitame üldjuhul hoida kõik kirje osised avalikud** – kui just need ei ole mõeldud sisekommentaaridena terminibaasi koostajatele endile.
+
+##### Termini avalikkuse muutmine
+Termini ja sellega seotud teabe avalikkusest annab märku termini juures olev **tabaluku märk**. Avatud tabalukk näitab, et termin koos teabega on **avalik**, suletud tabalukk aga näitab, et termin **ei ole avalikus keeleportaalis nähtav**.
+- Termini avalikkust saab muuta, kui **tabaluku ikoonil klõpsata**:
+![Pilt: termini avalikkuse muutmine tabaluku ikooni alt](images/termini-avalikkus.gif)
+Pilt: termini avalikkuse muutmine tabaluku ikooni alt
+
+Kui märgite termini mitteavalikuks, muutub mitteavalikuks ka muu selle juures olev info (kasutusnäide, allikaviide jm). **Kui mõistekirjes on kõik terminid märgitud mitteavalikuks, on väliskasutaja eest peidus kogu kirje**. 
+
+- Hiljem saate termini samale ikoonile klõpsates taas avalikustada. 
+
+##### Definitsiooni, märkuse, kasutusnäite avalikkuse muutmine
+
+Teiste tekstiväljade avalikkust saab muuta kas neid lisades või muutes. **Selleks peab eemaldama linnukese kirja “Avalik” eest**. 
+- Näiteks kui soovin mitteavalikuks muuta definitsiooni märkust, vajutan esmalt **definitsiooni muutmisnuppu**:
+![Pilt: Hiirega peale liikudes definitsiooni lõpus ilmuv sinine muutmisnupp](images/markuse-muutmisnupp.gif)
+Pilt: Hiirega peale liikudes definitsiooni lõpus ilmuv sinine muutmisnupp
+
+- Seejärel **eemaldan avanenud aknas linnukese välja “Avalik” eest** ja **vajutan “Salvesta”**:
+![Pilt: Muutmisaknas "Avalik" eest linnukese eemaldamine ja Salvestamine](images/markuse-muutmisnupp-2.gif)
+Pilt: Muutmisaknas "Avalik" eest linnukese eemaldamine ja Salvestamine
+
+**NB!** Kui muudate mingi välja mitteavalikuks ajutiselt, siis **ärge unustage seda hiljem taas avalikustada**.
+
+
+#### Pisiparanduste tegemine ilma muutmiskuupäeva muutusteta
+
+Pisiparanduste funktsioon võimaldab teha “kirurgilisi” muudatusi ilma, et mõistekirje muutmiskuupäev muutuks. Pisiparanduste funktsiooni ei pea kasutama, kuid mõnikord võib see olla kasulik.
+Näiteks kui teil ei ole aega tervet kirjet üle vaadata ja sellesse süveneda, siis ei ole mõistlik, et ka kirje muutmise kuupäev muutuks – kasutaja eeldab, et siis olete kogu kirje sel ajal üle vaadanud ja ajakohastanud.
+
+- Pisiparanduste tegemise funktsiooni saab sisse ja välja lülitada **kirje allosas paremal pool asuvast sinisest nupust**.
+![Pilt: Pisiparanduste funktsiooni sisse lülitamine](images/1-pisiparandused.gif)
+Pilt: Pisiparanduste funktsiooni sisse lülitamine
+
+#### Piltide lisamine tekstiväljadele
+
+**Mõistekirje tekstiväljadele** (definitsioon, märkus, kontekst jm) **saab lisada pilte**. Need võimaldavad kirja panna erisümboleid sisaldavaid valemeid ja muud teavet, mida on tavapäraste tekstitööriistade abil keerukas sisestada.
+
+- Selleks, et valemeid lisada, **peaks pilt olema varem internetti üles laadidud**.
+- Pildi lisamiseks tuleb soovitud tekstivälja kastis vajutada sinist pildi lisamise nuppu. Seejärel tuleb kleepida aadressiväljale pildi avalik aadress. Kui kasutate näiteks pilveteenust, peab veenduma, et kopeeriksite just pildi avaliku jagamise aadressi.
+![Pilt: Pildi lisamise nupp, aadressi kleepimine ja lisamine](images/1-pilt_tekstivaljale.gif)
+Pilt: Pildi lisamise nupp, aadressi kleepimine ja lisamine
+
+#### Mõistekirje dubleerimine
+Mõistekirje dubleerimise funktsioon võib mõnikord kasuks tulla näiteks juhul, kui ühte kirjesse on kogemata lisatud kahe mõiste info ja soovite ühest kirjest teha kaks erinevat.
+
+- **Mõiste dubleerimise nupp** asub kirje ülaosas nuppude “Lisa termin” ja “Ühenda” kõrval.
+![Pilt: Dubleerimise nupp kirje ülaosas](images/1_duplikaat.gif)
+Pilt: Dubleerimise nupp kirje ülaosas
+
+**Kui mõiste on dubleeritud, ilmub duplikaat automaatselt eelmise mõistekirje kõrvale, kuid on sellegipoolest teine kirje**.  
+Ühes kirjes tehtavad muudatused kajastuvad vaid selles kirjes ega kandu automaatselt teise kirjesse: sisuliselt ongi tegu kahe eraldiseisva kirjega, milles on lihtsalt samasugune info.
 
 ### Allikad
 
@@ -304,10 +379,3 @@ Küsimuste korral kirjuta [kasutajatugi@ekilex.ee](mailto:kasutajatugi@ekilex.ee
 
 
 Süsteemi alles arendatakse, mistõttu juhend täieneb.
-
-
-
-
-
-
-
