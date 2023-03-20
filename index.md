@@ -72,13 +72,14 @@ Terminitööks soovitame kasutada terminoloogide otsingut ehk terminoloogi vaade
 - Vajuta „Otsi“.
 Täpsem Terminoloogide töökäigu juhend on [siin](#terminitöö-sõnakoguga).
 
+<!-- kas seda ümber sõnastada et see ei oleks ainult terminoloogide otsingu kohta??-->
+
 #### Detailotsingu kriteeriumide peitmine
 
 Ekilexis on detailotsing, mis võimaldab terminibaasist kindlate kriteeriumide alusel kirjeid leida. Et aga otsing tulemusi sirvides liiga palju ruumi ja tähelepanu ei nõuaks, on võimalik otsingukriteeriumid selleks ajaks peitu klõpsata.
 
 - **Kriteeriume saab peita otsingukastide all paikneva noolekesega**. Et otsing taas avada, tuleks uuesti noolekesele klõpsata.
-![Pilt: Detailotsingu peitmine](images/1-detotsing-peitmine.gif){: .shadow}
-
+![Pilt: Detailotsingu peitmine](images/1-detotsing-peitmine.gif)
 Pilt: Detailotsingu peitmine
 
 

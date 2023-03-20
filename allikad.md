@@ -22,6 +22,29 @@ Allikaid saab otsida ükskõik missuguse andmekategooria järgi, nt pealkiri, au
 Vaikimisi avaneb lihtotsing, kus otsikasti võib sisestada ükskõik missuguse andmekategooria.
 Siin on väga soovitav kasutada metamärke, nt lisades otsisõna ette ja taha „\*“. 
 
+#### Konkreetse allika viited mõistekirjades
+
+Ekilexis on võimalik näha, millistes mõistekirjetes olen allikakirjet kasutanud ehk sellele viidanud. Selleks peaks:
+
+1. vajutama allikakirje paremast nurgast nupule **“Otsi viiteid”**,
+2. vajutama avanenud rippmenüüst **“Term otsing”**.
+![Pilt: Allika viidete otsimine](images/allikaviidete-otsimine-1.gif)
+Pilt: Allika viidete otsimine
+
+Seejärel avaneb terminoloogide vaates (seal, kus tavaliselt mõistekirjeid luuakse ja otsitakse) **loetelu kirjetest, kus allikale viidatud on**.
+
+**NB!** Kui tahate tulemustes näha enda terminibaasi kirjeid, peate kindlasti terminoloogide vaate **valitud sõnakogude valikus olema enne märkinud enda terminibaasi**.
+
+**Näide:** soovin näha tulemusi EKI ühendterminibaasi Esterm 2 kohta. Seega veendun, et juba enne allikakirjete juurde minemist on valitud sõnakogudest Esterm 2 valitud. Vaata allolevatelt animatsioonidelt, kuidas sõnakogusid valida.   
+
+![Pilt: Sõnakogude valimine](images/sonakogu-valimine-1.gif)
+Pilt: Sõnakogude valimine
+
+![Pilt: Kindla sõnakogu valimine](images/sonakogu-valimine-2.gif)
+Pilt: Kindla sõnakogu valimine
+
+Kui õige sõnakogu on enne allikate otsingu tegemist valitud, siis näete pärast allikaviidete otsimist kõiki kirjeid, kus konkreetsele allikale viidatud on.
+
 ---
 
 ### Allika loomine

@@ -8,11 +8,24 @@
 
 ### Sisukord
   - [Terminite otsing](#terminite-otsing-1)
-  - [Otsingutulemused tabelina](#otsingutulemused-tabelina)
+    - [Otsingutulemused tabelina](#otsingutulemused-tabelina)
   - [Uue mõistekirje loomine](#uue-mõistekirje-loomine)
-  - [Allikaviite lisamine mõistekirjes](#allikaviite-lisamine-mõistekirjes)
+    - [Mõiste definitsiooni vormijuhend](#mõiste-definitsiooni-vormijuhend)
+      - [Üldine](#üldine)
+      - [Vormistuslik pool](#vormistuslik-pool)
+      - [Sisuline pool](#sisuline-pool)
+    - [Mõiste ja Termini vahe](#mõiste-ja-termini-vahe)
+    - [Allikaviite lisamine mõistekirjes](#allikaviite-lisamine-mõistekirjes)
+    - [Mitmele allikale toetuva definitsiooni allikaviide](#mitmele-allikale-toetuva-definitsiooni-allikaviide)
   - [Olemasolevasse mõistekirjesse lisamine](#olemasolevasse-mõistekirjesse-lisamine)
-  - [Mitteavaliku sisemärkuse lisamine](#mitteavaliku-sisemärkuse-lisamine)
+    - [Definitsiooni lisamine](#definitsiooni-lisamine)
+    - [Mitteavaliku sisemärkuse lisamine](#mitteavaliku-sisemärkuse-lisamine)
+  - [Kirjete osiste mitteavalikuks muutmine](#kirjete-osiste-mitteavalikuks-muutmine)
+    - [Termini avalikkuse muutmine](#termini-avalikkuse-muutmine)
+    - [Definitsiooni, märkuse, kasutusnäite avalikkuse muutmine](#definitsiooni-märkuse-kasutusnäite-avalikkuse-muutmine)
+  - [Pisiparanduste tegemine ilma muutmiskuupäeva muutusteta](#pisiparanduste-tegemine-ilma-muutmiskuupäeva-muutusteta)
+  - [Piltide lisamine tekstiväljadele](#piltide-lisamine-tekstiväljadele)
+  - [Mõistekirje dubleerimine](#mõistekirje-dubleerimine)
 
 ---
 
@@ -74,6 +87,100 @@ Pilt: Terminite valikust sobivaima valimine
 - Klõpsake sinisel nupul kirjaga **"Loo uus mõiste"**.  
 Misjärel luuakse uus termin ja mõiste ning kuvatakse need. <!--tee kindlaks kas kuvatakse-->
 
+#### Mõiste definitsiooni vormijuhend
+
+Siinne juhend annab näpunäiteid nii definitsiooni **vormiliseks** kui ka **sisuliseks** koostamiseks.
+
+Kuna Ekilexis töötavad koos paljud eri tegijad, on tähtis, et kõigi terminibaaside koostajad järgiksid **sarnast stiili**. Nii on suur ühisbaas ühtlasem. Seega oleks hea, kui ka terminibaaside koostajad lähtuksid definitsioonide koostamisel **ühest ja samast tavast**.
+
+Näitena võime vaadata nt Ekilexi [ükssarviku kirje](https://ekilex.ee/termsearch/smode/SIMPLE/rmode/WORD/sfilt/%C3%BCkssarvik?id=509220) definitsiooni:
+**noor, hrl vähem kui 10 aastat tegutsenud idufirma, mille turuväärtus on vähemalt miljard dollarit**
+
+**Hea Definitsioon:**
+
+- on lühike
+- on täpne
+- algab väikese tähega
+- lõppeb punktita
+- defineerib vaid ühte mõistet
+- ei sisalda üleliigset infot
+- ei korda defineeritava mõiste terminit
+- sisaldab asjakohaseid termineid
+
+##### Üldine
+
+1. **Iga kirje defineerib ainult ühte mõistet**. Näiteks defineerime erinevalt joogi- ja kõnniteed. Niisiis peaks kummagi kohta olema koostatud eraldi kirje, kus asuks ainult seda konkreetset mõistet väljendav definitsioon.
+2. **Kõik kirjes esinevad selgitamist vajavad mõisted on defineeritud omaette kirjetes**. Kui näiteks definitsioonis esineb mingi mõiste, mis vajaks lisaselgitust, peaks selle kohta koostama omaette kirje, mitte aga defineerima seda käsilolevas kirjes.
+
+Näiteks esineb ükssarviku definitsioonis (**noor, hrl vähem kui 10 aastat tegutsenud idufirma, mille turuväärtus on vähemalt miljard dollarit**) termin “idufirma”. Idufirma kohta peaks koostama eraldi mõistekirje, kus see mõiste defineeritud oleks.
+
+##### Vormistuslik pool
+
+1. **Definitsioon peaks üldjuhul olema ühelauseline ja lõppema punktita.**
+    - :heavy_check_mark: väljakujunenud idufirma, mille väärtus on vähemalt 1 miljard USA dollarit
+    - :x: Väljakujunenud idufirma, mille väärtus on vähemalt 1 miljard USA dollarit.
+
+2. **Lisainfoks sobib kasutada märkuse väljasid, mõnel juhul ka termini kasutusnäite välja. Definitsiooni märkus peaks olema lisatud definitsiooni märkuse väljale, mitte definitsiooniga samale väljale.**
+
+3. **Definitsiooni alguses ei tohiks olla korratud defineeritavat terminit. Definitsiooni alguses ei tohiks olla kasutatud ka tegusõnu, nagu nt on, viitab, kirjeldab.**
+    - :heavy_check_mark: väljakujunenud idufirma, mille väärtus on vähemalt 1 miljard USA dollarit
+    - :x: ükssarvik on väljakujunenud idufirma, mille väärtus on vähemalt 1 miljard USA dollarit
+
+4. **Definitsioon peaks olema esitatud ainsuses.**
+    - :heavy_check_mark: väljakujunenud idufirma, mille väärtus on vähemalt 1 miljard USA dollarit
+    - :x: väljakujunenud idufirmad, mille väärtus on vähemalt 1 miljard USA dollarit
+
+5. **Definitsioonis ei tohiks olla kasutatud defineeritava mõiste kohta käivat terminit ega sünonüümi või lühendit.**  
+Näide: **idufirma** (sünonüüm *startup*)
+    - :heavy_check_mark: alles käivituv suure kasvupotentsiaali ja uudse äriideega väikeettevõte
+    - :x: alles käivituv *startup*, millel on suur kasvupotentsiaal ja uudne äriidee
+
+6. **Definitsioonis peaks olema kasutatud sama sõnaliiki kui termini puhul: tegusõna on defineeritud tegusõna või tegusõnafraasi abil, nimisõna nimisõna kaudu**  
+Näide: **toitumine**
+    - :heavy_check_mark: organismi varusta<ins>mine</ins> toitainetega
+    - :x: toitained, millega organismi varustatakse
+
+7. **Ühel definitsiooniväljal peaks olema ainult üks definitsioon.**  
+Näide: **kardioloogia**
+    - :heavy_check_mark: 1. välja definitsioon: meditsiinivaldkond, kus uuritakse südame- ja veresoonkonna ehitust ja talitlust ning kaasasündinud ja omandatud haigusi ning tegeldakse südamehaiguste ennetamise, diagnoosimise ja raviga  
+    :heavy_check_mark: 2. välja definitsioon: meditsiinivaldkond, kus uuritakse, ennetatakse, diagnoositakse ning ravitakse südame- ja veresoonkonnahaigusi
+    - :x: meditsiinivaldkond, kus uuritakse südame- ja veresoonkonna ehitust ja talitlust ning kaasasündinud ja omandatud haigusi ning tegeldakse südamehaiguste ennetamise, diagnoosimise ja raviga; meditsiinivaldkond, kus uuritakse, ennetatakse, diagnoositakse ning ravitakse südame- ja veresoonkonnahaigusi
+
+##### Sisuline pool
+
+1. **Definitsioon peaks olema selge ja ühemõtteline.**
+
+2. **Definitsioonis peaks olema esitatud defineeritava olemasolevad, mitte puuduvad tunnused.**  
+Näide: **lehtpuu**
+    - :heavy_check_mark: heitlehine või igihaljas lehtedega puu
+    - :x: puu, mis ei ole okaspuu
+
+3. **Definitsioonis peaks olema toodud kõik olulised tunnused, mille poolest mõiste eristub naabermõistetest (lähedastest mõistetest)**  
+Näite: **toomingas**
+    - :heavy_check_mark: valgete lõhnavate õiekobarate ja mustade või punaste luuviljadega lehtpuu või -põõsas
+    - :x: lehtpuu
+
+#### Mõiste ja Termini vahe
+
+**“Mõiste” ja “termin” ei ole sünonüümid.**
+
+**Mõiste on teadmusüksus**, st ettekujutus mingist
+objektist või nähtusest. Mõistet kirja panna ei saa.
+
+**Termin on sõnaüksus**, st sõna või sõnaühend,
+millega mõistet tähistatakse.
+
+Mõiste ja termini suhet iseloomustab järgmine illustratsioon:
+![Pilt: Mõistet kirja panna ei saa, kuid seda tähistame **terminitega** ja kirjeldame **definitsiooni** kaudu.](images/Moiste-termin.png)
+Pilt: Mõistet kirja panna ei saa, kuid seda tähistame **terminitega** ja kirjeldame **definitsiooni** kaudu.
+
+##### Mõiste ja termin Ekilexis
+
+Ekilexis on ühe mõiste kohta käiv teave (**sh terminid ja definitsioonid**) koondunud ühte **mõistekirjesse**.
+
+![Pilt: Terminoloogide kuva, üleval on eri definitsioonid, all üksteise järel terminid. Mõlemad need kokku on mõistekirje.](images/Moistekirje-naide.png)
+Pilt: Terminoloogide kuva, üleval on eri definitsioonid, all üksteise järel terminid. Mõlemad need kokku on mõistekirje.
+
 #### Allikaviite lisamine mõistekirjes
 
 Terminitöös on oluline viidata termini allikatele. Ekilexi saab salvestada allikakirjeid ja terminite juurest neile viidata. Ühe allika jaoks piisab Ekilexis ühest allikakirjest, millele saab viidata erinevatest sõnakogudest. Kui juhtumisi on loodud mitu allikakirjet samale allikale, saab neid ühendada kokku üheks allikakirjeks.
@@ -89,6 +196,33 @@ Vajutades allikaviite lisamise nupule, avaneb allika otsing. Seal saab otsida k�
 Allika otsimisel on kindlasti abiks tärn „\*“, sest selle abil saab leida osalisi vasteid. Nt otsides "int\*meteo\*" leitakse "INTERNATIONAL METEOROLOGICAL VOCABULARY", sest * asendab suvalist arvu märke. Kui nimesid on mitu, nagu selles näites, saab raadionupuga valida selle nime, mida hakatakse kuvama allikaviitena.
 
 Lahter „Siseviide“ on selle jaoks, kui peaks olema soov täpsustada asukohta selles allikas, nt „lk 69“ ja see kuvatakse allikaviite järel.
+
+#### Mitmele allikale toetuva definitsiooni allikaviide
+
+Siia alla kuuluvad juhtumid, kus definitsioon ei pärine sõna-sõnalt konkreetsest allikast (raamat, leksikon, muu terminibaas vms), aga komisjon on
+<ol type="a">
+  <li>sealse definitsiooni aluseks võtnud ja selles muudatusi teinud;</li>
+  <li>mitme allika põhjal ühe definitsiooni koostanud.</li>
+</ol>
+
+Sellistes olukordades tuleks definitsioonile lisada mitu allikaviidet: **üks komisjonile ja teine inspiratsiooniks olnud allikale**. Kui definitsioon on koostatud mitme eri allika põhjal, peaks **viitama neile kõigile**.
+
+Kokkuleppe kohaselt paikneb **komisjoni allikaviide esimesel kohal, sellele järgnevad inspiratsiooniallika või -allikate viited (vt allolevat pilti)**. Kuna allikaviidete lisamisel läheb esimesele kohale viimasena lisatud viide, peaks viited lisama järgmises järjekorras:
+
+1. **inspiratsiooniallikas** (või -allikad) + **„põhjal“** („põhjal“ siseviitena; nt„IATE põhjal“)
+2. **komisjoni nimetus** (nt „EVTK“).
+
+##### Näide
+
+Oletame, et kuulun ettevõtlusterminite komisjoni, mille lühinimi on EVTK. Oleme komisjoniga leidnud, et Euroopa Liidu institutsioonide terminibaasis IATE on meile peaaegu sobiv ükssarviku definitsioon, aga soovime seda siiski pisut muuta. Sellisele definitsioonile peangi mõistekirjes seega märkima nii enda komisjoni kui ka IATE viited.
+
+![Pilt: Näide definitsioonist, mille aluseks on võetud IATE definitsioon, mida komisjon on seejärel kohaldanud. ](images/def.png)
+Pilt: Näide definitsioonist, mille aluseks on võetud IATE definitsioon, mida komisjon on seejärel kohaldanud. 
+
+Nagu mainitud, peaks sõna „põhjal“ olema lisatud siseviite väljale. Siseviidet saab märkida mitte allikakirjet muutes, vaid mõistekirjes konkreetse kirje osise juures allikakirjele viidates.
+
+![Pilt: Näide sellest, kuidas lisada mõistekirjes allikakirjele viidates siseviite reale sõna “põhjal”](images/image-1-1024x335.png)
+Pilt: Näide sellest, kuidas lisada mõistekirjes allikakirjele viidates siseviite reale sõna “põhjal”
 
 ---
 
@@ -119,7 +253,24 @@ Et leida oma terminibaasist termineid, mis võivad olla ühel väljal koma, semi
 ![Pilt: Terminoloogide vaate detailotsing: termin; väärtus; sisaldab; soovitud märk](images/symbolid.png)
 Pilt: Terminoloogide vaate detailotsing: termin; väärtus; sisaldab; soovitud märk
 
+#### Definitsiooni lisamine
+
+Definitsiooni saab lisada mõistekirje ülaosast mõisteplokist.
+
+1. Vajutage kas **plussile kirja “Seletused” juures** (nagu alloleval näitel) või plussile paremal ülaosas, valides sealt väärtuseks “Mõiste seletus”.
+![Pilt: Terminoloogia vaates Seletuse lisamine](images/def-1-oige.gif)
+Pilt: Terminoloogia vaates Seletuse lisamine
+
+2. Kopeerige või kirjutage soovitud definitsioon avanenud akna tekstiväljale.
+
+3. Valige definitsiooni keel.
+
+4. Valige definitsiooni tüüp (terminitöös enamasti “definitsioon”).
+![Pilt: Definitsiooni andmete lisamine](images/def-2.gif)
+Pilt: Definitsiooni andmete lisamine
+
 #### Mitteavaliku sisemärkuse lisamine
+
 Nii terminite kui ka mõisteploki (kirje ülemine osa, mis sisaldab definitsioone, seotud termineid ja valdkondi) juurde saab lisada sisemärkusi, mis ei muutu Sõnaveebis avalikuks. Sisemärkustesse saab kirjutada teavet, mis on oluline vaid komisjonile endale.
 
 - **Sisemärkuse nupp** asub terminite või mõisteploki juures paremal pool (kirja “ÕS selgitab” juures).
