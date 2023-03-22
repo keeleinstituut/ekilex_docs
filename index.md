@@ -92,6 +92,46 @@ Kui teete Ekilexis otsinguid, võib mõnikord tulla lehekülgede kaupa vastuseid
 ![Pilt: Lehe all vasakul asuv lahter, kuhu saab lehe numbri sisestada](images/Mine-lehele.png)
 Pilt: Lehe all vasakul asuv lahter, kuhu saab lehe numbri sisestada
 
+### Muutused kõigis vaadetes
+<!-- kuidas ma seda sõnastan?-->
+
+#### Kirjesse märkuse lisamine
+
+Ekilexis saab mõistekirjesse lisada märkusi, millega saab mõiste, definitsiooni või termini kohta lisainfot anda. **Kuna mõiste definitsioon peaks olema ühelauseline, sobib märkuseväljale üldjuhul ka selline teave, mida tahaksite definitsiooni järele teiseks või kolmandaks lauseks lisada.**
+
+Erinevalt definitsioonist võiksid märkused olla **vormistatud täislausetena, mis algavad suure tähega ja lõppevad punktiga**. Ühele märkuseväljale võib lisada mitu lauset. **Igal märkusel võiks olla ka allikaviide**: juhul kui tegu on allikast kopeeritud teabega, peaks viitama sellele allikale, kui aga märkuse on lisanud terminikomisjoni esindaja, peaks viitama komisjonile.
+
+##### Mõiste märkus
+
+
+#### Üla- või alaindeksi lisamine
+
+Ekilexis saab ala- ja ülaindekseid lisada nupu **„Lisa märgendus“** alt. Üla- ja alaindekseid saab lisada kõigile tekstiväljadele, kuhu on võimalik ise infot kirjutada: termin, definitsioon, kasutusnäide, märkus.
+
+1. Kõigepealt peaksite minema hiirega soovitud välja peale, millele indeksit lisada soovite (nt termin). Peaksite vajutama **tekkinud sinisele muutmisnupule.**
+![Pilt: Liikudes termini tekstile tekib muutmisnupp](images/margendus1.gif)
+Pilt: Liikudes termini tekstile tekib muutmisnupp
+
+2. Seejärel peaksite **valima (märgistama) selle osa, mida üla- või alakirja panna soovite**.
+![Pilt: Tekstikastis tulevase alaindeksi märgistamine](images/margendus2.gif)
+Pilt: Tekstikastis tulevase alaindeksi märgistamine sinisega
+
+3. Pärast seda peaksite **vajutama rohelisele nupule kirjaga „Lisa märgendus“.**
+![Pilt: Nupp tekstivälja kohal, avaneb rippmenüü](images/margendus3.gif)
+Pilt: Nupp tekstivälja kohal, avaneb rippmenüü
+
+4. Avanevast menüüst peaksite olenevalt soovist **valima kas üla- või alaindeksi.**
+![Pilt: Rippmenüüst valida sobiv](images/margendus4.gif)
+Pilt: Rippmenüüst valida sobiv
+
+5. Seejärel peaksite vajutama **„Salvesta“.**
+![Pilt: Salvesta nupu vajutus](images/margendus5.gif)
+Pilt: Salvesta nupu vajutus
+<!--no kas seda on ikka vaja...-->
+Siis ilmub soovitud üla- või alaindeks kirjesse.
+![Pilt: Indeksiga termin](images/margendus6.png)
+Pilt: Indeksiga termin
+
 ---
 
 ### Uue sõnakogu loomine
