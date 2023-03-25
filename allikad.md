@@ -28,7 +28,7 @@ Ekilexis on võimalik näha, millistes mõistekirjetes olen allikakirjet kasutan
 
 1. vajutama allikakirje paremast nurgast nupule **“Otsi viiteid”**,
 2. vajutama avanenud rippmenüüst **“Term otsing”**.
-![Pilt: Allika viidete otsimine](images/allikaviidete-otsimine-1.gif)
+![Pilt: Allika viidete otsimine](images/allikaviidete-otsimine-1.gif)  
 Pilt: Allika viidete otsimine
 
 Seejärel avaneb terminoloogide vaates (seal, kus tavaliselt mõistekirjeid luuakse ja otsitakse) **loetelu kirjetest, kus allikale viidatud on**.
@@ -37,13 +37,39 @@ Seejärel avaneb terminoloogide vaates (seal, kus tavaliselt mõistekirjeid luua
 
 **Näide:** soovin näha tulemusi EKI ühendterminibaasi Esterm 2 kohta. Seega veendun, et juba enne allikakirjete juurde minemist on valitud sõnakogudest Esterm 2 valitud. Vaata allolevatelt animatsioonidelt, kuidas sõnakogusid valida.   
 
-![Pilt: Sõnakogude valimine](images/sonakogu-valimine-1.gif)
+![Pilt: Sõnakogude valimine](images/sonakogu-valimine-1.gif)  
 Pilt: Sõnakogude valimine
 
-![Pilt: Kindla sõnakogu valimine](images/sonakogu-valimine-2.gif)
+![Pilt: Kindla sõnakogu valimine](images/sonakogu-valimine-2.gif)  
 Pilt: Kindla sõnakogu valimine
 
 Kui õige sõnakogu on enne allikate otsingu tegemist valitud, siis näete pärast allikaviidete otsimist kõiki kirjeid, kus konkreetsele allikale viidatud on.
+
+#### Kõikide terminibaasis viidatud allikate kuvamine
+
+Selleks, et näha **kõiki allikakirjeid**, mida olete terminibaasis kasutanud, peaksite käituma järgmiselt:
+
+1. minema vasakul nurgas olevast menüüst **allikate otsingusse**,
+![Pilt: Ülevalt vasakult avanev põhimenüü, sealt valik](images/allikate-otsingusse-minemine.gif)  
+Pilt: Ülevalt vasakult avanev põhimenüü, sealt valik
+
+2. valima siniselt ribalt **detailotsingu**,
+![Pilt: Lihtotsingust Detailotsingusse vahetamine](images/allikate-detailotsingu-valimine.gif)  
+Pilt: Lihtotsingust Detailotsingusse vahetamine
+
+3. esimesest rippmenüüst valima **„allikas“**,
+
+4. teisest rippmenüüst valima **„kasutatud sõnakogus“**,
+
+5. kolmandast rippmenüüst valima **„on“**,
+
+6. neljandast rippmenüüst valima **oma terminibaasi** (näites Katsebaas),
+
+7. vajutama **„Otsi“**.
+![Pilt: Detailotsingu valikud](images/Allikate-detailotsing-kasutatud-sonakogus-1024x253.png)  
+Pilt: Detailotsingu valikud
+
+Seejärel **näete kõiki allikaid, millele teie terminibaasis on viidatud**.
 
 ---
 
@@ -55,13 +81,13 @@ Video: Allikakirje loomine Ekilexis
 <sub>NB! Enne uue allika lisamist võiksite teha allika nimega otsingu, et veenduda, ega sama allikakirjet pole juba lisatud.</sub>
 
 - Allikakirjeid saab lisada valides rakenduse menüüst „Allikate otsing“ ja avanenud lehel vajutades **„Lisa uus allikas“**.
-![Pilt: Nupp "Lisa uus allikas"](images/1-lisa-uus-allikas.gif)
+![Pilt: Nupp "Lisa uus allikas"](images/1-lisa-uus-allikas.gif)  
 Pilt: Nupp "Lisa uus allikas"
 
 - **Pealkiri** (allika nimi, SOURCE_NAME) on kirjaliku allika (näiteks raamatu) puhul harilikult selle pealkiri, aga selle võib vajadusel ka ise vabalt valida. Allika nimi kuvatakse ka allikaviitena mõiste kirjes.
 
 - Kui allikal on väga pikk nimi ja seda on samas mõistekirjes vaja kasutada mitmes kohas, võib allikale leiutada mingi lühendi (**Lühinimi**) ja lisada see lühend ühe nimetusena (nt „WMO“), siis saab mõistekirjes kasutada lühendit ja see ei võta nii palju ruumi ekraanil.
-![Pilt: Lühinime väli on pildil näidatud punase kastiga](images/raamat-luhinimi.png)
+![Pilt: Lühinime väli on pildil näidatud punase kastiga](images/raamat-luhinimi.png)  
 Pilt: Lühinime väli on pildil näidatud punase kastiga
 
 - Allika **tüübiks** tuleks kirjaliku allika puhul valida Dokument.
@@ -91,12 +117,12 @@ Allika muutmine tähendab siis sisuliselt allikakirje mõne välja ehk allika at
 - Atribuudi muutmiseks:
   - Otsi allikas, mida tahad muuta.
   - Liigu hiire kursoriga välja peale, mida tahad muuta. Välja lõppu tekivad nupukesed.
-  ![Pilt: Välja lõppu tekivad muutmis- ja kustutamisnupp](images/artikkel-jm-luhinimi-3-muuda.png.gif)
+  ![Pilt: Välja lõppu tekivad muutmis- ja kustutamisnupp](images/artikkel-jm-luhinimi-3-muuda.png.gif)  
   Pilt: Välja lõppu tekivad muutmis- ja kustutamisnupp
   - Vajuta sinisele nupukesele „Muuda“.
   - Avaneb välja muutmisvorm.
   - Muuda välja sisu, salvestamiseks vajuta „Muuda“.
-  ![Pilt: Sisu lisamine ja salvestamine](images/artikkel-jm-luhinimi-4-muuda.png.gif)
+  ![Pilt: Sisu lisamine ja salvestamine](images/artikkel-jm-luhinimi-4-muuda.png.gif)  
   Pilt: Sisu lisamine ja salvestamine
 - Atribuudi kustutamiseks:
   - Otsi allikas, mida tahad muuta.

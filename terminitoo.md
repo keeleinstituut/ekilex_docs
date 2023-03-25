@@ -38,12 +38,12 @@ Ekilexis saab mõistekirjete otsingutulemusi kuvada tabelina. See toimib **kuni 
 Et tabelivaadet näha, käituge järgmiselt.
 - Tehke soovitud otsing.
 - Vajutage otsingutulemuste ülaosas **nupule "Tabelivaade"**:
-![Pilt: Terminoloogide otsingus Tabelivaate avamine](images/tabelivaade.gif)
+![Pilt: Terminoloogide otsingus Tabelivaate avamine](images/tabelivaade.gif)  
 Pilt: Terminoloogide otsingus Tabelivaate avamine
 <!--kas ma peaks pildikirjeldused ka tegema? ma eriti ei oska...also figcaption ei tööta väga??-->
 
 - Kui otsingutulemustes on kuni 50 kirjet, avaneb tabel eraldi vahelehel:
-![Pilt: Otsingu tulemused tabelivormis](images/2-tabelivaaade.png)
+![Pilt: Otsingu tulemused tabelivormis](images/2-tabelivaaade.png)  
 Pilt: Otsingu tulemused tabelivormis
 - Tabelivaates on näha seletused, kirjes olevad terminid ja kasutusnäited. Samuti kuvatakse iga osise avalikkus(tabaluku ikoon).
 
@@ -61,11 +61,11 @@ Video: Mõistekirje loomine Ekilexis
 - Veendu, et valitud on soovitud sõnakogu muutja roll. Vastasel juhul vali see rippmenüüst „Vali roll“.
 - Ava töölaual link „Terminoloogid“
 - Valige Terminoloogide vaates loetelust "Valitud sõnakogud" **kõik sõnakogud.** See on oluline, et süsteem oskaks lisatavat terminit teiste terminibaaside infoga võrrelda.
-![Pilt: Terminoloogide vaates sõnakogude valimine](images/1-sonakogude-valimine-1-1.gif)
+![Pilt: Terminoloogide vaates sõnakogude valimine](images/1-sonakogude-valimine-1-1.gif)  
 Pilt: Terminoloogide vaates sõnakogude valimine
 
   - Kõiki sõnakogusid aitab valida nupp **"Vali kõik"**.
-![Pilt: Sõnakogude valimisel saab vajutada nuppu "Vali kõik"](images/2-sonakogude-valimine-2.gif)
+![Pilt: Sõnakogude valimisel saab vajutada nuppu "Vali kõik"](images/2-sonakogude-valimine-2.gif)  
 Pilt: Sõnakogude valimisel saab vajutada nuppu "Vali kõik"
 
 - Vajuta sinisel navigeerimisribal „Uus mõiste“. Avaneb uue termini sisestusvorm. Seejärel
@@ -73,13 +73,13 @@ Pilt: Sõnakogude valimisel saab vajutada nuppu "Vali kõik"
   - selle all on kuvatud sõnakogu nimi, kuhu termin lisatakse,
   - vali rippmenüüst keel,
   - vajuta „Lisa termin“.
-  ![Pilt: Termini lisamine](images/5-uus-moiste-termin.gif)
+  ![Pilt: Termini lisamine](images/5-uus-moiste-termin.gif)  
   Pilt: Termini lisamine
 
 - Kui sisestatud termin ei esine üheski olemasolevas sõnakogus, siis luuakse uus termin ja mõiste ning kuvatakse kogu info selle mõiste kohta terminoloogi otsingu vaates.
 
 - Kui sisestatud termin juba esineb Ekilexis, kuvab süsteem teile sama kujuga terminid ja nende kirjed, mis on teistesse sõnastikesse ja terminibaasidesse lisatud. Tehke linnuke selle tähendusega termini ette, mis sarnaneb teie omaga enim.
-![Pilt: Terminite valikust sobivaima valimine](images/6-tahendus-valik.gif)
+![Pilt: Terminite valikust sobivaima valimine](images/6-tahendus-valik.gif)  
 Pilt: Terminite valikust sobivaima valimine
   - Mõnikord võib juhtuda, et lehel toodud kirjetel puuduvad definitsioonid. Sel juhul näete kogu kirjet, kui klõpsate nupule **“Vaata tervet kirjet”**, et avada see uuel vahelehel.  
   Kui te ei leia sellelt lehelt ka pärast “Vaata tervet kirjet” nuppudel klõpsamist ühtegi sobivat tähendust, siis kirjutage aadressile kairi.janson@eki.ee.
@@ -171,14 +171,14 @@ objektist või nähtusest. Mõistet kirja panna ei saa.
 millega mõistet tähistatakse.
 
 Mõiste ja termini suhet iseloomustab järgmine illustratsioon:
-![Pilt: Mõistet kirja panna ei saa, kuid seda tähistame **terminitega** ja kirjeldame **definitsiooni** kaudu.](images/Moiste-termin.png)
+![Pilt: Mõistet kirja panna ei saa, kuid seda tähistame **terminitega** ja kirjeldame **definitsiooni** kaudu.](images/Moiste-termin.png)  
 Pilt: Mõistet kirja panna ei saa, kuid seda tähistame **terminitega** ja kirjeldame **definitsiooni** kaudu.
 
 ##### Mõiste ja termin Ekilexis
 
 Ekilexis on ühe mõiste kohta käiv teave (**sh terminid ja definitsioonid**) koondunud ühte **mõistekirjesse**.
 
-![Pilt: Terminoloogide kuva, üleval on eri definitsioonid, all üksteise järel terminid. Mõlemad need kokku on mõistekirje.](images/Moistekirje-naide.png)
+![Pilt: Terminoloogide kuva, üleval on eri definitsioonid, all üksteise järel terminid. Mõlemad need kokku on mõistekirje.](images/Moistekirje-naide.png)  
 Pilt: Terminoloogide kuva, üleval on eri definitsioonid, all üksteise järel terminid. Mõlemad need kokku on mõistekirje.
 
 #### Allikaviite lisamine mõistekirjes
@@ -216,12 +216,12 @@ Kokkuleppe kohaselt paikneb **komisjoni allikaviide esimesel kohal, sellele jär
 
 Oletame, et kuulun ettevõtlusterminite komisjoni, mille lühinimi on EVTK. Oleme komisjoniga leidnud, et Euroopa Liidu institutsioonide terminibaasis IATE on meile peaaegu sobiv ükssarviku definitsioon, aga soovime seda siiski pisut muuta. Sellisele definitsioonile peangi mõistekirjes seega märkima nii enda komisjoni kui ka IATE viited.
 
-![Pilt: Näide definitsioonist, mille aluseks on võetud IATE definitsioon, mida komisjon on seejärel kohaldanud. ](images/def.png)
+![Pilt: Näide definitsioonist, mille aluseks on võetud IATE definitsioon, mida komisjon on seejärel kohaldanud. ](images/def.png)  
 Pilt: Näide definitsioonist, mille aluseks on võetud IATE definitsioon, mida komisjon on seejärel kohaldanud. 
 
 Nagu mainitud, peaks sõna „põhjal“ olema lisatud siseviite väljale. Siseviidet saab märkida mitte allikakirjet muutes, vaid mõistekirjes konkreetse kirje osise juures allikakirjele viidates.
 
-![Pilt: Näide sellest, kuidas lisada mõistekirjes allikakirjele viidates siseviite reale sõna “põhjal”](images/image-1-1024x335.png)
+![Pilt: Näide sellest, kuidas lisada mõistekirjes allikakirjele viidates siseviite reale sõna “põhjal”](images/image-1-1024x335.png)  
 Pilt: Näide sellest, kuidas lisada mõistekirjes allikakirjele viidates siseviite reale sõna “põhjal”
 
 ---
@@ -232,10 +232,10 @@ Terminibaasid on mõistepõhised, mis tähendab, et **ühes mõistekirjes on koo
 
 Kui soovite juba **olemasolevasse kirjesse uut terminit lisada** (ükskõik, mis keeles), peaksite vajutama mõistekirje ülaosas nupule **“Lisa termin”**.  
 Lisatav termin võib olla nii muukeelne vaste kui ka eesti- või muukeelne sünonüüm.
-![Pilt: Uue termini lisamine](images/termini-lisamine-oige.gif)
+![Pilt: Uue termini lisamine](images/termini-lisamine-oige.gif)  
 Pilt: Uue termini lisamine
 
-**Kindlasti ei tohiks sünonüüme või muid terminivariante kirjutada koos ühele ja samale terminiväljale.  
+**NB! Kindlasti ei tohiks sünonüüme või muid terminivariante kirjutada koos ühele ja samale terminiväljale.  
 Terminiväljal ei tohiks olla komasid, semikooloneid, kaldkriipse või muid sümboleid, välja arvatud siis, kui need on termini enda osa.**
 
 ##### Näide
@@ -246,11 +246,11 @@ Oletame, et tahan sünonüümidena terminibaasi kanda terminid **hõberemmelgas*
 - Kui mõistekirje on juba loodud ja soovin kirjesse lisada ka teise termini (sünonüümi), pean selle lisama uuele terminiväljale. **Selleks vajutan loodud kirjes nuppu “Lisa termin”**. Trükin avanenud väljale termini *hõbepaju* ja valin keeleks eesti.
   - Muukeelse termini (vaste) lisamine käib samamoodi, ainult et eesti keele asemel tuleb avanenud aknas valida termini õige keel.
 - Lisatud terminid on nüüd esitatud eri terminiväljadel ja vaade on järgmine. Mõlemad terminid tulevad välja, kui neid Ekilexis või Sõnaveebis otsida.
-![Pilt: näidatud *hõberemmelgas* ja *hõbepaju* sünonüümidena](images/synonyymid.png)
+![Pilt: näidatud *hõberemmelgas* ja *hõbepaju* sünonüümidena](images/synonyymid.png)  
 Pilt: näidatud *hõberemmelgas* ja *hõbepaju* sünonüümidena
 
 Et leida oma terminibaasist termineid, mis võivad olla ühel väljal koma, semikooloni või mõne muu märgiga eraldatud, võiksite kasutada järgmist otsingut:
-![Pilt: Terminoloogide vaate detailotsing: termin; väärtus; sisaldab; soovitud märk](images/symbolid.png)
+![Pilt: Terminoloogide vaate detailotsing: termin; väärtus; sisaldab; soovitud märk](images/symbolid.png)  
 Pilt: Terminoloogide vaate detailotsing: termin; väärtus; sisaldab; soovitud märk
 
 #### Definitsiooni lisamine
@@ -258,7 +258,7 @@ Pilt: Terminoloogide vaate detailotsing: termin; väärtus; sisaldab; soovitud m
 Definitsiooni saab lisada mõistekirje ülaosast mõisteplokist.
 
 1. Vajutage kas **plussile kirja “Seletused” juures** (nagu alloleval näitel) või plussile paremal ülaosas, valides sealt väärtuseks “Mõiste seletus”.
-![Pilt: Terminoloogia vaates Seletuse lisamine](images/def-1-oige.gif)
+![Pilt: Terminoloogia vaates Seletuse lisamine](images/def-1-oige.gif)  
 Pilt: Terminoloogia vaates Seletuse lisamine
 
 2. Kopeerige või kirjutage soovitud definitsioon avanenud akna tekstiväljale.
@@ -266,7 +266,7 @@ Pilt: Terminoloogia vaates Seletuse lisamine
 3. Valige definitsiooni keel.
 
 4. Valige definitsiooni tüüp (terminitöös enamasti “definitsioon”).
-![Pilt: Definitsiooni andmete lisamine](images/def-2.gif)
+![Pilt: Definitsiooni andmete lisamine](images/def-2.gif)  
 Pilt: Definitsiooni andmete lisamine
 
 #### Mitteavaliku sisemärkuse lisamine
@@ -274,17 +274,17 @@ Pilt: Definitsiooni andmete lisamine
 Nii terminite kui ka mõisteploki (kirje ülemine osa, mis sisaldab definitsioone, seotud termineid ja valdkondi) juurde saab lisada sisemärkusi, mis ei muutu Sõnaveebis avalikuks. Sisemärkustesse saab kirjutada teavet, mis on oluline vaid komisjonile endale.
 
 - **Sisemärkuse nupp** asub terminite või mõisteploki juures paremal pool (kirja “ÕS selgitab” juures).
-![Pilt: Sisemärkuse "+" nupu asukoht](images/1-sisemarkus-nupp-1.gif)
+![Pilt: Sisemärkuse "+" nupu asukoht](images/1-sisemarkus-nupp-1.gif)  
 Pilt: Sisemärkuse "+" nupu asukoht
 - Avanevasse tekstiaknasse saab trükkida sisemärkuse. Sisemärkuse lisamiseks tuleb vajutada nuppu **“Lisa”**.
-![Pilt: Sisemärkuse lisamine](images/2-sisemarkus-lisamine.gif)
+![Pilt: Sisemärkuse lisamine](images/2-sisemarkus-lisamine.gif)  
 Pilt: Sisemärkuse lisamine
 - Sisemärkuse olemasolu kirjes näitab selle nupu juures olev **punane täpike**. Kui täpikese kõrval olevale **noolele klõpsata**, saab sisemärkust näha. Uuesti klõpsates saab sisemärkuse sulgeda.
-![Pilt: Sisemärkuse olemasolu ja selle avamine](images/3-sisemarkus-vaatamine.gif)
+![Pilt: Sisemärkuse olemasolu ja selle avamine](images/3-sisemarkus-vaatamine.gif)  
 Pilt: Sisemärkuse olemasolu ja selle avamine
 - **Terminoloogide vaate detailotsingust on võimalik üles leida kirjed, kuhu olete sisemärkuse lisanud**. Selleks tuleb minna detailotsingusse ja teha järgmised valikud.  
 **NB!** Esimesest tulbast peab olema valitud “termin” juhul, kui tahate leida termini juurde lisatud sisemärkusi. Kui lisasite sisemärkuse kõige üles, st mõisteplokki (definitsioonide juurde), leiate sellised kirjed üles, kui valite otsingus esimesest rippmenüüst “Mõiste”.
-![Pilt: Detailotsingu kasutamine sisemärkusega terminite otsimiseks](images/4-sisemarkus-otsimine.png)
+![Pilt: Detailotsingu kasutamine sisemärkusega terminite otsimiseks](images/4-sisemarkus-otsimine.png)  
 Pilt: Detailotsingu kasutamine sisemärkusega terminite otsimiseks
 
 Ekilexis saab mitteavalikuks muuta ka neid välju, mis on muidu avalikud (termin koos selle juures oleva teabega, definitsioon, kasutusnäide jm).
@@ -302,7 +302,7 @@ Siiski pidage meeles: mittetäielik teave on kasutaja jaoks väärtuslikum kui t
 #### Termini avalikkuse muutmine
 Termini ja sellega seotud teabe avalikkusest annab märku termini juures olev **tabaluku märk**. Avatud tabalukk näitab, et termin koos teabega on **avalik**, suletud tabalukk aga näitab, et termin **ei ole avalikus keeleportaalis nähtav**.
 - Termini avalikkust saab muuta, kui **tabaluku ikoonil klõpsata**:
-![Pilt: termini avalikkuse muutmine tabaluku ikooni alt](images/termini-avalikkus.gif)
+![Pilt: termini avalikkuse muutmine tabaluku ikooni alt](images/termini-avalikkus.gif)  
 Pilt: termini avalikkuse muutmine tabaluku ikooni alt
 
 Kui märgite termini mitteavalikuks, muutub mitteavalikuks ka muu selle juures olev info (kasutusnäide, allikaviide jm). **Kui mõistekirjes on kõik terminid märgitud mitteavalikuks, on väliskasutaja eest peidus kogu kirje**. 
@@ -313,11 +313,11 @@ Kui märgite termini mitteavalikuks, muutub mitteavalikuks ka muu selle juures o
 
 Teiste tekstiväljade avalikkust saab muuta kas neid lisades või muutes. **Selleks peab eemaldama linnukese kirja “Avalik” eest**. 
 - Näiteks kui soovin mitteavalikuks muuta definitsiooni märkust, vajutan esmalt **definitsiooni muutmisnuppu**:
-![Pilt: Hiirega peale liikudes definitsiooni lõpus ilmuv sinine muutmisnupp](images/markuse-muutmisnupp.gif)
+![Pilt: Hiirega peale liikudes definitsiooni lõpus ilmuv sinine muutmisnupp](images/markuse-muutmisnupp.gif)  
 Pilt: Hiirega peale liikudes definitsiooni lõpus ilmuv sinine muutmisnupp
 
 - Seejärel **eemaldan avanenud aknas linnukese välja “Avalik” eest** ja **vajutan “Salvesta”**:
-![Pilt: Muutmisaknas "Avalik" eest linnukese eemaldamine ja Salvestamine](images/markuse-muutmisnupp-2.gif)
+![Pilt: Muutmisaknas "Avalik" eest linnukese eemaldamine ja Salvestamine](images/markuse-muutmisnupp-2.gif)  
 Pilt: Muutmisaknas "Avalik" eest linnukese eemaldamine ja Salvestamine
 
 **NB!** Kui muudate mingi välja mitteavalikuks ajutiselt, siis **ärge unustage seda hiljem taas avalikustada**.
@@ -330,7 +330,7 @@ Pisiparanduste funktsioon võimaldab teha “kirurgilisi” muudatusi ilma, et m
 Näiteks kui teil ei ole aega tervet kirjet üle vaadata ja sellesse süveneda, siis ei ole mõistlik, et ka kirje muutmise kuupäev muutuks – kasutaja eeldab, et siis olete kogu kirje sel ajal üle vaadanud ja ajakohastanud.
 
 - Pisiparanduste tegemise funktsiooni saab sisse ja välja lülitada **kirje allosas paremal pool asuvast sinisest nupust**.
-![Pilt: Pisiparanduste funktsiooni sisse lülitamine](images/1-pisiparandused.gif)
+![Pilt: Pisiparanduste funktsiooni sisse lülitamine](images/1-pisiparandused.gif)  
 Pilt: Pisiparanduste funktsiooni sisse lülitamine
 
 ---
@@ -341,7 +341,7 @@ Pilt: Pisiparanduste funktsiooni sisse lülitamine
 
 - Selleks, et valemeid lisada, **peaks pilt olema varem internetti üles laadidud**.
 - Pildi lisamiseks tuleb soovitud tekstivälja kastis vajutada sinist pildi lisamise nuppu. Seejärel tuleb kleepida aadressiväljale pildi avalik aadress. Kui kasutate näiteks pilveteenust, peab veenduma, et kopeeriksite just pildi avaliku jagamise aadressi.
-![Pilt: Pildi lisamise nupp, aadressi kleepimine ja lisamine](images/1-pilt_tekstivaljale.gif)
+![Pilt: Pildi lisamise nupp, aadressi kleepimine ja lisamine](images/1-pilt_tekstivaljale.gif)  
 Pilt: Pildi lisamise nupp, aadressi kleepimine ja lisamine
 
 ---
@@ -350,8 +350,133 @@ Pilt: Pildi lisamise nupp, aadressi kleepimine ja lisamine
 Mõistekirje dubleerimise funktsioon võib mõnikord kasuks tulla näiteks juhul, kui ühte kirjesse on kogemata lisatud kahe mõiste info ja soovite ühest kirjest teha kaks erinevat.
 
 - **Mõiste dubleerimise nupp** asub kirje ülaosas nuppude “Lisa termin” ja “Ühenda” kõrval.
-![Pilt: Dubleerimise nupp kirje ülaosas](images/1_duplikaat.gif)
+![Pilt: Dubleerimise nupp kirje ülaosas](images/1_duplikaat.gif)  
 Pilt: Dubleerimise nupp kirje ülaosas
 
 **Kui mõiste on dubleeritud, ilmub duplikaat automaatselt eelmise mõistekirje kõrvale, kuid on sellegipoolest teine kirje**.  
 Ühes kirjes tehtavad muudatused kajastuvad vaid selles kirjes ega kandu automaatselt teise kirjesse: sisuliselt ongi tegu kahe eraldiseisva kirjega, milles on lihtsalt samasugune info.
+
+---
+
+### Mõistete omavahelise seose näitamine
+
+Enamasti on ühes valdkonnas mõisted omavahel ühel või teisel moel seotud. Näiteks võib olla, et üks mõiste on üldisem (nt *tool*) ja hõlmab teist (nt *tugitool*). Ekilexis saate neid seoseid näidata.
+
+Et Ekilexis kirjetevahelisi seoseid luua, saate kasutada **tähenduse seose funktsiooni**. Kahe kirje vahel saab märkida nii täpsemaid seoseliike (nt ülem- või alammõiste või antonüüm) kui ka üldist seost (tähenduse seos), seoseliiki täpsustamata.   
+Kui mõiste on seotud mitme teise mõistega, saab luua ka mitu tähenduse seost.
+
+**NB! Seoseid saab luua vaid enda terminibaasi kirjete vahel.** St kui soovite näiteks näidata, et mõiste ükssarvik on seotud mõistega idufirma, peate olema nende mõlema kohta oma terminibaasi kirjed loonud.
+
+1. **Klõpsake mõisteplokis** (st kõige ülemises plokis, kus paiknevad ka seletused) **paremal asuva plussmärgi peale**.
+![Pilt: Mõisteplokis paremal hall plussmärk](images/1-tahenduse-seos.gif)  
+Pilt: Mõisteplokis paremal hall plussmärk
+
+2. Valige avaneva akna rippmenüüst **“Tähenduse seos”**.
+![Pilt: Rippmenüüst valik](images/2-tahenduse-seos.gif)  
+Pilt: Rippmenüüst valik <!-- kas siin peaks vajutama ka Lisa, ma eeldan?-->
+
+3. Otsige termini järgi seotud kirjet ja looge sellega seos järgmiselt.
+    1. **Trükkige avanevas aknas esimesele väljale termin, mille kirjega soovite seost luua, ja vajutage “Otsi”**. Alumises näites paiknen ise kirjes ükssarvik ja soovin luua seost kirjega idufirma.
+    2. **Valige rippmenüüst “Vali väärtus” soovitud seoseliik**. Näites valin üldise seoseliigi: “seotud (tähendus/mõiste)”.  
+    **NB!** Vältige seoseid, mille järel on kirjas “kakskeelses” ja “võrdle”. Need on EKI leksikograafide töövahendid.
+    3. **Tehke linnuke leitud (sobiva) kirje juurde**. Juhul kui vastuseks tuleb mitu mõistekirjet, veenduge, et teete linnukese enda terminibaasi kirje juurde (termini kõrval väikses kirjas on teie terminibaasi lühikood, näites “kce”, mis tähistab Katsebaasi).
+    4. **Vajutage “Lisa valitud seosed”**.
+    ![Pilt: Otsida keelend, valida seos, märkida valitav kirje](images/3-tahenduse-seos.gif)  
+    Pilt: Otsida keelend, valida seos, märkida valitav kirje
+
+4. **Nüüd näete, et mõisteplokis on lisatud seos näha.** Kui klõpsate sinisel kirjal, jõuate seotud mõistekirjesse. Seosed on teie kirje juures näha ka Sõnaveebis.
+![Pilt: Tähenduse seos on pildil märgitud punase kastiga](images/4-tahenduse-seos.png)  
+Pilt: Tähenduse seos on pildil märgitud punase kastiga
+
+---
+
+### Termini usaldusväärsuse märkimine
+
+Ekilex võimaldab märkida termini juurde selle usaldusväärsust. **Usaldusväärsust märkides saab osutada näiteks sellele, kui kindel on komisjon selles, et lisatud termin on sobilik või tegelikult kasutusel.** Kui termin on leitud näiteks vaid ühest (küsitavast) allikast, ent ei tundu esinevat mujal, võib selle juurde märkida madalama usaldusväärsushinnangu kui laiemalt levinud või komisjoni kinnitatud terminitele.
+
+**Usaldusväärsushinnanguid on viis** (0 – madalaim, 5 – kõrgeim). Teha saab ka valiku “määramata”.
+
+1. Usaldusväärsushinnangut saab lisada termini kõrval olevast **plussmärgist**.
+![Pilt: Termini kõrval asuv hall plussmärk](images/1-usaldusvaarsus_nupp.gif)  
+Pilt: Termini kõrval asuv hall plussmärk
+
+2. Rippmenüüst tuleks valida “**Ilmiku usaldusväärsus**” ning seejärel **numbrite seast valik teha**.
+![Pilt: Rippmenüüst valik, järgmisel real valida väärtus](images/2-usaldusvaarsus_lisamine.gif)  
+Pilt: Rippmenüüst valik, järgmisel real valida väärtus
+
+3. Termini usaldusväärsushinnangut kuvatakse Ekilexis **tähekestega**.
+![Pilt: Ilmiku all rida 5 tähekesega](images/3-usaldusvaarsuse-kuva.png)  
+Pilt: Ilmiku all rida 5 tähekesega
+---
+
+### Näitamine, et termin on eelistatud, vananenud või välditav
+
+Terminibaasid on mõistepõhised, mis tähendab, et **ühes mõistekirjes on koos kõik sama mõiste kohta käivad terminid (sünonüümid), sh paralleelvariandid ning terminid teistes keeltes**.
+
+Mõnikord võib aga näiteks üks termin olla eelistatum kui teine või soovite näidata, et termin oli kasutusel küll varem, aga on nüüdseks vananenud. Sellisel juhul tuleb terminile märkida **väärtusolek**.
+
+1. Liikuge termini juurde ja **vajutage selle kõrval olevat plussmärki**
+![Pilt: Termini kõrval olev hall plussmärk](images/v22rtusolek1.gif)  
+Pilt: Termini kõrval olev hall plussmärk
+
+2. Valige avanenud menüüst **“Väärtusolek”**
+![Pilt: Rippmenüüst valik](images/v22rtusolek2.gif)  
+Pilt: Rippmenüüst valik
+
+3. Valige soovitud väärtusolek ja vajutage **“Lisa”**.
+![Pilt: Rippmenüüst valik](images/v22rtusolek3.gif)  
+Pilt: Rippmenüüst valik
+
+4. Nüüd on termini juures väärtusolek näha!
+![Pilt: Termini kõrval kirjas väärtusolek](images/v22rtusolek4.png)  
+Pilt: Termini kõrval kirjas väärtusolek
+
+---
+
+### Kõikide terminibaasi mõistekirjete korraga kuvamine
+
+Kõigepealt kirjeldame, kuidas saate näha kõiki oma terminibaasi kirjeid korraga.
+
+Seejärel kirjeldame, kuidas saate näha kirjeid, mida just teie olete kindlas ajavahemikus muutnud.
+
+#### Kõik terminibaasi kirjed korraga
+
+Kõiki mõistekirjeid korraga näeb siis, kui
+
+<!-- seda võiks sammude piltidega täiendada äkki? -->
+1. minna terminoloogide otsingusse,
+
+2. siniselt ribalt valida detailotsing,
+
+3. **veenduda, et „Valitud sõnakogude“ alt on valitud soovitud terminibaas**;
+
+4. esimesest rippmenüüst valida „mõiste“,
+
+5. teisest rippmenüüst valida „muutmise aeg“,
+
+6. kolmandast rippmenüüst valida „on varasem kui“,
+
+7. neljandast rippmenüüst valida homne kuupäev.
+
+![Pilt: Näide terminoloogide detailotsingust](images/muutmise-aeg-varasem-kui.png)  
+Pilt: Näide terminoloogide detailotsingust
+
+#### Ühe muutja kindlas ajavahemikus tehtud tööd
+
+Kui soovite näha neid kirjeid, mida just **teie** olete kindlas ajavahemikus muutnud (või mille lisanud), peaksite **lisama otsingukriteeriumiks ka muutja**. See otsing annab kõige täpsema tulemuse just teie tehtud muudatuste kohta, kuna teie terminibaasides teevad tehnilisi muudatusi ka EKI leksikograafid ja terminoloogid.
+
+1. Kõigepealt peaksite detailotsingust valima **soovitud ajavahemiku**, nt “on hilisem kui” “1.11.2022”: kõik kirjed, mida olete muutnud pärast 1. novembrit 2022.
+![Alt text](images/hilisem-kui-1024x148.png)  
+Pilt: Näide terminoloogide detailotsingust
+
+2. Seejärel peaksite lisama olemasolevale otsingule veel ühe otsivälja, **klõpsates otsikasti kõrval halli taustaga alal plussmärgile** (vasakpoone plussmärk).
+![Pilt: Detailotsingu välja lõpus olev hal plussmärk](images/vasakpoolne-pluss-1-1024x172.png)  
+Pilt: Detailotsingu välja lõpus olev hal plussmärk
+
+3. Lisatud otsiväljal võiksite teha järgmised valikud:
+    1. „looja/muutja“,
+    2. „on“,
+    3. *trükkida enda nimi*.
+![Alt text](images/looja-muutja-1-1024x189.png)  
+Pilt: Detailotsingus lisatud real teistsugused valikud ja sisestatud nimi
+
