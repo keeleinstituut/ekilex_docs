@@ -8,9 +8,12 @@
 
 ### Sisukord
   - [Allikate otsing](#allikate-otsing)
+    - [Konkreetse allika viited mõistekirjades](#konkreetse-allika-viited-mõistekirjades)
+    - [Kõikide terminibaasis viidatud allikate kuvamine](#kõikide-terminibaasis-viidatud-allikate-kuvamine)
   - [Allika loomine](#allika-loomine)
   - [Allika muutmine](#allika-muutmine)
   - [Allika kustutamine](#allika-kustutamine)
+  - [Allika ühendamine ?](#allika-ühendamine)
 
 ---
 

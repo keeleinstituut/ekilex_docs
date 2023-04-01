@@ -9,10 +9,22 @@
 ### Sisukord
 - [Mis on Ekilex?](#mis-on-ekilex)
 - [Kasutajaks registreerumine ja õiguste taotlemine](#kasutajaks-registreerumine-ja-õiguste-taotlemine)
+  - [Terminibaasis muudatuste tegemine](#terminibaasis-muudatuste-tegemine)
 - [Töölaud](#töölaud)
+- [Katsetamine ja proovikirjete koostamine](#katsetamine-ja-proovikirjete-koostamine)
+- [Kirjete muutmine pärast valmimist](#kirjete-muutmine-pärast-valmimist)
 - [Terminite otsing](#terminite-otsing)
+  - [Detailotsingu kriteeriumide peitmine](#detailotsingu-kriteeriumide-peitmine)
+  - [Otsingutulemustes kindlale lehele minemine](#otsingutulemustes-kindlale-lehele-minemine)
+- [Muutused kõigis vaadetes](#muutused-kõigis-vaadetes)
+  - [Kirjesse märkuse lisamine](#kirjesse-märkuse-lisamine)
+    - [Mõiste märkus](#mõiste-märkus)
+    - [Definitsiooni märkus](#definitsiooni-märkus)
+    - [Termini (ilmiku) märkus](#termini-ilmiku-märkus)
+  - [Üla- või alaindeksi lisamine](#üla--või-alaindeksi-lisamine)
 - [Uue sõnakogu loomine](#uue-sõnakogu-loomine)
   - [Sõnakogu muutmisõigused](#sõnakogu-muutmisõigused)
+- [Mõistekirja, termini või muu kirje osise lisaja kuvamine](#mõistekirja-termini-või-muu-kirje-osise-lisaja-kuvamine)
     
 ---
 
@@ -131,33 +143,7 @@ Seejärel avaneb aken, kus saate soovitud muudatuse teha.
 
 ### Terminite otsing
 
-- Vajuta töölaual „Terminoloogid“.
-- Avaneb terminoloogi vaade. Vajuta nuppu „Valitud sõnakogusid: 0“. Vali linnukestega sõnakogud, millest soovid otsida, ja vajuta „Vali“.
-- Sisesta otsisõna. Kasutada võib metamärke: 
-  - **?** = 1 suvaline tähemärk (nt kui otsid „m?iste“ siis leiad nt „mõiste“, „muiste“);
-  - **\*** = 0 või rohkem suvalisi tähemärke. (nt kui otsid „\*hiir\*“, siis leiad nii „hiir“, „arvutihiir“, „hiirehernes“ kui „aedhiirehernes“.)
-- Vajuta „Otsi“.
-Täpsem Terminoloogide töökäigu juhend on [siin](#terminitöö-sõnakoguga).
 
-<!-- kas seda ümber sõnastada et see ei oleks ainult terminoloogide otsingu kohta??-->
-
-#### Detailotsingu kriteeriumide peitmine
-
-Ekilexis on detailotsing, mis võimaldab terminibaasist kindlate kriteeriumide alusel kirjeid leida. Et aga otsing tulemusi sirvides liiga palju ruumi ja tähelepanu ei nõuaks, on võimalik otsingukriteeriumid selleks ajaks peitu klõpsata.
-
-- **Kriteeriume saab peita otsingukastide all paikneva noolekesega**. Et otsing taas avada, tuleks uuesti noolekesele klõpsata.
-![Pilt: Detailotsingu peitmine](images/1-detotsing-peitmine.gif)  
-Pilt: Detailotsingu peitmine
-
-
-#### Otsingutulemustes kindlale lehele minemine
-
-Kui teete Ekilexis otsinguid, võib mõnikord tulla lehekülgede kaupa vastuseid. Et te ei peaks soovitud leheni jõudmiseks kõiki eelmisi lehti läbi vaatama, võite lahtri “Mine lehele” järele sisestada selle lehenumbri, kuhu soovite suunduda.
-
-- **Lahter “Mine lehele” asub otsingutulemuste allosas.** Kui te seda kohe ei näe, püüdke leht alla kerida ning otsige lahtrit lehe vasakul pool asuvate tulemuste alläärest.
-- Lehele suundumiseks **trükkige lahtrisse soovitud number** ning **vajutage klaviatuuril nuppu “Enter”**.
-![Pilt: Lehe all vasakul asuv lahter, kuhu saab lehe numbri sisestada](images/Mine-lehele.png)  
-Pilt: Lehe all vasakul asuv lahter, kuhu saab lehe numbri sisestada
 
 ### Muutused kõigis vaadetes
 <!-- kuidas ma seda sõnastan?-->
