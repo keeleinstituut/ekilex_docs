@@ -44,14 +44,27 @@
 
 1. Vajuta töölaual **„Terminoloogid“**.
 
-2. Avaneb terminoloogi vaade. Vajuta nuppu **„Valitud sõnakogusid: 0“**. Vali linnukestega sõnakogud, millest soovid otsida, ja vajuta **„Vali“**.
+2. Avaneb terminoloogi vaade. Vajuta nuppu **„Valitud sõnakogusid: 0“**. 
+![Pilt: Terminoloogide vaates sõnakogude valimine](images/1-sonakogude-valimine-1-1.gif) 
+Pilt: Terminoloogide vaates sõnakogude valimine
 
-3. **Sisesta otsisõna**. Kasutada võib **metamärke**: 
+3. Vali linnukestega sõnakogud, millest soovid otsida, ja vajuta **„Vali“**.
+![Pilt: Kindlate sõnakogude valimine](images/2-sonakogude-valimine-2.gif)  
+Pilt: Kindlate sõnakogude valimine
+
+4. **Sisesta otsisõna**. Kasutada võib **metamärke**: 
     - **?** = 1 suvaline tähemärk (nt kui otsid „m?iste“ siis leiad nt „mõiste“, „muiste“);
     - **\*** = 0 või rohkem suvalisi tähemärke. (nt kui otsid „\*hiir\*“, siis leiad nii „hiir“, „arvutihiir“, „hiirehernes“ kui „aedhiirehernes“.)
 
-4. Vajuta „Otsi“.
-<!-- nt pilt ja kirjeldada mis erinevad osad vaatest on?-->
+5. Vajuta „Otsi“.
+
+- Tulemuseks on nimekiri eri terminitest, millele klõpsates saab näha peamises aknas terminile vastavat mõistekirjet, ehk mõistet selle ID koodiga ning sellele järgnevalt kõiki termineid, otsitav kaasaarvatud.
+![Pilt: Otsingutulemus, vasakul küljepaneelis sõna sisaldavad terminid, peamises aknas mõistekirje ja selle osad.](images/term_otsing2.PNG)
+Pilt: Otsingutulemus, vasakul küljepaneelis sõna sisaldavad terminid, peamises aknas mõistekirje ja selle osad. 
+
+- Tulemusi saab sorteerida ka mõiste alusel, kusjuures seotud terminid on sel juhul näha kohe küljepaneelis. Muidu on mõistekirje vaade aga sama.
+![Pilt: Sama otsingutulemus, nüüd aga küljepaneel sorteeritud mõistete järgi.](images/term_otsing3.PNG)
+Pilt: Sama otsingutulemus, nüüd aga küljepaneel sorteeritud mõistete järgi.
 
 
 #### Otsingutulemustes kindlale lehele minemine
@@ -84,7 +97,29 @@ Pilt: Otsingu tulemused tabelivormis
 
 
 #### Detailotsingu tegemine
-<!-- kirjelda ära mida kõik erinevad lahtrid teevad?-->
+
+Lihtotsingu tegemisel on tulemusteks täpne vaste otsitule.   
+On võimalik tulemusi laiendada ? ja * metamärkidega, aga palju täpsemaid või spetsiifilise mõistekirje osaga seotud otsinguid tuleb teha **Detailotsingus**.
+![Pilt: Detailotsingu vaikimisi seadistus](images/detailotsing_1.PNG)  
+Pilt: Detailotsingu vaikimisi seadistus
+
+- Esimese lahtri "termin" alt rippmenüüst saab valida, millise võimaliku mõistekirje osa kohta otsing käib. Vaikimisi on terminivaates "termin".
+- Märkeruut halli ala alguses, kui märgitud, muudab otsingu eitavaks/negatiivseks. Näiteks ülemise näite puhul selle märkimine teeks otsingu terminite kohta, mille väärtus **ei ole** sisestatud sõna.
+- Teise lahtri "väärtus" alt rippmenüüst saab valida, millise mõistekirje osa elemendi kohta otsing käib.
+- Kolmanda lahtri "on" alt rippmenüüst saab valida, milline suhe on järgnevalt sisestatud infol otsitava elemendiga.
+- Neljanda lahtri tühi ala on tekstikast kuhu otsitav info kirjutada.
+- Suure halli ala sees olev plussmärk annab võimaluse lisada sama mõistekirje osa otsingu kohta veel võrdselt kehtivaid parameetreid.
+- Eraldiseisev plussmärk annab võimaluse samas otsingus kontrollida mitme mõistekirje elemendi  ?? lause kuidas?
+
+**Näide:**
+
+Kui teha alloleval pildil näidatud otsing, siis otsitakse mõisted, kus sisaldub **üks termin, mis vastab mõlemale tingimusele** (looja on Karol Kaljuste ja viimase muutmise aeg on hilisem kui 01.03.2023).
+![Pilt: Kirjeldatud otsing, punane ring ümber tekstikastile järgneva plussmärgi](images/detailotsing1.png)
+Pilt: Kirjeldatud otsing, punane ring ümber tekstikastile järgneva plussmärgi
+
+Kui aga teha otsing nii, nagu näidatud alloleval pildil, siis otsitakse mõisteid, kus sisaldub ***üks termin*, mis vastab *esimesele* tingimusele** (looja on Karol Kaljuste) ja kus lisaks sisaldub ***teine termin*, mis vastab *teisele* tingimusele** (termini muutmise aeg on hilisem kui 01.03.2023).
+![Pilt: Kirjeldatud otsing, mõlemad tingimused on nüüd eraldi terminite järel, punane ring ümber alast väljas oleva plussmärgi](images/detailotsing2.png)
+Pilt: Kirjeldatud otsing, mõlemad tingimused on nüüd eraldi terminite järel, punane ring ümber alast väljas oleva plussmärgi
 
 
 #### Detailotsingu kriteeriumide peitmine
@@ -242,20 +277,19 @@ Näite: **toomingas**
 
 Definitsiooni saab lisada mõistekirje ülaosast mõisteplokist.
 
-1. Vajutage kas **plussile kirja “Seletused” juures** (nagu alloleval näitel) või plussile paremal ülaosas, valides sealt väärtuseks “Mõiste seletus”.
+1. Vajutage kas **plussile kirja “Seletused” juures** (nagu alloleval näitel) või **plussile paremal ülaosas**, valides sealt väärtuseks **“Mõiste seletus”**.
 ![Pilt: Terminoloogia vaates Seletuse lisamine](images/def-1-oige.gif)  
 Pilt: Terminoloogia vaates Seletuse lisamine
-<!-- uus pilt-->
 
 2. Kopeerige või kirjutage soovitud definitsioon avanenud akna tekstiväljale.
-<!-- siia kirja mida need rõhk jms nupud kõik teevad ja mille jaoks need on. sellest gif ka -->
 
 3. Valige definitsiooni keel.
 
 4. Valige definitsiooni tüüp (terminitöös enamasti “definitsioon”).
 ![Pilt: Definitsiooni andmete lisamine](images/def-2.gif)  
 Pilt: Definitsiooni andmete lisamine
-<!-- uus pilt -->
+
+<!-- siia kirja mida need rõhk jms nupud kõik teevad ja mille jaoks need on. -->
 
 
 #### Allikaviite lisamine mõistekirjes
@@ -403,9 +437,9 @@ Kui mõiste on seotud mitme teise mõistega, saab luua ka mitu tähenduse seost.
 ![Pilt: Mõisteplokis paremal hall plussmärk](images/1-tahenduse-seos.gif)  
 Pilt: Mõisteplokis paremal hall plussmärk
 
-2. Valige avaneva akna rippmenüüst **“Tähenduse seos”**.
+2. Valige avaneva akna rippmenüüst **“Tähenduse seos”**. 
 ![Pilt: Rippmenüüst valik](images/2-tahenduse-seos.gif)  
-Pilt: Rippmenüüst valik <!-- kas siin peaks vajutama ka Lisa, ma eeldan?-->
+Pilt: Rippmenüüst valik
 
 3. Otsige termini järgi seotud kirjet ja looge sellega seos järgmiselt.
     1. **Trükkige avanevas aknas esimesele väljale termin, mille kirjega soovite seost luua, ja vajutage “Otsi”**. Alumises näites paiknen ise kirjes ükssarvik ja soovin luua seost kirjega idufirma.
@@ -532,9 +566,8 @@ Seejärel kirjeldame, kuidas saate näha kirjeid, mida just teie olete kindlas a
 
 #### Kõik terminibaasi kirjed korraga
 
-Kõiki mõistekirjeid korraga näeb siis, kui
+Kõiki mõistekirjeid korraga näeb siis, kui:
 
-<!-- seda võiks sammude piltidega täiendada äkki? -->
 1. minna terminoloogide otsingusse,
 2. siniselt ribalt valida detailotsing,
 3. **veenduda, et „Valitud sõnakogude“ alt on valitud soovitud terminibaas**;
