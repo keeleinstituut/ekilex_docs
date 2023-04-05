@@ -2,7 +2,6 @@
 
 <button>[Avaleht](/index.md)</button>
 <button>[Terminitöö sõnakoguga](/terminitoo.md)</button>
-<button>[Allikad](/allikad.md)</button>
 
 ## Terminitöö sõnakoguga
 
@@ -23,9 +22,14 @@
     - [Definitsiooni lisamine](#definitsiooni-lisamine)
     - [Allikaviite lisamine mõistekirjes](#allikaviite-lisamine-mõistekirjes)
       - [Mitmele allikale toetuva definitsiooni allikaviide](#mitmele-allikale-toetuva-definitsiooni-allikaviide)
-  - [Olemasolevasse mõistekirjesse lisamine](#olemasolevasse-mõistekirjesse-lisamine)    
-    - [Mitteavaliku sisemärkuse lisamine](#mitteavaliku-sisemärkuse-lisamine)
+  - [Olemasolevasse mõistekirjesse lisamine](#olemasolevasse-mõistekirjesse-lisamine)
+    - [Kirjesse märkuse lisamine](#kirjesse-märkuse-lisamine)
+      - [Mõiste märkus](#mõiste-märkus)
+      - [Definitsiooni märkus](#definitsiooni-märkus)
+      - [Termini (ilmiku) märkus](#termini-ilmiku-märkus)
+      - [Mitteavaliku sisemärkuse lisamine](#mitteavaliku-sisemärkuse-lisamine)
     - [Piltide lisamine tekstiväljadele](#piltide-lisamine-tekstiväljadele)
+    - [Üla- või alaindeksi lisamine](#üla--või-alaindeksi-lisamine)
     - [Mõistete omavahelise seose näitamine](#mõistete-omavahelise-seose-näitamine)
     - [Termini usaldusväärsuse märkimine](#termini-usaldusväärsuse-märkimine)
     - [Näitamine, et termin on eelistatud, vananenud või välditav](#näitamine-et-termin-on-eelistatud-vananenud-või-välditav)
@@ -193,8 +197,6 @@ Pilt: Terminite valikust sobivaima valimine
 6. Klõpsake sinisel nupul kirjaga **"Loo uus mõiste"**.  
 Misjärel luuakse **uus termin ja mõiste** ning kuvatakse need. 
 
-<!--siia pilt end resultist ja sinna kirja mis kõik nupud tähendavad?-->
-
 
 #### Mõiste definitsiooni vormijuhend
 
@@ -289,7 +291,7 @@ Pilt: Terminoloogia vaates Seletuse lisamine
 ![Pilt: Definitsiooni andmete lisamine](images/def-2.gif)  
 Pilt: Definitsiooni andmete lisamine
 
-<!-- siia kirja mida need rõhk jms nupud kõik teevad ja mille jaoks need on. -->
+<!-- siia kirja mida need rõhk jms nupud kõik teevad ja mille jaoks need on, aga alles pärast 1.29 update'i? -->
 
 
 #### Allikaviite lisamine mõistekirjes
@@ -387,7 +389,59 @@ Et leida oma terminibaasist termineid, mis võivad olla ühel väljal koma, semi
 Pilt: Terminoloogide vaate detailotsing: termin; väärtus; sisaldab; soovitud märk
 
 
-#### Mitteavaliku sisemärkuse lisamine
+#### Kirjesse märkuse lisamine
+
+Ekilexis saab mõistekirjesse lisada märkusi, millega saab mõiste, definitsiooni või termini kohta lisainfot anda. **Kuna mõiste definitsioon peaks olema ühelauseline, sobib märkuseväljale üldjuhul ka selline teave, mida tahaksite definitsiooni järele teiseks või kolmandaks lauseks lisada.**
+
+Erinevalt definitsioonist võiksid märkused olla **vormistatud täislausetena, mis algavad suure tähega ja lõppevad punktiga**. Ühele märkuseväljale võib lisada mitu lauset. **Igal märkusel võiks olla ka allikaviide**: juhul kui tegu on allikast kopeeritud teabega, peaks viitama sellele allikale, kui aga märkuse on lisanud terminikomisjoni esindaja, peaks viitama komisjonile.
+
+
+##### Mõiste märkus
+
+Mõiste märkuse väljale sobib enamasti teave, mis ei kommenteeri konkreetset terminit või definitsiooni ega selle sõnastust. **Tegu on lisainfoga, mis annab teavet nähtuse (mõiste) kui sellise kohta.**  
+<sub>(Kui mõiste ja termini erinevused on teile ebaselged, siis vaadake selle kohta lähemalt [siit](link sellele juhendis).)</sub>
+
+1. Mõiste märkust saab lisada **plussmärgist**, mis asub **kirje kõige ülemises paremas nurgas**:
+![Pilt: Plussmärk kirje nurgas](images/moiste-markus-1.gif)  
+Pilt: Plussmärk kirje nurgas
+
+2. Avanenud menüüst tuleks valida variant **“Märkus”**:
+![Pilt: Rippmenüüst variandi valimine](images/moiste-markus-2.gif)  
+Pilt: Rippmenüüst variandi valimine
+
+3. Seejärel avaneb tekstiväli, kuhu saate soovitud teksti sisestada.
+
+
+##### Definitsiooni märkus
+
+Definitsiooni märkuse väljale sobib enamasti teave, mis **kommenteerib definitsiooni või on sellega muul moel väga tihedalt seotud.**
+
+1. Definitsiooni märkust saab lisada, kui **minna kursoriga definitsiooni teksti peale** ning **vajutada halli märkmepaberi nuppu**:
+![Pilt: Seletuse kõrval ilmuvad nupud, keskmine neist hall](images/definitsiooni-markus.gif)  
+Pilt: Seletuse kõrval ilmuvad nupud, keskmine neist hall
+
+2. Seejärel avaneb tekstiväli, kuhu saate soovitud teksti sisestada.
+
+
+##### Termini (ilmiku) märkus
+
+Termini märkuse väljale sobib teave, mis **kommenteerib terminit**. Sinna võib kanda näiteks lisainfot selle kohta, kes termini esimest korda kasutusele võttis. Kui sama mõiste kohta on aga näiteks kasutusel kaks paralleelterminit, võib termini märkuste abil täpsustada seda, mis ringkonnas emb-kumb termin kasutusel on (juhul kui selline erinevus on teada).
+
+1. Termini märkust saab lisada **termini kõrval asuvast plussmärgist**:
+![Pilt: Termini kõrval asub plussmärk](images/termini-markus-1.gif)  
+Pilt: Termini paremal pool asub plussmärk
+<!-- kui seda loeb screenreader siis ei anna see mingit lisa infot... peaks kuidagi ikka paremini kirjeldama??-->
+
+2. Avanenud menüüst tuleks valida variant **“Ilmiku märkus”**:
+![Pilt: Rippmenüüst valida variant](images/termini-markus-2.gif)  
+Pilt: Rippmenüüst valida variant
+
+3. Seejärel avaneb tekstiväli, kuhu saate soovitud teksti sisestada.
+
+**Võimalik on lisada ka mitteavalikke märkusi**, mida väliskasutaja Sõnaveebis ei näe. Need tulevad kasuks siis, kui tegu on kommentaaridega, mis on mõeldud vaid terminibaasi koostajatele.
+
+
+##### Mitteavaliku sisemärkuse lisamine
 
 Nii terminite kui ka mõisteploki (kirje ülemine osa, mis sisaldab definitsioone, seotud termineid ja valdkondi) juurde saab lisada sisemärkusi, mis ei muutu Sõnaveebis avalikuks. Sisemärkustesse saab kirjutada teavet, mis on oluline vaid komisjonile endale.
 
@@ -422,6 +476,31 @@ Ekilexis saab mitteavalikuks muuta ka neid välju, mis on muidu avalikud (termin
 2. Pildi lisamiseks tuleb soovitud tekstivälja kastis vajutada sinist pildi lisamise nuppu. Seejärel tuleb kleepida aadressiväljale pildi avalik aadress. Kui kasutate näiteks pilveteenust, peab veenduma, et kopeeriksite just pildi avaliku jagamise aadressi.
 ![Pilt: Pildi lisamise nupp, aadressi kleepimine ja lisamine](images/1-pilt_tekstivaljale.gif)  
 Pilt: Pildi lisamise nupp, aadressi kleepimine ja lisamine
+
+
+#### Üla- või alaindeksi lisamine
+
+Ekilexis saab ala- ja ülaindekseid lisada nupu **„Lisa märgendus“** alt. Üla- ja alaindekseid saab lisada kõigile tekstiväljadele, kuhu on võimalik ise infot kirjutada: termin, definitsioon, kasutusnäide, märkus.
+
+1. Kõigepealt peaksite minema hiirega soovitud välja peale, millele indeksit lisada soovite (nt termin). Peaksite vajutama **tekkinud sinisele muutmisnupule.**
+![Pilt: Liikudes termini tekstile tekib muutmisnupp](images/margendus1.gif)  
+Pilt: Liikudes termini tekstile tekib muutmisnupp
+
+2. Seejärel peaksite **valima (märgistama) selle osa, mida üla- või alakirja panna soovite**.
+![Pilt: Tekstikastis tulevase alaindeksi märgistamine](images/margendus2.gif)  
+Pilt: Tekstikastis tulevase alaindeksi märgistamine sinisega
+
+3. Pärast seda peaksite vajutama kas **"ülaindeks"** või **"alaindeks"** nupule tööriistaribal.
+![Pilt: Sobiva indeksi valimine](images/margendus3.gif)  
+Pilt: Sobiva indeksi valimine
+
+5. Seejärel peaksite vajutama **„Salvesta“.**
+![Pilt: Salvesta nupu vajutus](images/margendus4.gif)  
+Pilt: Salvesta nupu vajutus
+
+Siis ilmub soovitud üla- või alaindeks kirjesse.
+![Pilt: Indeksiga termin](images/margendus6.png)  
+Pilt: Indeksiga termin
 
 
 #### Mõistete omavahelise seose näitamine
