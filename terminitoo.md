@@ -81,6 +81,8 @@ Kui teete Ekilexis otsinguid, võib mõnikord tulla lehekülgede kaupa vastuseid
 ![Pilt: Lehe all vasakul asuv lahter, kuhu saab lehe numbri sisestada](images/Mine-lehele.png)  
 Pilt: Lehe all vasakul asuv lahter, kuhu saab lehe numbri sisestada
 
+<sub>Allikas: [terminoloogia.ee](https://terminoloogia.ee/ufaqs/kuidas-minna-otsingutulemustes-kindlale-lehele/)</sub>
+
 
 #### Otsingutulemused tabelina
 
@@ -98,6 +100,8 @@ Pilt: Terminoloogide otsingus Tabelivaate avamine
 Pilt: Otsingu tulemused tabelivormis
 
 4. Tabelivaates on näha seletused, kirjes olevad terminid ja kasutusnäited. Samuti kuvatakse iga osise avalikkus(tabaluku ikoon).
+
+<sub>Allikas: [terminoloogia.ee](https://terminoloogia.ee/ufaqs/kuidas-naen-otsingutulemusi-tabelina/)</sub>
 
 
 #### Detailotsingu tegemine
@@ -134,6 +138,8 @@ Ekilexis on detailotsing, mis võimaldab terminibaasist kindlate kriteeriumide a
 ![Pilt: Detailotsingu peitmine](images/1-detotsing-peitmine.gif)  
 Pilt: Detailotsingu peitmine
 
+<sub>Allikas: [terminoloogia.ee](https://terminoloogia.ee/ufaqs/kuidas-peita-detailotsingu-kriteeriume/)</sub>
+
 ---
 
 ### Uus mõistekirje
@@ -159,6 +165,8 @@ Ekilexis on ühe mõiste kohta käiv teave (**sh terminid ja definitsioonid**) k
 
 ![Pilt: Terminoloogide kuva, üleval on eri definitsioonid, all üksteise järel terminid. Mõlemad need kokku on mõistekirje.](images/Moistekirje-naide.png)  
 Pilt: Terminoloogide kuva, üleval on eri definitsioonid, all üksteise järel terminid. Mõlemad need kokku on mõistekirje.
+
+<sub>Allikas: [terminoloogia.ee](https://terminoloogia.ee/ufaqs/mis-on-moiste-ja-mis-on-termin/)</sub>
 
 
 #### Uue mõistekirje loomine
@@ -196,6 +204,8 @@ Pilt: Terminite valikust sobivaima valimine
 
 6. Klõpsake sinisel nupul kirjaga **"Loo uus mõiste"**.  
 Misjärel luuakse **uus termin ja mõiste** ning kuvatakse need. 
+
+<sub>Allikas: [terminoloogia.ee](https://terminoloogia.ee/ufaqs/kuidas-lisada-ekilexi-uut-moistekirjet/)</sub>
 
 
 #### Mõiste definitsiooni vormijuhend
@@ -274,6 +284,8 @@ Näite: **toomingas**
     - :heavy_check_mark: valgete lõhnavate õiekobarate ja mustade või punaste luuviljadega lehtpuu või -põõsas
     - :x: lehtpuu
 
+<sub>Allikas: [terminoloogia.ee](https://terminoloogia.ee/ufaqs/milline-peaks-olema-moiste-definitsioon/)</sub>
+
 
 #### Definitsiooni lisamine
 
@@ -292,6 +304,8 @@ Pilt: Terminoloogia vaates Seletuse lisamine
 Pilt: Definitsiooni andmete lisamine
 
 <!-- siia kirja mida need rõhk jms nupud kõik teevad ja mille jaoks need on, aga alles pärast 1.29 update'i? -->
+
+<sub>Allikas: [terminoloogia.ee](https://terminoloogia.ee/ufaqs/kuidas-lisada-moistekirjesse-definitsiooni/)</sub>
 
 
 #### Allikaviite lisamine mõistekirjes
@@ -357,6 +371,8 @@ Nagu mainitud, peaks sõna „põhjal“ olema lisatud siseviite väljale. Sisev
 ![Pilt: Näide sellest, kuidas lisada mõistekirjes allikakirjele viidates siseviite reale sõna “põhjal”](images/image-1-1024x335.png)  
 Pilt: Näide sellest, kuidas lisada mõistekirjes allikakirjele viidates siseviite reale sõna “põhjal”
 
+<sub>Allikas: [terminoloogia.ee](https://terminoloogia.ee/ufaqs/kuidas-teha-ekilexis-allikaviide-sellisele-definitsioonile-mille-komisjon-on-koostanud-kas-uhest-voi-mitmest-allikast-lahtudes/)</sub>
+
 ---
 
 ### Olemasolevasse mõistekirjesse lisamine
@@ -387,6 +403,8 @@ Pilt:
 Et leida oma terminibaasist termineid, mis võivad olla ühel väljal koma, semikooloni või mõne muu märgiga eraldatud, võiksite kasutada järgmist otsingut:
 ![Pilt: Terminoloogide vaate detailotsing: termin; väärtus; sisaldab; soovitud märk](images/symbolid.png)  
 Pilt: Terminoloogide vaate detailotsing: termin; väärtus; sisaldab; soovitud märk
+
+<>Allikas: [terminoloogia.ee](https://terminoloogia.ee/ufaqs/kuidas-lisada-uut-terminit/) ja [terminoloogia.ee](https://terminoloogia.ee/ufaqs/miks-on-oluline-et-iga-termin-oleks-kantud-eraldi-valjale/)</sub>
 
 
 #### Kirjesse märkuse lisamine
@@ -440,6 +458,8 @@ Pilt: Rippmenüüst valida variant
 
 **Võimalik on lisada ka mitteavalikke märkusi**, mida väliskasutaja Sõnaveebis ei näe. Need tulevad kasuks siis, kui tegu on kommentaaridega, mis on mõeldud vaid terminibaasi koostajatele.
 
+<sub>Allikas: [terminoloogia.ee](https://terminoloogia.ee/ufaqs/kuidas-lisada-kirjesse-markusi/)</sub>
+
 
 ##### Mitteavaliku sisemärkuse lisamine
 
@@ -464,6 +484,8 @@ Pilt: Detailotsingu kasutamine sisemärkusega terminite otsimiseks
 
 Ekilexis saab mitteavalikuks muuta ka neid välju, mis on muidu avalikud (termin koos selle juures oleva teabega, definitsioon, kasutusnäide jm).
 
+<sub>Allikas: [terminoloogia.ee](https://terminoloogia.ee/ufaqs/kuidas-lisada-moistekirjesse-mitteavalikku-sisemarkust/)</sub>
+
 
 #### Piltide lisamine tekstiväljadele
 
@@ -476,6 +498,8 @@ Ekilexis saab mitteavalikuks muuta ka neid välju, mis on muidu avalikud (termin
 2. Pildi lisamiseks tuleb soovitud tekstivälja kastis vajutada sinist pildi lisamise nuppu. Seejärel tuleb kleepida aadressiväljale pildi avalik aadress. Kui kasutate näiteks pilveteenust, peab veenduma, et kopeeriksite just pildi avaliku jagamise aadressi.
 ![Pilt: Pildi lisamise nupp, aadressi kleepimine ja lisamine](images/1-pilt_tekstivaljale.gif)  
 Pilt: Pildi lisamise nupp, aadressi kleepimine ja lisamine
+
+<sub>Allikas: [terminoloogia.ee](https://terminoloogia.ee/ufaqs/kuidas-lisada-moistekirjesse-erisumbolitega-valemeid/)</sub>
 
 
 #### Üla- või alaindeksi lisamine
@@ -501,6 +525,8 @@ Pilt: Salvesta nupu vajutus
 Siis ilmub soovitud üla- või alaindeks kirjesse.
 ![Pilt: Indeksiga termin](images/margendus6.png)  
 Pilt: Indeksiga termin
+
+<sub>Allikas: [terminoloogia.ee](https://terminoloogia.ee/ufaqs/kuidas-lisada-ekilexis-ula-voi-alaindeksit/)</sub>
 
 
 #### Mõistete omavahelise seose näitamine
@@ -533,6 +559,8 @@ Pilt: Rippmenüüst valik
 ![Pilt: Tähenduse seos on pildil märgitud punase kastiga](images/4-tahenduse-seos.png)  
 Pilt: Tähenduse seos on pildil märgitud punase kastiga
 
+<sub>Allikas: [terminoloogia.ee](https://terminoloogia.ee/ufaqs/kuidas-luua-moiste-seost/)</sub>
+
 
 #### Termini usaldusväärsuse märkimine
 
@@ -551,6 +579,8 @@ Pilt: Rippmenüüst valik, järgmisel real valida väärtus
 3. Termini usaldusväärsushinnangut kuvatakse Ekilexis **tähekestega**.
 ![Pilt: Ilmiku all rida 5 tähekesega](images/3-usaldusvaarsuse-kuva.png)  
 Pilt: Ilmiku all rida 5 tähekesega
+
+<sub>Allikas: [terminoloogia.ee](https://terminoloogia.ee/ufaqs/kuidas-markida-termini-usaldusvaarsust/)</sub>
 
 
 #### Näitamine, et termin on eelistatud, vananenud või välditav
@@ -575,6 +605,8 @@ Pilt: Rippmenüüst valik
 ![Pilt: Termini kõrval kirjas väärtusolek](images/v22rtusolek4.png)  
 Pilt: Termini kõrval kirjas väärtusolek
 
+<sub>Allikas: [terminoloogia.ee](https://terminoloogia.ee/ufaqs/kuidas-naidata-et-moni-termin-on-eelistatud-vananenud-voi-valditav/)</sub>
+
 
 #### Pisiparanduste tegemine ilma muutmiskuupäeva muutusteta
 
@@ -584,6 +616,8 @@ Näiteks kui teil ei ole aega tervet kirjet üle vaadata ja sellesse süveneda, 
 - Pisiparanduste tegemise funktsiooni saab sisse ja välja lülitada **kirje allosas paremal pool asuvast sinisest nupust**.
 ![Pilt: Pisiparanduste funktsiooni sisse lülitamine](images/1-pisiparandused.gif)  
 Pilt: Pisiparanduste funktsiooni sisse lülitamine
+
+<sub>Allikas: [terminoloogia.ee](https://terminoloogia.ee/ufaqs/kuidas-teha-kirjesse-pisiparandusi/)</sub>
 
 ---
 
@@ -622,6 +656,8 @@ Pilt: Muutmisaknas "Avalik" eest linnukese eemaldamine ja Salvestamine
 
 **NB!** Kui muudate mingi välja mitteavalikuks ajutiselt, siis **ärge unustage seda hiljem taas avalikustada**.
 
+<sub>Allikas: [terminoloogia.ee](https://terminoloogia.ee/ufaqs/kuidas-saan-kirjete-osiseid-mitteavalikuks-muuta/)</sub>
+
 ---
 
 ### Mõistekirje dubleerimine
@@ -633,6 +669,8 @@ Pilt: Dubleerimise nupp kirje ülaosas
 
 **Kui mõiste on dubleeritud, ilmub duplikaat automaatselt eelmise mõistekirje kõrvale, kuid on sellegipoolest teine kirje**.  
 Ühes kirjes tehtavad muudatused kajastuvad vaid selles kirjes ega kandu automaatselt teise kirjesse: sisuliselt ongi tegu kahe eraldiseisva kirjega, milles on lihtsalt samasugune info.
+
+<sub>Allikas: [terminoloogia.ee](https://terminoloogia.ee/ufaqs/kuidas-moistekirjet-dubleerida//)</sub>
 
 ---
 
@@ -676,4 +714,6 @@ Pilt: Detailotsingu välja lõpus olev hall plussmärk
     3. *trükkida enda nimi*.
 ![Alt text](images/looja-muutja-1-1024x189.png)  
 Pilt: Detailotsingus lisatud real teistsugused valikud ja sisestatud nimi
+
+<sub>Allikas: [terminoloogia.ee](https://terminoloogia.ee/ufaqs/kuidas-naen-koiki-oma-terminibaasi-moistekirjeid-korraga/)</sub>
 
