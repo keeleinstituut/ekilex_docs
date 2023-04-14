@@ -1,3 +1,5 @@
+<base target="_blank">
+
 # Ekilexi kasutusjuhend
 
 <button>[Avaleht](/index.md)</button>
