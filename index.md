@@ -85,6 +85,7 @@ Sõnaveebi otsingutulemustes **kuvatakse ülevalpool üldkeelesõnastikus leiduv
     2. Muutmisõiguse taotlemise korral vajutage ka **"Soovin põhjendada taotlust"** ja kirjutage lahtrisse lühidalt, kuidas olete sõnakoguga seotud. **Põhjendus on kohustuslik**.
     3. Seejärel vajutage **"Saada taotlus"**.
     4. Nüüd tuleb oodata, kuni Ekilexi administraator annab teile küsitud õigused. **Selle kohta saadetakse e-kiri**. Pärast seda saate hakata Ekilexi kasutama. Kui olete õiguste saamise hetkel (e-kirja saabumise hetkel) Ekilexi sisse logitud, peate kõigepealt välja logima ja siis uuesti sisse logima, selleks, et õigused rakenduksid.
+<!-- kas on vaja uuendada 1.29.0 põhiselt? -->
 
 ---
 
@@ -92,27 +93,18 @@ Sõnaveebi otsingutulemustes **kuvatakse ülevalpool üldkeelesõnastikus leiduv
 
 Kui olete juba ekilexi vaatamisõiguse või mõne sõnakogu muutmisõigused omandanud, saate teiste sõnakogude õigusi omandada järgmiselt:
 
-<!-- Hetkel vaid testbaasis selline? -->
-<!--2. Profiilihalduse lehel on sinine nupp **"Esita uus taotlus"**. Sellele klõpsates avaneb taotluse saatmise aken. Pead **valima sõnakogu**, millele õiguseid taotleda, **kas soovid Muutja või Lugejaõigusi** ning **mis keeles**. Samuti tuleb lisada **põhjendus**, miks soovite sellele sõnakogule ligipääsu. Seejärel vajuta **"Saada taotlus"**.
-![Alt text](images/oiguse-taotlemine2.gif)  
-Pilt:-->
-
 1. Klõpsake üleval sinise riba paremal pool oma nimele ja avage **"Kasutaja profiili haldus"**.  
 <a href="images/oiguse-taotlemine1.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/oiguse-taotlemine1.gif" alt="Kasutaja klõpsamisel ilmuv rippmenüü" width="300"/></a>   
     Pilt: Kasutaja klõpsamisel ilmuv rippmenüü
 
-2. Profiilihalduse lehel on sinine nupp **"Esita uus taotlus"**. Sellele klõpsates avaneb **taotluse saatmise aken**. Seal saab lisada **põhjenduse**, miks soovite sõnakogudele ligipääsu. 
-<a href="images/oiguse-taotlemine2.0.gif" target="_blank" rel="noreferrer noopener">
-    <img src="images/oiguse-taotlemine2.0.gif" alt="Taotluse akna avamine ja põhjuse lisamine" width="700"/></a>  
-    Pilt: Taotluse akna avamine ja põhjuse lisamine
+<!-- Uuendatud 1.29.0 live põhiselt -->
+2. Profiilihalduse lehel on sinine nupp **"Esita uus taotlus"**. Sellele klõpsates avaneb taotluse saatmise aken. Pead **valima sõnakogu**, millele õiguseid taotleda, kas soovid **Muutja- või Lugejaõigusi** ning **mis keeles**. Samuti tuleb lisada **põhjendus**, miks soovite sellele sõnakogule ligipääsu. Seejärel vajuta **"Saada taotlus"**.  
+<a href="images/oiguse-taotlemine2.gif" target="_blank" rel="noreferrer noopener">
+    <img src="images/oiguse-taotlemine2.gif" alt="Taotluse akna avamine ja täitmine" width="700"/></a>  
+    Pilt: Taotluse akna avamine ja täitmine
 
-3. Vajutades nuppu **"Märgi sõnakogud, millele soovid õigusi"** avaneb nimekiri sõnakogudest. **Märgi linnukesega** need, millele soovid õigusi, ning vajuta **"Saada taotlus"**.  
-<a href="images/oiguse-taotlemine2.1.gif" target="_blank" rel="noreferrer noopener">
-    <img src="images/oiguse-taotlemine2.1.gif" alt="Vajutades nuppu tekstikasti all avaneb nimekiri, kus saab linnukesega märkida sõnakogud" width="700"/></a>  
-    Pilt: Vajutades nuppu tekstikasti all avaneb nimekiri, kus saab linnukesega märkida sõnakogud
-
-4. Taotluste info on näha "Esitatud õiguste taotlused" all.  
+3. Taotluste info on näha "Esitatud õiguste taotlused" all.  
 <a href="images/oiguse-taotlemine3.PNG" target="_blank" rel="noreferrer noopener">
     <img src="images/oiguse-taotlemine3.PNG" alt="Esitatud taotluse info tabelina" width="700"/></a>   
     Pilt: Esitatud taotluse info tabelina
