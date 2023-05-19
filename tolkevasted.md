@@ -81,6 +81,8 @@ Miks siit en ära kadus. am i going insane. katseta teine päev uuesti??
 
 ---
 
+#### uhh see. siltide seadistus
+
 ### Tõlkevastete tööprotssess ?
 Mitmekeelse sõnakogu koostamine toimub eelnevalt leitud vastekandidaatide alusel. Ekilexi on kindlasse sõnakogusse lisatud vastekandidaadid, mida kuvatakse tõlkevastete vaates ja nende kandidaatide kohta tuleb teha otsus, kas nad sobivad eestikeelsete märksõnade vasteks või mitte. 
 
@@ -97,6 +99,7 @@ kuidas koostada sõnastiku artiklit,
 - lohistan sõna õige termini(?) alla, 
 - tuleb ette aken kus saan kas valida vastava termini/seletuse, või luua uue homonüümi.
 
+peamine töökäik: otsid vaste, libistad vasakule, see kas läheb kohe sinna, või tuleb eraldi aken ja peab kas tegema uue homonüümi või valima ühe vastava olemasolevatest.
 
 ---
 
@@ -106,11 +109,13 @@ Tõlkevastete vaate otsing ja detailotsing funktsioneerivad samaviisi, kui teist
 
 ---
 
-#### Vastekandidaadi... noh mida need nupud teevad
+#### Vastekandidaadi... noh mida need nupud teevad, vb kustutada sektsioon?
 Märgi mittetegeletuks
 Märgi kinnitatuks
 Kustuta
-see slider??
+ülemised ei ole tegelt funktsionaalsed siin vaates? kuna on sünonüümidest kopeeritud?
+
+see slider - kitsam/laiem vasted.
 see graafiku asi??
 
 ---
@@ -123,14 +128,28 @@ see graafiku asi??
 
 mis NENDEL KAHEL vahet on.
 
+
 ##### Vastekandidaadi muutmine mõistekirjes
 vaste kaalu muutmine
-vaste detailsuse muutmine
+vaste detailsuse muutmine(nt keeleõppija veebis on näha lihtnedetailne märgiga sõnad, aga mitte detailne märgiga sõnad?)
 kustutamine (et see ei eemalda vastekandidaatide reast seda)
 liigutamine 
+
+### Laiema/kitsama lisamine
+
+#### Seletama mis laiema kitsama vahe on. võtta üks näide mis kristina mulle andis ja sellega läbi teha.
+
+peab slideri aktiveerima
+siis lohistama, tuleb uus aken
+siis enter/sisestama eestikeelne vaste? või sama sõna?
+saab lisada lühivihje, kuidas see on seotud teise sõnaga
+valida tähendused, mingi jama ka sellega?
+valida kumb on kitsam kumb laiem
+
+näitab selle suurem/väiksem võrdne märgiga termini all, kumb on
 
 ---
 
 #### Uue vastekandidaadi lisamine
-lic saab täiesti niisama ükskõik mis sõna lisada?
-Kirjeldada et see on vist ühine üle süsteemi mitte kasutajapõhine?
+saab lisada otse termini(?) all, seal see läheb aga kohe otsevasteks
+saab lisada paremal tulba kohal sõna, mis teeb selle vastekandidaadiks, mida saab switchiga muuta, et kas lisad selle otsevasteks või kitsam/laiem vasteks

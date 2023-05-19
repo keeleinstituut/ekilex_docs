@@ -91,7 +91,7 @@ Kui teete Ekilexis otsinguid, võib mõnikord tulla lehekülgede kaupa vastuseid
     <img src="images/Mine-lehele.png" alt="Lehe all vasakul asuv lahter, kuhu saab lehe numbri sisestada" width="400"/></a>  
     Pilt: Lehe all vasakul asuv lahter, kuhu saab lehe numbri sisestada
 
-*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-minna-otsingutulemustes-kindlale-lehele/" target="_blank">terminoloogia.ee</a></sub>*
+<!--*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-minna-otsingutulemustes-kindlale-lehele/" target="_blank">terminoloogia.ee</a></sub>*-->
 
 ---
 
@@ -114,7 +114,7 @@ Et tabelivaadet näha, käituge järgmiselt:
 
 4. Tabelivaates on näha **seletused**, kirjes olevad **terminid** ja **kasutusnäited**. Samuti kuvatakse iga osise avalikkus(tabaluku ikoon).
 
-*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-naen-otsingutulemusi-tabelina/" target="_blank">terminoloogia.ee</a></sub>*
+<!--*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-naen-otsingutulemusi-tabelina/" target="_blank">terminoloogia.ee</a></sub>*-->
 
 ---
 
@@ -168,7 +168,7 @@ Kui aga teha otsing nii, nagu näidatud alloleval pildil, siis otsitakse mõiste
 
 Et allika id-koodi järgi otsida, peab detailotsingust valima "miski" → "allika id kood" → "on" → ja trükkima või kleepima soovitud allikakirje koodi.
 
-*<sub>Allikas: <a href="https://terminoloogia.ee/2020/12/15/ekilexi-uusimad-voimalused-taienenud-detailotsingud-ja-muu/" target="_blank">terminoloogia.ee</a></sub>*
+<!--*<sub>Allikas: <a href="https://terminoloogia.ee/2020/12/15/ekilexi-uusimad-voimalused-taienenud-detailotsingud-ja-muu/" target="_blank">terminoloogia.ee</a></sub>*-->
 
 ---
 
@@ -181,7 +181,7 @@ Ekilexis on detailotsing, mis võimaldab terminibaasist kindlate kriteeriumide a
     <img src="images/1-detotsing-peitmine.gif" alt="Detailotsingu peitmine" width="700"/></a>    
     Pilt: Detailotsingu peitmine
 
-*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-peita-detailotsingu-kriteeriume/" target="_blank">terminoloogia.ee</a></sub>*
+<!--*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-peita-detailotsingu-kriteeriume/" target="_blank">terminoloogia.ee</a></sub>*-->
 
 ---
 
@@ -221,7 +221,7 @@ Ekilexis on ühe mõiste kohta käiv teave (**sh terminid ja definitsioonid**) k
     <img src="images/Moistekirje-naide.png" alt="Terminoloogide kuva, üleval on eri definitsioonid, all üksteise järel terminid, mõlemad need kokku on mõistekirje" width="700"/></a>    
     Pilt: Terminoloogide kuva, üleval on eri definitsioonid, all üksteise järel terminid, mõlemad need kokku on mõistekirje
 
-*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/mis-on-moiste-ja-mis-on-termin/" target="_blank">terminoloogia.ee</a></sub>*
+<!--*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/mis-on-moiste-ja-mis-on-termin/" target="_blank">terminoloogia.ee</a></sub>*-->
 
 ---
 
@@ -267,7 +267,7 @@ b. Kui sisestatud termin **juba esineb** olemasolevas sõnakogus, kuvab süsteem
     - Klõpsake sinisel nupul kirjaga **"Loo uus mõiste"**.  
     Misjärel luuakse uus termin ja mõiste ning kuvatakse need. 
 
-*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-lisada-ekilexi-uut-moistekirjet/" target="_blank">terminoloogia.ee</a></sub>*
+<!--*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-lisada-ekilexi-uut-moistekirjet/" target="_blank">terminoloogia.ee</a></sub>*-->
 
 ---
 
@@ -350,7 +350,7 @@ Näite: **toomingas**
     - ✔️ valgete lõhnavate õiekobarate ja mustade või punaste luuviljadega lehtpuu või -põõsas
     - ❌ lehtpuu
 
-*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/milline-peaks-olema-moiste-definitsioon/" target="_blank">terminoloogia.ee</a></sub>*
+<!--*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/milline-peaks-olema-moiste-definitsioon/" target="_blank">terminoloogia.ee</a></sub>*-->
 
 ---
 
@@ -377,7 +377,7 @@ Definitsiooni saab lisada mõistekirje ülaosast mõisteplokist.
     <img src="images/def-2.gif" alt="Definitsiooni andmete lisamine" width="600"/></a>   
     Pilt: Definitsiooni andmete lisamine
 
-*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-lisada-moistekirjesse-definitsiooni/" target="_blank">terminoloogia.ee</a></sub>*
+<!--*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-lisada-moistekirjesse-definitsiooni/" target="_blank">terminoloogia.ee</a></sub>*-->
 
 ---
 
@@ -453,7 +453,7 @@ Nagu mainitud, peab sõna "põhjal" olema lisatud siseviite väljale. Siseviidet
 
 Pilt: Näide sellest, kuidas lisada mõistekirjes allikakirjele viidates siseviite reale sõna "põhjal"
 
-*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-teha-ekilexis-allikaviide-sellisele-definitsioonile-mille-komisjon-on-koostanud-kas-uhest-voi-mitmest-allikast-lahtudes/" target="_blank">terminoloogia.ee</a></sub>*
+<!--*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-teha-ekilexis-allikaviide-sellisele-definitsioonile-mille-komisjon-on-koostanud-kas-uhest-voi-mitmest-allikast-lahtudes/" target="_blank">terminoloogia.ee</a></sub>*-->
 
 ---
 
@@ -489,7 +489,7 @@ Et leida oma terminibaasist termineid, mis võivad olla ühel väljal koma, semi
     <img src="images/symbolid.png" alt='Terminoloogide vaate detailotsing: termin; väärtus; sisaldab; soovitud märk' width="500"/></a>  
     Pilt: Terminoloogide vaate detailotsing: termin; väärtus; sisaldab; soovitud märk
 
-*<sub>Allikad: terminoloogia.ee <a href="https://terminoloogia.ee/ufaqs/kuidas-lisada-uut-terminit/" target="_blank">[1]</a> <a href="https://terminoloogia.ee/ufaqs/miks-on-oluline-et-iga-termin-oleks-kantud-eraldi-valjale/" target="_blank">[2]</a></sub>*
+<!--*<sub>Allikad: terminoloogia.ee <a href="https://terminoloogia.ee/ufaqs/kuidas-lisada-uut-terminit/" target="_blank">[1]</a> <a href="https://terminoloogia.ee/ufaqs/miks-on-oluline-et-iga-termin-oleks-kantud-eraldi-valjale/" target="_blank">[2]</a></sub>*-->
 
 ---
 
@@ -552,7 +552,7 @@ Termini märkuse väljale sobib teave, mis **kommenteerib terminit**. Sinna või
 
 **Võimalik on lisada ka mitteavalikke märkusi**, mida väliskasutaja Sõnaveebis ei näe. Need tulevad kasuks siis, kui tegu on kommentaaridega, mis on mõeldud vaid terminibaasi koostajatele.
 
-*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-lisada-kirjesse-markusi/" target="_blank">terminoloogia.ee</a></sub>*
+<!--*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-lisada-kirjesse-markusi/" target="_blank">terminoloogia.ee</a></sub>*-->
 
 ---
 
@@ -583,7 +583,7 @@ Pilt: Detailotsingu kasutamine sisemärkusega terminite otsimiseks
 
 Ekilexis saate mitteavalikuks muuta ka neid välju, mis on muidu avalikud (termin koos selle juures oleva teabega, definitsioon, kasutusnäide jm).
 
-*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-lisada-moistekirjesse-mitteavalikku-sisemarkust/" target="_blank">terminoloogia.ee</a></sub>*
+<!--*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-lisada-moistekirjesse-mitteavalikku-sisemarkust/" target="_blank">terminoloogia.ee</a></sub>*-->
 
 ---
 
@@ -598,7 +598,7 @@ Ekilexis saate mitteavalikuks muuta ka neid välju, mis on muidu avalikud (termi
     <img src="images/1-pilt_tekstivaljale.gif" alt='Pildi lisamise nupp, aadressi kleepimine ja lisamine' width="400"/></a>  
     Pilt: Pildi lisamise nupp, aadressi kleepimine ja lisamine
 
-*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-lisada-moistekirjesse-erisumbolitega-valemeid/" target="_blank">terminoloogia.ee</a></sub>*
+<!--*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-lisada-moistekirjesse-erisumbolitega-valemeid/" target="_blank">terminoloogia.ee</a></sub>*-->
 
 ---
 
@@ -631,7 +631,7 @@ Ekilexis saate ala- ja ülaindekseid lisada nupu **"Lisa märgendus"** alt. Üla
     <img src="images/margendus6.png" alt='Indeksiga termin' width="300"/></a>   
     Pilt: Indeksiga termin
 
-*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-lisada-ekilexis-ula-voi-alaindeksit/" target="_blank">terminoloogia.ee</a></sub>*
+<!--*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-lisada-ekilexis-ula-voi-alaindeksit/" target="_blank">terminoloogia.ee</a></sub>*-->
 
 ---
 
@@ -672,7 +672,7 @@ Kui mõiste on seotud mitme teise mõistega, saab luua ka mitu tähenduse seost.
     <img src="images/4-tahenduse-seos.png" alt='Tähenduse seos on pildil märgitud punase kastiga' width="500"/></a>  
     Pilt: Tähenduse seos on pildil märgitud punase kastiga
 
-*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-luua-moiste-seost/" target="_blank">terminoloogia.ee</a></sub>*
+<!--*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-luua-moiste-seost/" target="_blank">terminoloogia.ee</a></sub>*-->
 
 ---
 
@@ -727,7 +727,7 @@ Mõnikord võib aga näiteks üks termin olla eelistatum kui teine või soovite 
     <img src="images/v22rtusolek4.png" alt='Termini kõrval kirjas väärtusolek' width="350"/></a>  
     Pilt: Termini kõrval kirjas väärtusolek
 
-*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-naidata-et-moni-termin-on-eelistatud-vananenud-voi-valditav/" target="_blank">terminoloogia.ee</a></sub>*
+<!--*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-naidata-et-moni-termin-on-eelistatud-vananenud-voi-valditav/" target="_blank">terminoloogia.ee</a></sub>*-->
 
 ---
 
@@ -741,7 +741,7 @@ Näiteks kui teil ei ole aega tervet kirjet üle vaadata ja sellesse süveneda, 
     <img src="images/1-pisiparandused.gif" alt='Pisiparanduste funktsiooni sisse lülitamine' width="600"/></a>  
     Pilt: Pisiparanduste funktsiooni sisse lülitamine
 
-*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-teha-kirjesse-pisiparandusi/" target="_blank">terminoloogia.ee</a></sub>*
+<!--*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-teha-kirjesse-pisiparandusi/" target="_blank">terminoloogia.ee</a></sub>*-->
 
 
 ---
@@ -786,7 +786,7 @@ Teiste tekstiväljade avalikkust saate muuta kas neid lisades või muutes. **Sel
 
 **NB!** Kui muudate mingi välja mitteavalikuks ajutiselt, siis **ärge unustage seda hiljem taas avalikustada**.
 
-*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-saan-kirjete-osiseid-mitteavalikuks-muuta/" target="_blank">terminoloogia.ee</a></sub>*
+<!--*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-saan-kirjete-osiseid-mitteavalikuks-muuta/" target="_blank">terminoloogia.ee</a></sub>*-->
 
 ---
 
@@ -801,7 +801,7 @@ Mõistekirje dubleerimise funktsioon võib mõnikord kasuks tulla näiteks juhul
 Kui mõiste on dubleeritud, ilmub duplikaat automaatselt eelmise mõistekirje kõrvale, kuid on sellegipoolest teine kirje.  
 Ühes kirjes tehtavad muudatused kajastuvad vaid selles kirjes ega kandu automaatselt teise kirjesse: sisuliselt ongi tegu kahe eraldiseisva kirjega, milles on lihtsalt samasugune info.
 
-*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-moistekirjet-dubleerida/" target="_blank">terminoloogia.ee</a></sub>*
+<!--*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-moistekirjet-dubleerida/" target="_blank">terminoloogia.ee</a></sub>*-->
 
 ---
 
@@ -852,5 +852,5 @@ Kui soovite näha neid kirjeid, mida just **teie** olete kindlas ajavahemikus mu
     <img src="images/looja-muutja-1-1024x189.png" alt='Detailotsingus lisatud real teistsugused valikud ja sisestatud nimi' width="700"/></a>  
     Pilt: Detailotsingus lisatud real teistsugused valikud ja sisestatud nimi
 
-*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-naen-koiki-oma-terminibaasi-moistekirjeid-korraga/" target="_blank">terminoloogia.ee</a></sub>*
+<!--*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-naen-koiki-oma-terminibaasi-moistekirjeid-korraga/" target="_blank">terminoloogia.ee</a></sub>*-->
 
