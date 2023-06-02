@@ -375,7 +375,7 @@ Video: Allikakirje loomine Ekilexis-->
 **Eesti õigusaktid** leiate **Riigi Teatajast**. Õigusakti allikakirje jaoks vajalik info on valdavalt **õigusakti netiversiooni päises**.
 
 <a href="images/RLS_allikakirje.png" target="_blank" rel="noreferrer noopener">
-    <img src="images/RLS_allikakirje.png" alt='Näide õigusakti päisest - riigilõivuseadus' width="500"/></a> 
+    <img src="images/RLS_allikakirje.png" alt='Näide õigusakti päisest - riigilõivuseadus' width="500"/></a>     
     Pilt: Näide õigusakti päisest - <a href="https://www.riigiteataja.ee/akt/114032023032" target="_blank">riigilõivuseadus</a>
 
 Eesti õigusakti kohta koostatud allikakirjes võiksid täidetud olla järgmised väljad:
