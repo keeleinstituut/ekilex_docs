@@ -116,13 +116,15 @@ Mitmekeelse sõnakogu koostamine toimub eelnevalt leitud vastekandidaatide aluse
 <a href="images/tooprotsessiVaade.PNG" target="_blank" rel="noreferrer noopener">
     <img src="images/tooprotsessiVaade.PNG" alt="?" width="900"/></a>   
     <!--Pilt: ??-->
+Samuti on vaja otsustada, kas tõlkevaste on terminiga võrdne, või on vaja lisada see laiema või kitsama vastena.
 
+(
 kuidas koostada sõnastiku artiklit, 
 - otsin eesti märksõna, 
 - vaatan üle teiskeelsed vastekandidaadid(mis peaks ilmuma), 
 - lohistan sõna õige termini(?) alla, 
 - tuleb ette aken kus saan kas valida vastava termini/seletuse, või luua uue homonüümi.
-
+)
 ---
 
 #### Otsing
@@ -133,31 +135,31 @@ Tõlkevastete vaate otsing ja detailotsing funktsioneerivad samaviisi/samamoodi?
 
 ---
 
-#### Vastekandidaatide lisamine mõistekirjesse
+#### Võrdse vastekandidaadi lisamine mõistekirjesse
 
 1. Avage töölaual link **"Tõlkevasted"**.
 
 2. **Sisestage otsisõna**. Kasutada võite **metamärke**. Vajutage **"Otsi"**.
 
-3. Valige paremal vastekandidaatide tulbast sobiv vaste, ning lohistage hiirt all hoides see õige ilmiku juurde. Mõnel vastekandidaadil võib olla näha inglise keelne kirjeldus ja selle allikas.
+3. Valige paremal vastekandidaatide tulbast sobiv vaste, ning lohistage hiirenuppu all hoides see õige termini juurde. Mõnel vastekandidaadil võib olla näha inglise keelne kirjeldus ja selle allikas.
 
-a. Kui valitud vaste **ei esine** homonüümina üheski olemasolevas sõnakogus, siis lisandub see ?????????? kogusse? tee selgeks  
+    a. Kui valitud vaste **ei esine** homonüümina üheski olemasolevas sõnakogus, siis lisandub see ?????????? kogusse? tee selgeks  
 <a href="images/vasteTostmine1.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/vasteTostmine1.gif" alt="?" width="800"/></a>   
     <!--Pilt: ??-->
 
-b. Kui sisestatud keelend **juba esineb** olemasolevas sõnakogus, kuvab süsteem teile sama kujuga keelendid ja nende kirjed, mis on teistesse sõnastikesse ja terminibaasidesse lisatud.  
+    b. Kui sisestatud keelend **juba esineb** olemasolevas sõnakogus, kuvab süsteem teile sama kujuga keelendid ja nende kirjed, mis on teistesse sõnastikesse ja terminibaasidesse lisatud.  
 Tehke linnuke selle tähendusega keelendi ette, mis sarnaneb teie omaga enim.  
 <a href="images/vasteTostmine3.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/vasteTostmine3.gif" alt="?" width="800"/></a>   
     <!--Pilt: ??-->
 
-c. Kui ükski neist ei sarnane, saate teha keelendi ka uueks homonüümiks.  
+    c. Kui ükski neist ei sarnane, saate teha keelendi ka uueks homonüümiks.  
 <a href="images/vasteTostmine2.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/vasteTostmine2.gif" alt="?" width="800"/></a>   
     <!--Pilt: ??-->
 
-Mõte on, et ei tekitaks juurde uusi homonüüme ilmaasjata. ??
+Mõte on, et ei tekitaks juurde uusi homonüüme ilmaasjata. ??Paremini sõnastada.
 
 Vastekandidaatide tulbas, keelendi juures oleva graafiku ikooni peale minnes, on näha vastekandidaadi kaal. Mida suurem number, seda usaldusväärsemast allikast on see pärit. Kõrgem number on sõnaraamatutest ja terminikogudest pärinevatel keelenditel, madalam aga nendel, mis on tõlkemäludest ja keelekorpustest. ???  
 <a href="images/keelendiKaal.PNG" target="_blank" rel="noreferrer noopener">
@@ -172,51 +174,49 @@ Samuti saab lisada vastekandidaate vastava keele lühendi kõrvalt plussmärki v
 ---
 
 ##### Vastekandidaadi muutmine mõistekirjes
-vaste kaalu muutmine
+
+Kui tõlkevasteid on juba lisatud, saab neid mõistekirjes ka muuta.
+
+Liikudes hiirega tõlkevaste peale, saate vajutada ruuduga ümbritsetud pliiatsi ikoonile, misjärel avaneb vaste kaalu muutmise aken. Selles saate muuta komaga arvu, et suurendada või vähendada vaste kaalu. See ei ilmu sõnvaveebis ja on vaid süsteemisisene märge/muutuja(???).
 <a href="images/vasteMuutmineKaal.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/vasteMuutmineKaal.gif" alt="?" width="500"/></a>   
     <!--Pilt: ??-->
 
-vaste detailsuse muutmine(nt keeleõppija veebis on näha lihtnedetailne märgiga sõnad, aga mitte detailne märgiga sõnad?)
+Liikudes hiirega tõlkevaste peale, saate vajutada allasuunavale/näitavale noole ikoonile, mis avab rippmenüü vaste lihtsuse muutmise jaoks. "Lihtne" ja "Lihtne/Detailne" märgiga vasted on nähtaval keeleõppija sõnaveebis, "Detailne" märgiga aga mitte(kas sain õigesti aru??).
 <a href="images/vasteMuutmineDetailsus.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/vasteMuutmineDetailsus.gif" alt="?" width="500"/></a>   
     <!--Pilt: ??-->
 
-oluline töörühma koostamise puhul: on näha kas keelend ise on avalik, ja kas on lihtne või detailne. rühm alustab keeleõppijate sõnadega, seega kui tulevad alla vasted siis muuta et on lihtne/detailne, mitte lihtsalt lihtne.
-
-kustutamine (et see ei eemalda vastekandidaatide reast seda)
+Liikudes hiirega tõlkevaste peale, saate vajutada kollasele x nupule, et kustutada vaste selle termini alt. See toiming ei kustuta vastet parempoolsest vastekandidaatide reast.
 <a href="images/vasteKustutamineKirjest.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/vasteKustutamineKirjest.gif" alt="?" width="500"/></a>   
     <!--Pilt: ??-->
 
-liigutamine 
+Liikudes hiirega tõlkevaste peale, saate lõpus oleva ristnoolte(???) ikooni peal vajutades ja lohistades liigutada vastet, et muuta sõnade ilmumise järjekorda sõnaveebis. 
 <a href="images/vasteLiigutamineKirjes.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/vasteLiigutamineKirjes.gif" alt="?" width="500"/></a>   
     <!--Pilt: ??-->
 
 ---
 
-#### Vastekandidaadi... noh mida need nupud teevad, vb kustutada sektsioon?
+#### Vastekandidaadi nupufunktsioonid (??)
 
-Vastekandidaadi juures on sünonüümivaatest üle kantud nupud. 
+Paremas tulbas iga vastekandidaadi juures on sünonüümivaatest üle kantud nupud. 
 Nendega saab märkida vaste mittetegeletuks, kinnitatuks või kustutatuks(lükata nimekirja lõppu). Tõlkevastete vaates nendel hetkel funktsionaalsus puudub, kuna sõnakogu on mitteavalik, ning ei ilmu sõnaveebis.  
 <a href="images/kandidaatideNupud1.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/kandidaatideNupud1.gif" alt="?" width="300"/></a>   
     <!--Pilt: ??-->
 
-ainus oluline on kitsama/laiema nupp. 
-see slider - kitsam/laiem vasted.
+Ainus oluline nupp siin on hall lüliti, mille kasutus on kirjeldatud järgmises peatükis.
 <a href="images/kandidaatideNupudKitsamLaiem.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/kandidaatideNupudKitsamLaiem.gif" alt="?" width="300"/></a>   
     <!--Pilt: ??-->
-mille kasutusest räägin lähemalt järgmises[link]
-
 
 ---
 
-### Laiema/kitsama lisamine
+#### Laiema/kitsama lisamine
 
-#### Seletama mis laiema kitsama vahe on. võtta üks näide mis kristina mulle andis ja sellega läbi teha.
+##### Seletama mis laiema kitsama vahe on. võtta üks näide mis kristina mulle andis ja sellega läbi teha.
 näide tavalisest tõstmisest
 ![Alt text](images/vastekandidaadiTavalineTostmine.gif)
 
@@ -235,7 +235,7 @@ Kristina aitab läbi närida.
 
 vaata koosoleku märkmeid et kirjeldada
 
-peab slideri aktiveerima
+peab toggle switchi aktiveerima
 siis lohistama, tuleb uus aken
 siis enter/sisestama eestikeelne vaste? või sama sõna?
 saab lisada lühivihje, kuidas see on seotud teise sõnaga
@@ -246,7 +246,7 @@ näitab selle suurem/väiksem võrdne märgiga termini all, kumb on
 
 ---
 
-#### Uue vastekandidaadi lisamine
+##### Uue vastekandidaadi lisamine
 Võib juhtuda, et kandidaatide all ei ole ühtegi vastet.
 saab lisada otse termini(?) all, seal see läheb aga kohe otsevasteks
 saab lisada paremal tulba kohal sõna, mis teeb selle vastekandidaadiks, mida saab switchiga muuta, et kas lisad selle otsevasteks või kitsam/laiem vasteks
