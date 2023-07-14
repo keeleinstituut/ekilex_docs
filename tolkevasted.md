@@ -141,27 +141,29 @@ Tõlkevastete vaate otsing ja detailotsing funktsioneerivad samaviisi/samamoodi?
 
 2. **Sisestage otsisõna**. Kasutada võite **metamärke**. Vajutage **"Otsi"**.
 
-3. Valige paremal vastekandidaatide tulbast sobiv vaste, ning lohistage hiirenuppu all hoides see õige termini juurde. Mõnel vastekandidaadil võib olla näha inglise keelne kirjeldus ja selle allikas.
+3. Valige paremal vastekandidaatide tulbast sobiv vaste, ning lohistage hiirenuppu all hoides see õige termini juurde.
 
-    a. Kui valitud vaste **ei esine** homonüümina üheski olemasolevas sõnakogus, siis lisandub see ?????????? kogusse? tee selgeks  
+    - Kui valitud vaste **ei esine** homonüümina üheski olemasolevas sõnakogus, siis lisandub see otsekohe vastena.
 <a href="images/vasteTostmine1.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/vasteTostmine1.gif" alt="?" width="800"/></a>   
     <!--Pilt: ??-->
 
-    b. Kui sisestatud keelend **juba esineb** olemasolevas sõnakogus, kuvab süsteem teile sama kujuga keelendid ja nende kirjed, mis on teistesse sõnastikesse ja terminibaasidesse lisatud.  
-Tehke linnuke selle tähendusega keelendi ette, mis sarnaneb teie omaga enim.  
+4. Kui sisestatud keelend **juba esineb** olemasolevas sõnakogus, tavaliselt vähemalt Ühendsõnastikus, avaneb uus aken "Vali sobiv keelend või loo uus". Siin kuvab süsteem teile sama kujuga homonüümid ja nende kirjed, mis on teistesse sõnastikesse ja terminibaasidesse lisatud.  
+
+    1. Tehke linnuke selle tähendusega keelendi ette, mis sarnaneb teie omaga enim, ning vajutage "Vali keelend", et see lisanduks otsevastena kirjesse.  
 <a href="images/vasteTostmine3.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/vasteTostmine3.gif" alt="?" width="800"/></a>   
     <!--Pilt: ??-->
 
-    c. Kui ükski neist ei sarnane, saate teha keelendi ka uueks homonüümiks.  
+    2. Kui ükski neist ei sarnane, saate teha keelendi ka uueks homonüümiks, vajutades "Loo uus homonüüm".  
 <a href="images/vasteTostmine2.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/vasteTostmine2.gif" alt="?" width="800"/></a>   
     <!--Pilt: ??-->
 
-Mõte on, et ei tekitaks juurde uusi homonüüme ilmaasjata. ??Paremini sõnastada.
+Iga uue homonüümi loomisel läheb see ka nüüd valitavate homonüümide nimekirja. Mõte on, et ei tekitataks juurde uusi homonüüme ilmaasjata. (?????)
 
-Vastekandidaatide tulbas, keelendi juures oleva graafiku ikooni peale minnes, on näha vastekandidaadi kaal. Mida suurem number, seda usaldusväärsemast allikast on see pärit. Kõrgem number on sõnaraamatutest ja terminikogudest pärinevatel keelenditel, madalam aga nendel, mis on tõlkemäludest ja keelekorpustest. ???  
+
+Vastekandidaatide tulbas, keelendi juures oleva graafiku ikooni peale minnes, on näha vastekandidaadi kaal. Mida suurem number, seda usaldusväärsemast allikast on see pärit. Kõrgem number on sõnastikest ja terminikogudest pärinevatel keelenditel, madalam aga nendel, mis on tõlkemäludest ja avalikest keelekorpustest.  
 <a href="images/keelendiKaal.PNG" target="_blank" rel="noreferrer noopener">
     <img src="images/keelendiKaal.PNG" alt="?" width="400"/></a>   
     <!--Pilt: ??-->
@@ -173,7 +175,7 @@ Samuti saab lisada vastekandidaate vastava keele lühendi kõrvalt plussmärki v
 
 ---
 
-##### Vastekandidaadi muutmine mõistekirjes
+##### Vaste muutmine mõistekirjes
 
 Kui tõlkevasteid on juba lisatud, saab neid mõistekirjes ka muuta.
 
@@ -192,7 +194,7 @@ Liikudes hiirega tõlkevaste peale, saate vajutada kollasele x nupule, et kustut
     <img src="images/vasteKustutamineKirjest.gif" alt="?" width="500"/></a>   
     <!--Pilt: ??-->
 
-Liikudes hiirega tõlkevaste peale, saate lõpus oleva ristnoolte(???) ikooni peal vajutades ja lohistades liigutada vastet, et muuta sõnade ilmumise järjekorda sõnaveebis. 
+Liikudes hiirega tõlkevaste peale, saate lõpus oleva ristnoolte(???) ikooni peal vajutades ja lohistades liigutada vastet, et muuta sõnade ilmumise järjekorda sõnaveebis.  
 <a href="images/vasteLiigutamineKirjes.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/vasteLiigutamineKirjes.gif" alt="?" width="500"/></a>   
     <!--Pilt: ??-->
@@ -202,60 +204,88 @@ Liikudes hiirega tõlkevaste peale, saate lõpus oleva ristnoolte(???) ikooni pe
 #### Vastekandidaadi nupufunktsioonid (??)
 
 Paremas tulbas iga vastekandidaadi juures on sünonüümivaatest üle kantud nupud. 
-Nendega saab märkida vaste mittetegeletuks, kinnitatuks või kustutatuks(lükata nimekirja lõppu). Tõlkevastete vaates nendel hetkel funktsionaalsus puudub, kuna sõnakogu on mitteavalik, ning ei ilmu sõnaveebis.  
+Nendega saate märkida vaste mittetegeletuks, kinnitatuks või kustutatuks(lükata nimekirja lõppu). Tõlkevastete vaates nendel hetkel funktsionaalsus puudub, kuna sõnakogu on mitteavalik, ning ei ilmu sõnaveebis.  
 <a href="images/kandidaatideNupud1.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/kandidaatideNupud1.gif" alt="?" width="300"/></a>   
     <!--Pilt: ??-->
 
-Ainus oluline nupp siin on hall lüliti, mille kasutus on kirjeldatud järgmises peatükis.
+Ainus oluline nupp siin on hall lüliti, mille kasutus on kirjeldatud järgmises peatükis.  
 <a href="images/kandidaatideNupudKitsamLaiem.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/kandidaatideNupudKitsamLaiem.gif" alt="?" width="300"/></a>   
     <!--Pilt: ??-->
 
 ---
 
-#### Laiema/kitsama lisamine
+#### Laiema/kitsama tõlkevaste tähendus
 
-##### Seletama mis laiema kitsama vahe on. võtta üks näide mis kristina mulle andis ja sellega läbi teha.
-näide tavalisest tõstmisest
-![Alt text](images/vastekandidaadiTavalineTostmine.gif)
+<!-- ???????????????????????????? -->
+Tõlkevasted saavad olla terminiga kas võrdsed, sellest kitsama tähendusega, või sellest laiema tähendusega.
+Võrdse(??) tähendusega vaste on sama tähendusega kui termin. Näiteks viski ja whiskey
+(lisa pilt?)
 
-1.
-![Alt text](images/vastekandidaadiKLTostmine.gif)
-2.
-![Alt text](images/vastekandidaadiKLTahendus1.gif)
-3.
-![Alt text](images/vastekandidaadiKLTahendus2.gif)
+Kitsama tähendusega vaste on... nagu termini alamliik?? On spetsiifilisema tähendusega. Näiteks viski vaste bourbon, mis on viski, aga spetsiifilisema tähendusega (Ameerika viski) ehk Ameerikas tehtud. 
+(lisa pilt??)
 
-kitsama ja laiema erinevuse kirjeldamine ?
-Kitsama või laiema tähenduse märkimine: SÕnade tähendusväljad eri keeltes erinevad
-poegima - inglise keeles pole, aga iga looma kohta on eri sõnad(), inglise tähendused on kitsama tähendusega, kuna käivad spetsiifilisema asja kohta
-poegima on laiem tähendus
-Kristina aitab läbi närida.
+Laiema tähendusega vaste on nagu ülemliik?? Katusetermin. Mis on noh laiema tähendusega. Näiteks viski on alkohoolne jook, aga alkoholi alla lähevad ka paljud teised mõisted, nii et "alcohol" oleks laiema tähendusega. 
+(kas ma saan siia pilti lisada..)
 
-vaata koosoleku märkmeid et kirjeldada
+?? kas ma sain õigesti aru? Kas see on üldse midagi mida ma peaks leksikograafidele ette kirjutama või teavad nad juba palju paremini kui ma kuidas see täpselt käib.
+also kas ma teeks nende kohta hoopis mingi joonise? a-la termini ja mõiste erinevus
 
-peab toggle switchi aktiveerima
-siis lohistama, tuleb uus aken
-siis enter/sisestama eestikeelne vaste? või sama sõna?
-saab lisada lühivihje, kuidas see on seotud teise sõnaga
-valida tähendused, mingi jama ka sellega?
-valida kumb on kitsam kumb laiem
+##### Laiema/kitsama vaste lisamine
 
-näitab selle suurem/väiksem võrdne märgiga termini all, kumb on
+Kui vastekandidaat ei ole terminile täpselt vastav, vaid kitsam või laiem, saab seda nii ka mõistekirjes märkida.
+
+äkki kaks viisi, et üks kui on täpne eestikeelne vaste olemas, ja teine kui ei ole?? saab ka lic vajutada enterit???
+
+1. Enne kandidaadi termini peale lohistamist klõpsake lüliti paremale poole, et see muutub siniseks. Seejärel lohistage vastekandidaat termini juurde. Avaneb uus aken tähenduse valimise jaoks.  
+<a href="images/vastekandidaadiKLTostmine.gif" target="_blank" rel="noreferrer noopener">
+    <img src="images/vastekandidaadiKLTostmine.gif" alt="?" width="800"/></a>   
+    <!--Pilt: ??-->
+
+2. **Tähenduse valimine**  
+Sisestage lahtrisse tõlkevaste eestikeelne tähendus, või tähenduse kirjeldus. Valige sobiv eestikeelne tähenduse vaste ja vajutage "Järgmine samm". Kui sobivat tähendust ei leidu, vajutage "Sobiv tähendus puudub, loon uue" ja siis "Järgmine samm".  
+<a href="images/vastekandidaadiKLTahendus1.gif" target="_blank" rel="noreferrer noopener">
+    <img src="images/vastekandidaadiKLTahendus1.gif" alt="?" width="800"/></a>   
+    <!--Pilt: ??-->
+
+3. **Tähenduse täiendamine**  
+On võimalik, et tõlke- või eestikeelne vaste vajab täiendamist, ka siis kui ei vajutatud eelmisel lehel "Sobiv tähendus puudub, loon uue". Mõlemal juhul saate "Tähenduse täiendamine" lehel valida ühele või mõlemale keelendile sobivaima tähenduse, või hoopis luua uue. (????)
+<a href="images/vastekandidaadiKLTahendus3.gif" target="_blank" rel="noreferrer noopener">
+    <img src="images/vastekandidaadiKLTahendus3.gif" alt="?" width="800"/></a>   
+    <!--Pilt: ??-->
+
+4. **Tähenduse seose loomine**  
+Saate valida tähenduse seose, kas lisatav vaste on algterminist kitsam või laiem. Vajutage "Loo tähenduse seos".
+<a href="images/vastekandidaadiKLTahendus2.gif" target="_blank" rel="noreferrer noopener">
+    <img src="images/vastekandidaadiKLTahendus2.gif" alt="?" width="800"/></a>   
+    <!--Pilt: ??-->
+
+Kui eestikeelse vaste lisamisel jätsite lahtri tühjaks, siis teisel sammul "Tähenduse täiendamine" küsitakse teilt ka "Lühivihje" lisamist. See võib olla näiteks lühikirjeldus terminist, mis viitab selle seosele katusmõistega.
+<a href="images/tuhiEestiVaste.gif" target="_blank" rel="noreferrer noopener">
+    <img src="images/tuhiEestiVaste.gif" alt="?" width="800"/></a>   
+    <!--Pilt: ??-->
 
 ---
 
 ##### Uue vastekandidaadi lisamine
-Võib juhtuda, et kandidaatide all ei ole ühtegi vastet.
-saab lisada otse termini(?) all, seal see läheb aga kohe otsevasteks
-saab lisada paremal tulba kohal sõna, mis teeb selle vastekandidaadiks, mida saab switchiga muuta, et kas lisad selle otsevasteks või kitsam/laiem vasteks
 
-kui pole kandidaatide all olemas vastet, siis saab ise lisada. soovitatav kasutada seda mis on paremal üleval, kuna see mis on sõna juures, sealt saab lisada ainult otsevasteid, mitte kitsamaid ja laiemaid
+Kui automaatselt tuvastatud kandidaatide seas pole sobivat vastet, saab selle ise käsitsi lisada.
 
+Saab lisada kandidaadi otse keelendi juures(?). Sealt lisades läheb see automaatselt ainult otsevasteks.   
+<a href="images/uueVastekandidaadiLisamine1.gif" target="_blank" rel="noreferrer noopener">
+    <img src="images/uueVastekandidaadiLisamine1.gif" alt="?" width="800"/></a>   
+    <!--Pilt: ??-->
+
+Saab ka lisada kandidaati paremal tulba kohal olebast plussmärgist. See viis lisab selle vastekandidaatide tulpa, ning võimaldab lisada seda nii otsevastena kui ka kitsama või laiema vastena.   
+<a href="images/uueVastekandidaadiLisamine2.gif" target="_blank" rel="noreferrer noopener">
+    <img src="images/uueVastekandidaadiLisamine2.gif" alt="?" width="800"/></a>   
+    <!--Pilt: ??-->
 ---
 
-### ??
+### Keelendiga töö lõpetamine
 
-kui on sõna tehtud, siis vajutad nuppu märgi tehtuks. siis tekib tõlkevaste valmis silt. see on tööprotsessi jälgimise mõttes, et märkida kes mis kui palju teinud on.
-see oli siis see miks seadetes selle sildi asja ära muutsime.
+Koostamisel, kui vasted on kõik lohistatud ja sõnaga on tegeletud, siis vajutada nuppu "Märgi tehtuks". Siis tekib keelendile "tõlkevaste valmis" silt. See on töö protsessi jälgimise mõttes.   
+<a href="images/tolkevasteValmis.gif" target="_blank" rel="noreferrer noopener">
+    <img src="images/tolkevasteValmis.gif" alt="?" width="800"/></a>   
+    <!--Pilt: ??-->
