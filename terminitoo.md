@@ -848,3 +848,8 @@ Kui soovite näha neid kirjeid, mida just **Teie** olete kindlas ajavahemikus mu
 
 <!--*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-naen-koiki-oma-terminibaasi-moistekirjeid-korraga/" target="_blank">terminoloogia.ee</a></sub>*-->
 
+Küsimuste korral kirjuta [kasutajatugi@ekilex.ee](mailto:kasutajatugi@ekilex.ee)!
+
+
+Süsteemi alles arendatakse, mistõttu juhend täieneb.  
+Andke julgelt juhendi kohta tagasisidet aadressil (kas ma panen oma emaili siia???)
